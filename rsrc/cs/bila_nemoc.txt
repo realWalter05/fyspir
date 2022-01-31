@@ -1,0 +1,2382 @@
+Půjčujeme:
+
+knihy / časopisy / noviny / mluvené slovo /
+hudbu / filmy / noty / obrazy / mapy
+
+Zpřístupňujeme:
+
+wi-fi zdarma / e-knihy / on-line encyklopedie /
+e-zdroje o výtvarném umění, hudbě, filmu
+
+Pořádáme:
+
+setkání s autory / přednášky / koncerty /
+filmová představení / výstavy /
+aktivity pro děti a jejich rodiče / čtení
+
+www.mlp.cz
+
+knihovna@mlp.cz
+www.facebook.com/knihovna
+www.e-knihovna.cz
+
+Bílá nemoc
+Karel Čapek
+
+Znění tohoto textu vychází z díla Bílá nemoc tak, jak bylo vydáno
+v Praze nakladatelstvím Československý spisovatel v roce 1994. Pro
+potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
+
+Text díla (Karel Čapek: Bílá nemoc), publikovaného Městskou knihovnou v Praze, není
+vázán autorskými právy.
+
+Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je
+Městská knihovna v Praze, podléhá licenci Creative Commons Uveďte autoraNevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko.
+
+Verze 1.0 z 19. 1. 2018.
+
+OBSAH
+Předmluva vydavatele ............................................................................................ 6
+Předmluva ................................................................................................................... 8
+OSOBY......................................................................................................................... 11
+JEDNÁNÍ PRVNÍ Dvorní rada ............................................................................ 13
+Obraz první.......................................................................................................... 13
+Obraz druhý ........................................................................................................ 15
+Obraz třetí ............................................................................................................ 29
+Obraz čtvrtý......................................................................................................... 33
+Obraz pátý............................................................................................................ 39
+JEDNÁNÍ DRUHÉ Baron Krüg ........................................................................... 51
+Obraz první.......................................................................................................... 51
+Obraz druhý ........................................................................................................ 56
+Obraz třetí ............................................................................................................ 59
+Obraz čtvrtý......................................................................................................... 64
+Obraz pátý............................................................................................................ 68
+Obraz šestý .......................................................................................................... 73
+JEDNÁNÍ TŘETÍ Maršál ....................................................................................... 79
+Obraz první.......................................................................................................... 79
+Obraz druhý ........................................................................................................ 82
+Obraz třetí ............................................................................................................ 94
+Ediční poznámka.................................................................................................... 96
+Život a doba spisovatele Karla Čapka v datech ......................................... 97
+První vydání knih Karla Čapka ......................................................................... 99
+
+Předmluva vydavatele
+Spisovateli Karlu Čapkovi patří v české literatuře 20. století jedno z nejvýznamnějších míst. Jeho čtenářská obliba je veliká a neklesá ani s postupem času. Právě to byl také důvod, proč bylo jeho dílo vybráno ke
+zpracování do elektronické podoby v samých začátcích digitalizace
+v Městské knihovně v Praze.
+Snaha zpřístupnit Karla Čapka co nejširší čtenářské obci vyústila
+v roce 2009 ve společný projekt Městské knihovny v Praze, Společnosti
+bratří Čapků, Památníku Karla Čapka a Českého národního korpusu,
+v jehož rámci se podařilo zveřejnit 53 titulů – původních děl Karla
+Čapka. Za projekt „Karel Čapek on-line“ získala MKP ocenění v soutěži
+Knihovna roku v kategorii „významný počin v oblasti poskytování veřejných knihovnických a informačních služeb“.
+Nyní po devíti letech se k vydání souborného Čapkova díla vracíme,
+abychom je čtenářům předložili v redakčně nově zpracované verzi.
+Přejeme vám hezké čtení.
+Redakce MKP
+
+6
+
+BÍLÁ NEMOC
+Drama o třech aktech
+ve čtrnácti obrazech
+
+Předmluva
+První podnět k této hře dal mi před léty námět přítele lékaře dr. Jiřího
+Foustky: doktor, který objeví nové paprsky, ničící zhoubné nádory,
+najde v nich paprsky smrti; jich pomocí se stane samovládcem a neblahým spasitelem světa. Z toho námětu mi utkvěla představa lékaře,
+který má svým způsobem v rukou osud lidstva. Ale za našich časů je
+tolik lidí, kteří mají nebo chtějí mít v rukou osudy národů nebo člověčenstva, že by mě nikdy nezlákalo rozmnožit je ještě o jeden exemplář,
+kdyby tu nebyl druhý a nutkavější podnět: tím je naše doba sama.
+Jeden z charakteristických znaků poválečného lidstva je ústup od
+toho, čemu se tu a tam skoro s opovržením říká humanita; v kterémžto
+slovu je zahrnuta zbožná úcta k životu a právům lidským, láska
+k svobodě a míru, usilování o pravdu a spravedlnost a jiné mravní postuláty, které byly v duchu evropských tradic až dosud považovány za
+smysl lidského vývoje. Jak známo, v některých zemích a národech nastoupil duch zcela jiný; ne člověk, nýbrž třída, stát, národ nebo rasa je
+nositelem všech práv a jediným předmětem úcty, ale zato úcty svrchované: nic není nad ním, co by jej mravně omezovalo v jeho vůli a právech. Stát, národ, režim je nadán všemohoucí autoritou; jednotlivec se
+svou svobodou ducha a svědomí, se svým právem na život, se svým
+lidským sebeurčením je fyzicky i mravně naprosto podřaděn takzvanému kolektivnímu, ale v podstatě čistě autokratickému a násilím uloženému řádu. Prostě duch politické autority se v dnešním stavu světa
+výbojně utkává s evropskou tradicí mravní a demokratické humanity;
+tento konflikt se rok za rokem hrozivěji rozehrává v dění mezinárodním, ale zároveň je vnitřní otázkou každého národa. Zevně se nejjasněji
+projevuje chronickým válečným napětím v dnešní Evropě a rostoucím
+sklonem k násilnému a vražednému řešení politických otázek.
+Pravda, dnešní světový konflikt je možno definovat také v pojmech
+hospodářských a sociálních; nebo je možno jej vykládat v biologických
+
+8
+
+termínech boje o život; ale jeho nejdramatičtější aspekt je ve srážce
+dvou velikých antagonických ideálů. Na jedné straně mravní ideál všelidské humanity, demokratické svobody, světového míru a úcty ke každému lidskému životu i právu. Na druhé straně dynamický protihumanitní ideál moci, nadvlády a národní nebo jiné expanze, pro kterou je
+násilí vítaným prostředkem a lidský život jenom nástrojem. Řečeno
+v termínech dnes běžných, je to konflikt ideálů demokracie s ideály neomezených a ctižádostivých diktatur. A právě tento konflikt ve své tragické aktuálnosti byl popudem k napsání Bílé nemoci.
+Mohla by to být rakovina nebo jiná choroba místo fingované „bílé
+nemoci“; ale autor se snažil pokud možno přenést jednotlivé motivy
+i samu lokalizaci své hry do sféry fiktivní, aby nebylo nutno myslet ani
+na skutečnou nemoc, ani na skutečné státy nebo režimy; mimoto cítil
+ono malomocenství do jisté míry symbolicky, jako příznak hlubokého
+rozvratu bílé rasy; taková epidemie připadá dnešnímu člověku jako
+návrat k morovým ranám středověku. Autor úmyslně navodil celou
+dramatickou situaci svého konfliktu na motiv vražedné epidemie; neboť člověk nemocný a bědný je nutkavě a typicky předmětem humanity; jeho závislost na laskavém mravním řádu je nejhlubší. Dva velké
+světové názory se tu utkávají tak říkajíc nad ložem bolesti, a v jejich
+konfliktu se rozhoduje o životě a smrti malomocného lidstva. Ten, kdo
+je představitelem vůle k moci, se na své cestě nenechá zastavit soucitem s lidskou bolestí a hrůzou; ten pak, kdo se s ním utkává ve jménu
+humanity a úcty k životu, odpírá pomoc trpícím, protože sám fatálně
+přejímá neúprosnou morálku boje. I ve jménu míru a humanity se bude
+zabíjet a umírat v hekatombách, bude-li se ten spor muset jednou vybojovat. Ve světě války sám Mír musí být tvrdým a neústupným bojovníkem. A naopak představitel moci a síly se stává sám jedním z těch,
+kdo úpějí o lidskou pomoc, zatímco se přes něho bezcitně převaluje
+nezadržitelná mašinérie masakru, který rozpoutal. V tom právě spatřoval autor beznadějnou tíhu světového konfliktu, který prožíváme; neutkává se v něm jen tak prostě černé s bílým, zlo s dobrem, bezpráví
+s právem; srážejí se v něm na obou stranách velké hodnoty i nesmí-
+
+9
+
+řitelné tvrdosti; ale co je v tom sporu ohroženo, je všechno dobro
+a právo a veškeren lidský život. Nakonec je to jen dav bez velikosti
+i soucitu, který lhostejně ušlape k smrti oba představitele protichůdných vůlí. Hle člověčenstvo, které humanita chtěla zachránit, hle zástupy, které vůle k moci chtěla vést k velikosti a slávě! Tady máš své
+„všechny lidi“, Galéne, tady máte svůj národ, Maršále; a my všichni tu
+máme své dějinné konflikty, v nichž konečný úspěch je nejistý, ale kde
+jen jedno je nepochybné: že na ně těžce a bolestně doplatí Člověk. Ať
+jakkoliv dopadne válka, za jejíhož burácení se uzavírá Bílá nemoc, jisto
+je, že ve svém utrpení Člověk zůstal nespasen.
+Autor je si vědom, že tento nevyhnutelný tragický závěr není řešením; ale jde-li o skutečný zápas, který se odehrává v našem čase
+a prostoru mezi skutečnými lidskými silami, nemůžeme jej rozřešit
+slovy a musíme jeho řešení ponechat dějinám. Snad můžeme mít důvěru i v příští lidi, jako jsou ti dva čestní a rozumní mladí lidé v závěru
+hry; ale konečné řešení zůstává politickým a duchovním dějinám, na
+kterých nejsme angažováni jenom jako diváci, nýbrž jako spolubojovníci, kteří musejí vědět, na které straně světového dramatického konfliktu leží celé právo a celý život malého národa.
+
+10
+
+OSOBY
+I. AKT
+Dvorní rada
+DVORNÍ RADA PROF. DR. SIGELIUS
+DOKTOR GALÉN
+PRVNÍ ASISTENT KLINIKY
+DRUHÝ ASISTENT
+PRVNÍ PROFESOR
+DRUHÝ PROFESOR
+TŘETÍ PROFESOR
+ČTVRTÝ PROFESOR
+MARŠÁL
+POBOČNÍK
+GENERÁL
+MINISTR ZDRAVOTNICTVÍ
+JINÝ PÁN
+ÚŘEDNÍ PÁN
+SESTRA
+NOVINÁŘ
+JINÝ NOVINÁŘ
+LÉKAŘI, OŠETŘOVATELÉ, NOVINÁŘI, SVITA
+PRVNÍ MALOMOCNÝ
+DRUHÝ MALOMOCNÝ
+TŘETÍ MALOMOCNÝ
+OTEC
+MATKA
+DCERA
+SYN
+
+11
+
+II. AKT
+Baron Krüg
+DVORNÍ RADA SIGELIUS
+BARON KRÜG
+DOKTOR GALÉN
+MARŠÁL
+POBOČNÍK
+PRVNÍ MALOMOCNÝ
+DRUHÝ MALOMOCNÝ
+OTEC
+MATKA
+
+III. AKT
+Maršál
+MARŠÁL
+JEHO DCERA
+MLADÝ KRÜG
+MINISTR PROPAGANDY
+POBOČNÍK
+DOKTOR GALÉN
+SYN
+JEDEN ZE ZÁSTUPU
+DAVY
+
+12
+
+JEDNÁNÍ PRVNÍ
+Dvorní rada
+Obraz první
+Tři malomocní ve fáčích.
+PRVNÍ MALOMOCNÝ: Mor je to, mor. V naší ulici už je v každém domě
+několik morem raněných. Povídám, sousede, vždyť vy taky máte
+na bradě tu bílou skvrnu; a on, prý to nic, ani to necítím. A dnes
+už z něho taky padají kusy masa jako ze mne. Mor je to.
+DRUHÝ MALOMOCNÝ: Žádný mor, malomocenství. Bílá nemoc tomu
+říkají, ale měli by tomu říkat trest – Taková nemoc přece nemůže
+přijít sama od sebe; to nás bůh trestá.
+TŘETÍ MALOMOCNÝ: Kriste panebože – Kriste panebože – Kriste panebože –
+PRVNÍ MALOMOCNÝ: Trest! trest! to bych rád věděl, zač mám být
+trestán. Já jsem tak mnoho neužil, člověče, leda bídy; to by byl
+divný bůh, kdyby trestal chudáky, no ne?
+DRUHÝ MALOMOCNÝ: Počkej, však uvidíš. Ze začátku to máš jen na
+kůži, ale až tě to začne žrát uvnitř jako tohohle, řekneš si, to není
+možné, aby to bylo jen tak, to musí být trest, to musí mít nějakou
+příčinu –
+TŘETÍ MALOMOCNÝ: Ježíši… Ježíši bože nebeský…
+PRVNÍ MALOMOCNÝ: Taky že má. Nás lidí už bylo příliš mnoho na
+světě, a proto nás musí polovička vychcípat, aby bylo místo pro
+druhé. Tak je to. Ty jsi pekař a uděláš místo jinému pekounovi.
+A já jsem chudák a udělám místo jinému chudákovi, aby zas ně-
+
+13
+
+kdo jiný místo mne nuzoval a měl hlad. Proto musel přijít ten
+mor.
+DRUHÝ MALOMOCNÝ: Žádný mor, malomocenství. Při moru bys, člověče, zčernal, ale při malomocenství jsi bílý jako – no, jako křída.
+PRVNÍ MALOMOCNÝ: Bílý nebo černý, mně je to fuk; jen kdybych tak
+nesmrděl.
+TŘETÍ MALOMOCNÝ: Kriste panebože… Ježíši můj… Ježíši Kriste, smiluj se…
+DRUHÝ MALOMOCNÝ: Copak ty, ty jsi sám; ale když se člověka štítí
+vlastní žena a děti – Chudáci, jak mají se mnou vydržet! A ženě se
+teď udělala bílá skvrna na prsu – Vedle nás bydlí čalouník, a ten
+naříká ve dne v noci, ve dne v noci –
+TŘETÍ MALOMOCNÝ: Ježíši – Ježíši – Ježíši…
+PRVNÍ MALOMOCNÝ: Kuš! Kdo to má pořád poslouchat, ty malomocný!
+Opona.
+
+14
+
+Obraz druhý
+Pracovna dvorního rady profesora doktora Sigelia.
+DVORNÍ RADA: … prosím, pane redaktore; mám ovšem jen tři minuty
+času – to víte, moji pacienti! Tak co máme na srdci?
+NOVINÁŘ: Pane dvorní rado, náš list by chtěl informovat veřejnost
+z nejpovolanějších úst –
+DVORNÍ RADA: – o takzvané bílé nemoci čili pejpinském malomocenství, já vím. Bohužel se toho o něm píše ažaž. A příliš laicky, pane.
+Po mém soudu se choroby mají ponechat lékařům. Pište o nich
+v novinách, a většina čtenářů hned začne na sobě hledat dotyčné
+příznaky, ne?
+NOVINÁŘ: Ano, ale náš list by právě chtěl veřejnost uklidnit –
+DVORNÍ RADA: Uklidnit? Člověče, čím ji chcete uklidnit? – Koukejte se,
+je to… těžká choroba, a šíří se jako lavina – Pravda, pracuje se na
+ní horečně na všech klinikách světa, ale – (Krčí rameny.) Zatím je
+naše věda bezmocná. Napište lidem, aby se při prvních příznacích obrátili s důvěrou k svému lékaři, a je to.
+NOVINÁŘ: A jejich lékař –
+DVORNÍ RADA: – jim předepíše mazání: těm chudším hypermangan
+a těm zámožnějším peruánský balzám.
+NOVINÁŘ: Pomůže to?
+DVORNÍ RADA: Ano, proti zápachu, když se otevrou rány. To je druhé
+stadium choroby.
+NOVINÁŘ: A třetí stadium?
+DVORNÍ RADA: Morfium, mládenče. Nic než morfium. A dost o tom,
+ne? Je to ošklivá nemoc.
+
+15
+
+NOVINÁŘ: A je… velmi nakažlivá?
+DVORNÍ RADA (tónem přednášejícího profesora): Jak se to vezme. Neznáme totiž mikroba, který naši chorobu přenáší; víme jenom, že
+se neobyčejně rychle šíří; dále že není přenosna na žádné zvíře
+a že se nedá naočkovat ani člověku – aspoň mladému člověku ne;
+ten krásný pokus udělal sám na sobě doktor Hirota v Tokiu. Bojujeme, příteli, bojujeme, ale s neznámým nepřítelem. Můžete
+napsat, že na mé klinice se na věci pracuje už třetí rok; publikovali jsme o naší nemoci slušnou řadu vědeckých statí, hojně
+a s uznáním citovaných v odborné literatuře – (Zvoní.) Zatím je
+nezvratně zjištěno – bohužel mám jen tři minuty času.
+SESTRA (vejde): Prosím, pane dvorní rado.
+DVORNÍ RADA: Připravte pro pana redaktora vědecké publikace naší
+kliniky.
+SESTRA: Prosím.
+DVORNÍ RADA: Můžete se o nich zmínit, mladý příteli. To veřejnost
+uklidní, když sezná, jak se u nás usilovně bojuje proti takzvanému pejpinskému malomocenství. My tomu ovšem malomocenství neříkáme. Malomocenství neboli lepra je kožní nemoc, kdežto naše choroba je čistě interní. Páni kolegové z kožní kliniky si
+taky sice osobují právo o ní přednášet, ale – nu, nechme toho.
+Naše choroba, pane, není žádný svrab. Můžete veřejnost uklidnit,
+že o žádné malomocenství nejde. Kam by se hrabala taková lepra
+proti naší nemoci!
+NOVINÁŘ: Je to… vážnější nemoc než malomocenství?
+DVORNÍ RADA: Nu ovšem. Daleko vážnější a zajímavější. Jenom první
+příznaky připomínají obyčejnou lepru: malá bílá skvrnka někde
+na povrchu těla, chladná jako mramor a naprosto znecitlivělá –
+takzvaná macula marmorea; proto se té chorobě také říká bílá
+nemoc; ale její další průběh je naprosto svérázný a odlišný od
+
+16
+
+obyčejné leprosis maculosa. My ji prostě jmenujeme Čengova
+nemoc čili Morbus Tshengi. Doktor Čeng, žák Charcotův a ovšem
+internista, ji totiž první popsal na několika případech v pejpinském špitále. Velmi pěkná publikace, pane; referoval jsem o ní už
+v roce dvacet tři, kdy ještě nikdo neměl tušení, že se Čengova
+nemoc jednou stane pandemií.
+NOVINÁŘ: Čím prosím?
+DVORNÍ RADA: Pandemií. Nemocí, která lavinově zachvátí celý svět.
+V Číně, pane, se skoro každý rok vynoří nová zajímavá choroba –
+to dělá ta bída; ale žádná dosud neměla takový úspěch jako nemoc Čengova. To je prostě choroba dneška. Dnes už na ni zašlo
+dobrých pět miliónů lidí, nějakých dvanáct miliónů je aktuálně
+zachvácených a nejmíň třikrát tolik jich běhá po světě a ani nevědí, že už někde na těle mají mramorovou a bezcitnou skvrnu
+stěží zvící čočky – A to nejsou ani tři roky, co se ta nemoc objevila
+u nás! Můžete napsat, že první případ v Evropě byl rozpoznán
+právě na mé klinice. Můžeme být na to hrdi, kamaráde. Jeden
+pěkný příznak Čengovy nemoci dostal dokonce název symptom
+Sigeliův.
+NOVINÁŘ (píše): Symptom – pana dvorního rady – profesora doktora
+Sigelia.
+DVORNÍ RADA: Ano, Sigeliův symptom. Jak vidíte, pracujeme plnou
+parou. Zatím je nezvratně zjištěno, že Čengova nemoc postihuje
+jenom osoby asi tak od čtyřiceti pěti nebo padesáti let nahoru.
+Patrně jí poskytují příznivou půdu ony normální organické změny, kterým říkáme stárnutí –
+NOVINÁŘ: To je neobyčejně zajímavé.
+DVORNÍ RADA: Myslíte? – Kolik vám je let?
+NOVINÁŘ: Třicet prosím.
+
+17
+
+DVORNÍ RADA: Nu proto. Kdybyste byl starší, nezdálo by se vám to
+být… tak moc zajímavé. Dále víme s plnou jistotou, že od prvního
+příznaku choroby je prognosis infaustissima; smrt nastává ve
+třech až pěti měsících, obyčejně celkovou sepsí – Podle názoru
+mého a mé školy, která se podnes honosí tím, že je klinikou velikého Lilienthala, mého nebožtíka tchána, to byste mohl napsat, –
+tedy podle názoru klasické školy Lilienthalovy je Morbus Tshengi
+choroba nakažlivá, kterou přenáší dosud neznámé agens; dispozice k ní se dostavují s prvními známkami tělesného stárnutí;
+příznaky a průběh choroby – to bychom mohli vynechat, ne? Není to nic hezkého, člověče. Co se týče léčení – sedativa tantum
+praescribere oportet.
+NOVINÁŘ: Jak prosím?
+DVORNÍ RADA: Vynechte to, mládenče, to je jen pro doktory. Klasický
+předpis velikého Lilienthala. To byl lékař, příteli! Kdybychom toho dnes měli! – Máte ještě nějakou otázku? Zbývají mi totiž jen tři
+minuty času.
+NOVINÁŘ: Kdyby pan dvorní rada dovolil… naše čtenáře by jistě nejvíc
+zajímalo, jak se lze té choroby uchránit –
+DVORNÍ RADA: Co – cože? Uchránit? Nijak! Vůbec nijak! (Vyskočí.)
+Člověče, vždyť na to zajdeme všichni! Každý, komu je přes čtyřicet let, je předem odsouzen – Vám je to jedno, vy, vy s vašimi
+hloupými třiceti léty! Ale my, my lidé na vrcholu života – Pojďte
+sem! Nevidíte na mně nic? Nemám někde na obličeji bílou skvrnu? Co? Ještě ne? Tak vidíte, každý den, desetkrát denně se dívám do zrcadla. – Koukejme, vaše čtenáře by zajímalo, jak by se
+mohli uchránit před rozkladem zaživa! To věřím, pane; mne by
+to taky zajímalo. (Usedne, hlavu v dlaních.) Bože jak je lidská věda
+marná!
+
+18
+
+NOVINÁŘ: Pane dvorní rado, snad byste mohl říci k závěru několik
+povzbuzujících slov –
+DVORNÍ RADA: Ano. Napište… napište do novin,… že se s tím musíme
+smířit.
+(Drnčí telefon.)
+DVORNÍ RADA (zvedne sluchátko): Haló… Ano. – Co? – Víte přece, že
+nikoho nepřijímám. – Lékař? Jak se jmenuje? – Hm, doktor Galén.
+Má nějaké doporučení? Ne? Co tedy u mne chce? – Prosím vás,
+v zájmu vědy! Ať s tím obtěžuje mého druhého asistenta; já nemám pokdy na nějakou vědu. – Nu tak mi ho pošlete, když mne
+už pětkrát hledal; ale řekněte mu, že mi zbývají jenom tři minuty
+času. Ano. (Pověsí sluchátko a vstane.) Tak vidíte, mladý příteli.
+Pak se má člověk soustředit na vědeckou práci!
+NOVINÁŘ: Pan dvorní rada promine, že jsem ho připravil o tolik vzácného času –
+DVORNÍ RADA: Nevadí, kamaráde, nevadí. Věda a veřejnost si mají
+navzájem sloužit. Kdybyste něco potřeboval, jen se obraťte na
+mne. (Podává mu ruku.)
+NOVINÁŘ: Klaním se uctivě, pane dvorní rado! (V samých poklonách
+odchází.)
+DVORNÍ RADA: Sbohem! (Usedne u psacího stolu.)
+(Zaklepání.)
+DVORNÍ RADA (vezme péro a píše; po chvilce): Dále!
+(Vejde Dr. Galén a zůstane v rozpacích stát u dveří.)
+DVORNÍ RADA (píše, aniž zvedl hlavu. Po delší chvíli): Necháváte mě
+čekat, pane kolego.
+
+19
+
+DR. GALÉN (zakoktá se): Promiňte, pane dvorní rado… nechtěl jsem
+vyrušovat… Mé jméno je doktor Galén…
+DVORNÍ RADA (píše): To vím. Přejete si, pane doktore Galéne –?
+DR. GALÉN: Já… já mám totiž pokladenskou praxi, pane dvorní rado…
+jak se říká, praxi chudých, že ano… a tu mám příležitost… vidět
+spoustu případů, že ano… protože… v chudších vrstvách… bují
+tolik chorob…
+DVORNÍ RADA: Jak? Bují?
+DR. GALÉN: Ano, šíří se.
+DVORNÍ RADA: Ah tak! Lékař nemá mluvit květnatě, pane kolego.
+DR. GALÉN: Ano prosím. Hlavně v poslední době… když se tak šíří ta
+bílá nemoc –
+DVORNÍ RADA: Morbus Tshengi, pane kolego. Vědecký pracovník se
+vyjadřuje přesně a stručně.
+DR. GALÉN: – a když člověk vidí tu bídu… jak se ti malomocní zaživa
+rozpadají… uprostřed rodiny… ten hrozný zápach, že ano…
+DVORNÍ RADA: Máte užívat prostředků odstraňujících zápach, pane
+kolego.
+DR. GALÉN: Ano, ale člověk by chtěl ty lidi zachránit! Já měl sta případů… strašných případů, pane dvorní rado; a když jsem tak nad
+nimi stál… s holýma rukama… přímo zoufalý…
+DVORNÍ RADA: To je chyba, pane kolego. Lékař nemá být nikdy zoufalý.
+DR. GALÉN: Když je to taková hrůza, pane dvorní rado! A tu jsem si
+říkal, že se něco musí stát… že něco musím zkusit, abych tu nestál
+tak nadarmo. Pravda, sehnal jsem si celou literaturu o té nemoci,
+ale pan dvorní rada promine… tam to není… tam to prosím není…
+DVORNÍ RADA: Co tam není?
+
+20
+
+DR. GALÉN: Ta pravá cesta prosím.
+DVORNÍ RADA (položí péro): A vy ji znáte, co?
+DR. GALÉN: Ano. Myslím totiž, že ji znám.
+DVORNÍ RADA: Aha, vy si to myslíte. Máte asi svou vlastní teorii
+o Čengově nemoci, ne?
+DR. GALÉN: Ano prosím. Svou vlastní teorii.
+DVORNÍ RADA: Tak to mi stačí, pane kolego Galéne. Když si s nějakou
+nemocí nevíme rady, vymyslíme si na ni aspoň teorii. To se dělává. Ale praktický lékař se má po mém soudu držet raději osvědčených prostředků. Jak k tomu vaši klienti přijdou, abyste na nich
+zkoušel nějaké své pochybné nápady? Na to jsou kliniky, pane
+kolego.
+DR. GALÉN: Ale právě proto jsem –
+DVORNÍ RADA: Ještě jsem nedomluvil, pane doktore Galéne. Řekl jsem
+vám, že mám bohužel k dispozici jenom tři minuty. Co se týče
+Čengovy nemoci, doporučil bych vám užívat pilně prostředků na
+odstranění zápachu – a pak morfia, pane kolego, hlavně morfia;
+koneckonců jsme tu proto, abychom zmírnili útrapy – aspoň platícím klientům. To je všechno, pane kolego. Těšilo mě. (Chápe se
+pera.)
+DR. GALÉN: Ale já… pane dvorní rado…
+DVORNÍ RADA: Přejete si snad ještě něco?
+DR. GALÉN: Ano. Já totiž mohu bílou nemoc vyléčit.
+DVORNÍ RADA (píše): To už jste asi dvanáctý člověk, který s tím ke
+mně přišel. Dokonce bylo mezi nimi několik lékařů.
+DR. GALÉN: Ale já už jsem své metody prakticky užil… na několika
+stech případů, že ano, a – byly jisté výsledky –
+
+21
+
+DVORNÍ RADA: Kolik procent uzdravení?
+DR. GALÉN: Asi šedesát. U dvaceti dalších si nejsem ještě jist –
+DVORNÍ RADA (položil pero): Člověče, kdybyste byl řekl sto procent,
+dal bych vás hned vyvést jako blázna nebo šarlatána. Co mám
+s vámi dělat? – Podívejte se, pane kolego, já to chápu; je to svůdná představa, najít lék proti Čengově nemoci. To by znamenalo
+slávu, báječnou klientelu, Nobelovu cenu a třeba i univerzitní stolici, ne? To byste byl víc než Pasteur, víc než Koch, víc než Lilienthal – Pravda, může to člověku poplést hlavu; jenže takových
+zklamání už bylo –
+DR. GALÉN: Já bych svou metodu vyzkoušel na vaší klinice, pane dvorní rado.
+DVORNÍ RADA: Na mé klinice? To je ovšem dětinství. Vy jste – původem cizinec, ne?
+DR. GALÉN: Ano prosím. Původem Řek, z Pergama.
+DVORNÍ RADA: Tak vidíte. Já přece nemohu pustit cizince na státní
+kliniku Lilienthalovu!
+DR. GALÉN: Ale já jsem zdejším občanem… už od dětství…
+DVORNÍ RADA: Ano, ale ten původ, pane kolego! Ten původ!
+DR. GALÉN: Lilienthal byl taky… původem cizinec, že ano…
+DVORNÍ RADA: Upozorňuju vás, pane, že dvorní rada řádný profesor
+doktor Lilienthal byl mým tchánem. Ostatně dnes je jiná doba. To
+snad víte sám. – Mimoto, pane doktore Galéne, pochybuju velmi,
+že by veliký Lilienthal nechal ve svém vědeckém ústavu pracovat… nějakého pokladenského lékaře. Promiňte!
+DR. GALÉN: Mne by tu nechal pracovat, pane dvorní rado. Já jsem byl
+kdysi jeho asistentem –
+
+22
+
+DVORNÍ RADA (vyskočí): Vy jste byl – Člověče, proč jste to neřekl
+hned? Prosím, kolego, sedněte si – Jen žádné okolky, Galéne.
+Koukejme, tak vy jste byl u tchána asistentem! Zvláštní, nevzpomínám si, že by se byl někdy o vás zmínil!
+DR. GALÉN (na kraji židle): On… on mi totiž říkal doktor Dětina.
+DVORNÍ RADA: Propána, tak vy jste Dětina! Dětina, ano – můj nejlepší
+žák, říkával Lilienthal; prý škoda doktora Dětiny! – Člověče, proč
+jste u něho nezůstal?
+DR. GALÉN: To byly takové věci, pane dvorní rado… Hlavně… chtěl
+jsem se oženit… a jako asistent bych rodinu neuživil, že ano –
+DVORNÍ RADA: Chyba. Já vždycky říkám svým žákům: chcete-li dělat
+vědu, nežeňte se; a když, tedy bohatě. Vědě se musí obětovat
+soukromý život. – Kouříte, Galéne?
+DR. GALÉN: Ne, děkuju, já – Já mám totiž anginu pectoris…
+DVORNÍ RADA: Nunu, snad nebude tak zle! Ukažte, kamaráde, já bych
+se podíval –
+DR. GALÉN: Děkuju, pane dvorní rado, ale… na to teď nemám pomyšlení. Já bych prosil, kdybych směl na vaší klinice… aplikovat svou
+metodu… na několika malomocných, které považujete za ztracené…
+DVORNÍ RADA: To jsou všichni, Galéne. Ale to je těžké, co žádáte, safra,
+to je těžké… Nerado by se to vidělo, kolego. Ale že to jste vy,
+tchánův nejmilejší žák – počkejte, já vám něco řeknu: povězte
+nám, v čem záleží vaše metoda, a my ji vezmeme v úvahu, případně ji klinicky vyzkoušíme. Já jenom zařídím, aby nás teď nikdo nerušil – (Sahá po telefonu.)
+DR. GALÉN: Prosím za prominutí, pane dvorní rado, ale já… dokud to
+nebude klinicky vyzkoušeno… neřeknu nikomu, jak léčím bílou
+nemoc. Prosím, já opravdu nemohu.
+
+23
+
+DVORNÍ RADA: Ani mně ne?
+DR. GALÉN: Nikomu prosím. To by skutečně nešlo.
+DVORNÍ RADA: Myslíte to vážně?
+DR. GALÉN: Docela vážně, pane dvorní rado.
+DVORNÍ RADA: Nu, tak se nedá nic dělat. Promiňte, Galéne, to by bylo
+proti klinickým pravidlům a proti – jak bych to řekl –
+DR. GALÉN: – proti vaší vědecké odpovědnosti, já vím. Ale já mám prosím své důvody…
+DVORNÍ RADA: Jaké?
+DR. GALÉN: Pane dvorní rado, je mi hrozně líto… ale já bych je řekl až
+později.
+DVORNÍ RADA: Nu, jak chcete. Za těch okolností uděláme za věcí tečku, že? Přesto mne těší, že jsem vás osobně poznal, doktore Dětino.
+DR. GALÉN: Poslyšte, nedělejte to! Vy byste mne měl pustit na kliniku,
+pane dvorní rado! To byste měl udělat!
+DVORNÍ RADA: Proč?
+DR. GALÉN: Pane dvorní rado, já za svůj prostředek ručím! Čestné slovo! Podívejte se, já nemám ani jednu recidivu… A tady mám dopisy kolegů… posílají mi své malomocné z celé čtvrti… Z takové
+chudé čtvrti to ani nepřijde na veřejnost. Prosím račte se podívat,
+pane dvorní rado…
+DVORNÍ RADA: Nemám zájmu.
+DR. GALÉN: Bože to je škoda… Tak abych šel, že ano?
+DVORNÍ RADA (vstane): Ano. Je mi líto.
+
+24
+
+DR. GALÉN (otálí u dveří): Taková hrozná nemoc… Třeba jednou pan
+dvorní rada sám…
+DVORNÍ RADA: Co?
+DR. GALÉN: Nic, já jen… Snad by i pan dvorní rada mohl toho léku jednou potřebovat.
+DVORNÍ RADA: To jste nemusel říkat, Galéne! – (Přechází.) Šeredná
+nemoc, člověče, příliš šeredná nemoc. Nechtěl bych se zaživa
+rozpadat.
+DR. GALÉN: Pak může pan dvorní rada na sobě použít prostředků odstraňujících zápach.
+DVORNÍ RADA: Děkuju! – Ukažte ty dopisy!
+DR. GALÉN: Prosím, pane dvorní rado –
+DVORNÍ RADA (čte dopisy): Hm. (Odkašle.) Nono – Doktor Stradella, to
+je můj žák, ne? Takový dlouhý, ne?
+DR. GALÉN: Ano, pane dvorní rado. Velmi dlouhý.
+DVORNÍ RADA (čte dál): Safra! (Kroutí hlavou.) Zatrápeně, kolego –
+Pravda, jsou to jen praktikové, ale – Člověče, to byste měl báječné
+výsledky! – Poslyšte, Galéne, tak mě napadá – Že to jste vy, já
+bych zkusil vaši metodu sám na několika případech. Víc přece
+nemůžete žádat, co?
+DR. GALÉN: Ne, ale… Já vím, že by to pro mne byla ohromná čest, ale…
+DVORNÍ RADA: – ale vy svou metodu chcete až na další aplikovat sám,
+že?
+DR. GALÉN: Ano, pane dvorní rado. Já bych ji rád… na klinice… prováděl sám.
+DVORNÍ RADA: A pak ji budete publikovat?
+DR. GALÉN: Ano, totiž… za jistých podmínek, že ano…
+
+25
+
+DVORNÍ RADA: Jakých podmínek?
+DR. GALÉN: – – Já bych je ohlásil později, pane dvorní rado.
+DVORNÍ RADA (usedne za stůl): Rozumím. Tedy vy byste chtěl, aby má
+klinika jenom ověřila vaši metodu, ale její další použití byste si
+vyhradil pro sebe. Asi tak si to představujete, ne?
+DR. GALÉN: Ano, pane dvorní rado. Totiž…
+DVORNÍ RADA: Počkejte. Je to ovšem nesmírná drzost, žádat něco takového od kliniky Lilienthalovy, pane doktore Galéne, a já mám
+sto chutí vás vlastní rukou shodit ze schodů. Já sice chápu, že
+každý lékař chce něco vydělat na svém umění; ale dělat z léčebného postupu své obchodní tajemství, to není jednání hodné lékaře, nýbrž pokoutního dryáčníka, šarlatána a mastičkáře. Předně je to, pane kolego, nelidské k trpícímu lidstvu, a za druhé –
+DR. GALÉN: Ale já, pane dvorní rado –
+DVORNÍ RADA: Okamžik prosím. Za druhé je to krajně nekolegiální
+k druhým lékařům. Ti chtějí také uzdravovat své klienty, pane
+kolego; vždyť jsou z toho živi. Tak je to. Vy se na svou metodu díváte jako na věc svého soukromého zisku; bohužel já na ni musím pohlížet jako vědec a jako lékař, který si je vědom své povinnosti k lidstvu. Naše stanoviště, pane doktore Galéne, se zásadně
+rozcházejí. Okamžik. (Bere telefon.) Pošlete mi sem prvního asistenta. Ano, ihned. (Položí sluchátko.) To už je skandál, jak hluboko klesla lékařská morálka! Co chvíli se objeví zázračný doktor,
+který vytlouká peníze ze své kdovíjaké tajné metody; ale aby si
+ještě ke všemu chtěl udělat reklamu na vědecké klinice, taková
+nestoudnost tu, pane kolego, ještě nebyla.
+(Zaklepání.)
+DVORNÍ RADA: Dále!
+PRVNÍ ASISTENT (vejde): Pan dvorní rada mě volal…
+
+26
+
+DVORNÍ RADA: Pojďte sem. Na kterých pokojích máme Morbus
+Tshengi?
+PRVNÍ ASISTENT: Skoro na všech, pane dvorní rado. Na dvojce, čtyřce,
+pětce…
+DVORNÍ RADA: A neplatící –?
+PRVNÍ ASISTENT: Chudinské bílé máme na třináctce.
+DVORNÍ RADA: A tu má na starosti –?
+PRVNÍ ASISTENT: Druhý asistent, pane dvorní rado.
+DVORNÍ RADA: Dobrá. Pane první asistente, řekněte panu druhému
+asistentovi, že ode dneška všechny lékařské zákroky na třináctce
+předpisuje nebo vykonává tady kolega doktor Galén. Budou to
+jeho případy.
+PRVNÍ ASISTENT: Prosím, pane dvorní rado, ale –
+DVORNÍ RADA: Co? Co chcete říci?
+PRVNÍ ASISTENT: Nic, pane dvorní rado.
+DVORNÍ RADA: Proto! Myslel jsem, že máte nějaké námitky. Dále řekněte panu druhému asistentovi, že mu nebude nic po tom, jak
+a čím bude kolega Galén své případy ošetřovat. Je to mé výslovné
+přání.
+PRVNÍ ASISTENT: Prosím, pane dvorní rado.
+DVORNÍ RADA: Můžete jít.
+(Asistent zmizí.)
+DR. GALÉN: Ani nevím… pane dvorní rado… jak vám mám poděkovat…
+DVORNÍ RADA: Není třeba. Dělám to jenom v zájmu lékařské vědy,
+pane kolego. Tomu musí ustoupit vše – i ta nejsilnější averze.
+Chcete-li, můžete se hned podívat na svou třináctku. (Bere tele-
+
+27
+
+fon.) Vrchní sestro, uvedete na třináctku pana doktora Galéna. –
+(Položí sluchátko.) Kolik času budete potřebovat, pane kolego?
+DR. GALÉN: Stačí… šest neděl.
+DVORNÍ RADA: Tak? Zdá se, pane doktore Galéne, že chcete čarovat.
+Poroučím se vám.
+DR. GALÉN (couvá ke dveřím): Jsem vám opravdu… nesmírně zavázán,
+pane dvorní rado –
+DVORNÍ RADA: Mnoho štěstí! (Bere pero.)
+(Dr. Galén se rozpačitě vysouká ven.)
+DVORNÍ RADA (uhodí perem): Mizerný výdělkář! (Vstane a jde k zrcadlu, prohlíží si pozorně obličej.) Ne, nic. Doposud nic.
+Opona.
+
+28
+
+Obraz třetí
+Rodina u večerní lampy.
+OTEC (čte noviny): Zase článek o té nemoci! Kdyby už s tím dali pokoj!
+Člověk má dost svých starostí za celý den –
+MATKA: S tou paní ve třetím patře je to prý zlé. Nikdo k ní už ani nemůže… Necítils na schodech ten zápach?
+OTEC: Ne. Tady je interview s dvorním radou Sigeliem. To je světová
+kapacita, maminko, na toho já dám. Uvidíš, že potvrdí má slova.
+MATKA: Která?
+OTEC: Že je to humbuk, to malomocenství. Sem tam nějaký případ,
+a noviny z toho hned dělají senzaci. A lidé, to se ví: jak někdo lehne s rýmou, už říkají, že má bílou nemoc.
+MATKA: Píše mi sestra, že u nich je toho taky plno.
+OTEC: Nesmysl. To už je taková panika – To je zajímavé, tadyhle říká
+Sigelius, že ta nemoc přišla z Číny. Vidíš, já vždycky říkám: udělat
+z Číny evropskou kolonii, zavést tam pořádek, a byl by pokoj. To
+máme z toho, že se ještě pořád trpí takové zaostalé země. Samý
+hlad a bída, žádná hygiena a tak: pak je z toho malomocenství. –
+On tady Sigelius říká, že je to přece jen nakažlivá nemoc. To by se
+mělo něco udělat.
+MATKA: Co by se mělo udělat?
+OTEC: Zavřít ty malomocné a nepustit je mezi lidi. Jak se na někom
+ukáže bílá nemoc, pryč s ním! Vždyť je to hrůza, maminko, že
+nám nechají v domě umírat tu babu nahoře! Člověk aby se bál
+domů… už ten zápach na schodech…
+MATKA: Já bych jí donesla aspoň polévku, když je tam tak sama.
+
+29
+
+OTEC: Jen se opovaž! Vždyť je to nakažlivé! Ty s tvým měkkým srdcem,
+ještě nám to zavlečeš sem – To by tak hrálo! A měli bychom něčím dezinfikovat naši chodbu.
+MATKA: Čím?
+OTEC: Počkej. – Je to blbec!
+MATKA: Kdo?
+OTEC: Ten novinář! Tadyhle píše – Já se divím, že to nezabavili! To se
+přece nemá dovolit, aby se psaly takové hovadiny! Ale já to redakci napíšu, to si nedají za rámeček. Pitomec jeden!
+MATKA: Co tam máš?
+OTEC: Ale tady píše, že se před tou nemocí nemůže nikdo uchránit… že
+zachvátí všechny lidi kolem padesátky…
+MATKA: Ukaž!
+OTEC (hodí noviny na stůl a běhá po pokoji): Trulant! Copak se smí
+takhle psát? Víckrát ty noviny nekoupím! Já jim ukážu – to jim
+nedaruju…
+MATKA (čte): Ale tati, vždyť to tak řekl ten dvorní rada Sigelius!
+OTEC: Nesmysl! To přece není možné, při dnešním stavu vědy
+a civilizace – Copak jsme středověk, aby byly takové nákazy?
+A copak je padesátka nějaký věk? U nás to dostal jeden kolega,
+tomu je teprve pětačtyřicet – To by byla divná spravedlnost,
+kdyby to měli dostat jenom lidi kolem padesátky! Proč, říkám,
+proč –
+DCERA (jež dosud četla na pohovce román): Proč? Ale tati! Přece proto,
+aby se zas jednou udělalo místo mladším, ne? Beztoho nemají
+kam se vrtnout –
+
+30
+
+OTEC: A ták! To je hezké! Slyšíš to, maminko? Tak teda ne že by vás
+rodiče živili, ne že by se pro vás dřeli, ale překážejí vám, co?
+A zabírají vám místo, že? A měli by vymřít malomocenstvím, aby
+pro vás mladé bylo víc místa, ne? To jsou pěkné názory!
+MATKA: Ale tati, to ona tak nemyslela!
+OTEC: Ne, ale řekla to! Viď, to by bylo jen v pořádku, aby se tvůj otec
+a matka v padesáti létech klidili, viď, dceruško?
+DCERA: Ty to bereš hned tak osobně –
+OTEC: A jak to mám brát? Když se ti tak zamlouvá, že lidé kolem padesátky mají vychcípat – Já teda nevím, jak mám tvému názoru rozumět!
+DCERA: Já jsem mluvila obecně, tati. Dnes přece mladý člověk nenajde
+žádnou existenci – Prostě není na světě tolik míst – Něco se už
+muselo stát, abychom my mladí mohli konečně žít a zakládat rodiny!
+MATKA: To zas má pravdu, tati!
+OTEC: Koukejme, ona má pravdu! A my teda máme kvůli vám pojít
+v nejlepších létech, ne?
+(Vejde Syn.)
+SYN: Halo, co máte?
+MATKA: Ale nic. Tatínka jen rozčililo… četl něco v novinách o té nemoci…
+SYN: No a? Co ho na ní rozčiluje?
+DCERA: Já jsem jenom řekla, že jednou už něco muselo přijít, aby se
+udělalo místo pro nové lidi.
+SYN: A to tatínka tak rozčiluje? Se mu divím. To přece říká každý.
+OTEC: Totiž vy mladí, že? To věřím, vám se to hodí!
+
+31
+
+SYN: No ovšem, tati. Nebýt toho malomocenství, tak já nevím, co by
+z nás bylo. Tadyhle holka se ani nemůže vdát, a já – No, já si teď
+musím pospíšit se státnicemi.
+OTEC: Nejvyšší čas, holenku! Na to je příliš vážná doba, aby ses jenom
+flákal!
+SYN: No co? Stejně se člověk ani se zkouškami nikam nedostal. Teď to
+snad bude lepší.
+OTEC: Jen co vychcípají lidé kolem padesátky, viď?
+SYN: Právě. Jen aby to chtělo ještě nějakou dobu trvat!
+Opona.
+
+32
+
+Obraz čtvrtý
+Nemocniční chodba před pokojem číslo 12 a 13.
+DVORNÍ RADA (v čele hloučku profesorů): Tak prosím, pánové, tady je
+to. Par ici, chers confrères. Here are we, gentlemen. Ich bitte meine verehrten Herren Kollegen hereinzutreten. (Uvádí je do třináctky.)
+PRVNÍ ASISTENT: Starý se zbláznil. Pořád Galéne sem, Galéne tam –
+a teď sem tahá kapacity z celého světa, aby se podívali na ty zázraky. Ale až z toho budou recidivy, to bude ostudička, kamaráde! A že se těm lidem znovu udělají fleky, na to vezmu jed.
+DRUHÝ ASISTENT: Proč?
+PRVNÍ ASISTENT: Přece nejsem dnešní, kolego. Prostě medicína má
+své meze a dost. Starému měkne mozek, věří-li, že můžeme někoho uzdravit. Já už jsem tady osmý rok, člověče; ale teď jsem si
+našel pěknou ordinaci a zahájím si praxičku. Dnes je báječná příležitost, s tím malomocenstvím. Já budu léčit Čengovu nemoc.
+DRUHÝ ASISTENT: Galénovou metodou?
+PRVNÍ ASISTENT: Metodou kliniky Lilienthalovy. Přece jsem tu nebyl
+nadarmo osm let, ne? Teď se roztroubí, že u nás máme nějaké
+výsledky –
+DRUHÝ ASISTENT: Když Galén s tou svou metodou dělá takové tajnosti!
+PRVNÍ ASISTENT: Ať se tím dá Galén vycpat! Člověče, s ním já vůbec
+nemluvím; ale od sestry na třináctce vím, že práská do svých malomocných injekce s něčím žlutým jako hořčice. Tak jsem dal dohromady nějaké ty posilující a utišující prostředky, co se těm bílým dávají, a zabarvil jsem to nažluto – Docela dobrá věc, kolego.
+Zkusil jsem to sám na sobě, nu, a nic, žádná nepříjemná reakce;
+a pacientům to načas uleví – Tak s tím začnu. (Poslouchá u dveří.)
+
+33
+
+Aha, starý káže. „S publikováním naší metody musíme ještě vyčkat –“ Chytrák! Ví o ní zrovna tolik jako já – Teď to těm mandarínům povídá anglicky. Řeči on umí, ten starý krasavec; beztoho svou vědeckou kariéru jenom vyženil! Hergot, jen aby to ten
+Galén nepublikoval, dokud si pořádně nezavedu praxi!
+DRUHÝ ASISTENT: To víš, pak se všechno pohrne k němu –
+PRVNÍ ASISTENT: A vidíš, kamaráde, toho se ani tak nebojím. Galén
+musel dát starému čestné slovo, že své metody nepoužije na privátní případy, dokud to tady na klinice nebude dozkoušeno. Zatím já si to malomocenství pěkně zavedu –
+DRUHÝ ASISTENT: A ten Galén to čestné slovo taky drží jako – jako –
+PRVNÍ ASISTENT (krčí rameny): To víš, blázen! Prý docela zavřel svou
+boudu v předměstí a vůbec neordinuje – Říkala sestra ze třináctky, že už ani nemá co žrát; prý jenom nosí pár housek po
+kapsách – Chtěla mu donášet oběd jako nemocným, ale správce jí
+to zatrhl; prý nemá doktora Galéna v seznamu strávníků, a dost.
+Má pravdu.
+DRUHÝ ASISTENT: Má maminka… udělala se jí bílá skvrna tady na šíji.
+Tak jsem poprosil Galéna, aby se na ni podíval; a Galén, že nemůže, že dal Sigeliovi čestné slovo –
+PRVNÍ ASISTENT: Sprosťák! To je mu podobné, tak nekolegiální jednání!
+DRUHÝ ASISTENT: Tak jsem šel na našeho starého, aby s ním promluvil, aby mu dovolil tu jedinou výjimku,… že jde o mou maminku –
+PRVNÍ ASISTENT: A co řekl?
+DRUHÝ ASISTENT: „Pane druhý asistente, na své klinice nepřipouštím
+výjimek. Sbohem.“
+
+34
+
+PRVNÍ ASISTENT: To mu je podobné. Dědek je jako křemen. Ale ten
+Galén by to mohl udělat; jaképak čestné slovo mezi kolegy, nemám pravdu? Mizera chlap!
+DRUHÝ ASISTENT: Kdyby nešlo zrovna o mou maminku… Co se,
+chudák, našetřila, abych mohl tu medicínu dodělat… Já věřím,
+člověče, já věřím, že by ji uzdravil!
+PRVNÍ ASISTENT: Galén? Bah! Co tě nemá!
+DRUHÝ ASISTENT: Kolego, to jsou výsledky – zrovna zázrak!
+(Z třináctky vychází hlouček profesorů a Dvorní rada.)
+JEDEN PROFESOR: I congratulate you, professor! Splendid! Splendid!
+JINÝ PROFESOR: Wirklich überraschend! Ja, es ist erstaunlich!
+TŘETÍ PROFESOR: Mes félicitations, mon ami! C’est un miracle!
+(Hlouček se v hovoru posunuje dál.)
+ČTVRTÝ PROFESOR: Okamžik, pane kolego. Blahopřeju vám k vašemu
+skvělému úspěchu.
+DVORNÍ RADA: Ale ne, kolego, ale ne. To je úspěch kliniky Lilienthalovy.
+ČTVRTÝ PROFESOR: Prosím vás, kdo byl ten človíček –
+DVORNÍ RADA: Tady na třináctce? Ah, to je doktor, jak se jmenuje –
+Galén tuším.
+ČTVRTÝ PROFESOR: Váš asistent?
+DVORNÍ RADA: Ne, chraň bůh! Jen tak sem chodí… zajímá se o Čengovu nemoc. Taky je ze školy Lilienthalovy.
+ČTVRTÝ PROFESOR: Opravdu, velkolepý úspěch. Napadá mě… mám
+jednoho pacienta… malomocného… na kterém mi velmi záleží. Je
+to… (Šeptá Dvornímu radovi do ucha).
+
+35
+
+DVORNÍ RADA (hvízdne): A chudák!
+ČTVRTÝ PROFESOR: Směl bych vám ho poslat?
+DVORNÍ RADA: Ale rozumí se, kolego, rozumí se! Jen řekněte prosím
+svému panu klientovi, aby se u mne přihlásil. My sice dosud neaplikujeme svou metodu na soukromých pacientech –
+ČTVRTÝ PROFESOR: Ovšem, zcela správně, pane kolego, ale –
+DVORNÍ RADA: – ale když mohu vyhovět vám –
+ČTVRTÝ PROFESOR: – a když jde o takového pacienta – Bravo!
+DVORNÍ RADA: Velmi rád, pane kolego, s největší radostí.
+(Odcházejí za hloučkem.)
+PRVNÍ ASISTENT: Slyšels? Člověče, to budou prachy!
+DRUHÝ ASISTENT: A vidíš, pro mou maminku to udělat nechtěl.
+PRVNÍ ASISTENT: Kamaráde, tady jsou peníze a styky – Hergot, kdybych já dostal takového pacienta!
+(Z třináctky vystrčí hlavu Dr. Galén.)
+DR. GALÉN: Už jsou pryč?
+DRUHÝ ASISTENT: Potřebujete něčeho, pane doktore?
+DR. GALÉN: Ne, ne, děkuju, pane kolego… děkuju uctivě…
+PRVNÍ ASISTENT: Člověče, pojď! Pan doktor Galén by tu chtěl být raději sám.
+(Oba odejdou. Dr. Galén se rozhlédne, a když vidí, že je sám, vytáhne
+z kapsy housku a žvýká, opřen o dveře.)
+(Vrací se Dvorní rada.)
+DVORNÍ RADA: Dobře, že vás vidím, Galéne. Musím vám ze srdce blahopřát. Máme nádherný úspěch, kolego. Velkolepý úspěch!
+
+36
+
+DR. GALÉN (polyká): Ještě… ještě snad musíme vyčkat, pane dvorní
+rado…
+DVORNÍ RADA: Ale ovšem, doktore Dětino, ale ovšem! Nicméně výsledky jsou tak překvapující – Abych nezapomněl, dostanete jednoho privátního pacienta.
+DR. GALÉN: Ale já… já totiž teď soukromou praxi nevedu…
+DVORNÍ RADA: Já vím, kolego, já vím, a chválím vás za to. Věnovat se
+jenom vědecké práci, správně. Ale tento případ jsem vám zvlášť
+vybral. Prima klient, milý Galéne.
+DR. GALÉN: Já jsem vám přece dal čestné slovo, pane dvorní rado,… že
+nepoužiju své metody… jenom tady na třináctce…
+DVORNÍ RADA: Správně, kolego. Ale pro tento jediný případ vás toho
+čestného slova zprostím.
+DR. GALÉN: Ale já… já na něm trvám, pane dvorní rado.
+DVORNÍ RADA: Co tím míníte, pane kolego?
+DR. GALÉN: Že nebudu nikoho léčit, pokud tady nebudu hotov, že
+ano…
+DVORNÍ RADA: Upozorňuji vás, Galéne, že jsem přijal osobní závazek.
+DR. GALÉN: Je mi hrozně líto, ale…
+DVORNÍ RADA: Domnívám se, pane kolego, že na své klinice jsem pánem já. A úkoly tady přiděluju já.
+DR. GALÉN: Kdyby pan dvorní rada toho svého pacienta položil na
+třináctku, pak ovšem… samozřejmě…
+DVORNÍ RADA: Kamže, člověče?
+DR. GALÉN: Na třináctku, na zem. Já tam už nemám volné lůžko.
+
+37
+
+DVORNÍ RADA: Ale to je vyloučeno, Galéne. Takového pacienta přece
+nemůžeme strčit na kliniku! Ten by raději umřel, než by ležel
+mezi těmi tady – Moc bohatý pán, kamaráde! To nejde. Tak, prosím vás, doktore Dětino, žádné hlouposti –
+DR. GALÉN: Já budu léčit jenom na třináctce, pane dvorní rado. Já jsem
+dal své slovo, že ano… Kdyby pan dvorní rada dovolil… ti páni mě
+tak zdrželi… Smím jít k svým pacientům?
+DVORNÍ RADA: Můžete jít k čertu, vy – vy –
+DR. GALÉN: Děkuju uctivě. (Vklouzne do třináctky.)
+DVORNÍ RADA: – – Zatracený idiot! Takhle mne blamovat!
+(Přiblíží se První asistent.)
+PRVNÍ ASISTENT (odkašle): Kdyby pan dvorní rada dovolil… já jsem
+proti své vůli zachytil několik slov – Chování doktora Galéna je
+neslýchané! A tu mě napadlo… Já jsem totiž sestrojil injekční látku, která barvou připomíná prostředek doktora Galéna. Prostě
+k nerozeznání, pane dvorní rado.
+DVORNÍ RADA: Nu, a co s ní?
+PRVNÍ ASISTENT: Mohlo by se jí použít… místo pravých injekcí doktora Galéna. Je totiž zaručeně neškodná.
+DVORNÍ RADA: A léčivý efekt?
+PRVNÍ ASISTENT: Jsou v ní posilující prostředky, které pan dvorní
+rada sám předpisuje. Nemocným se načas uleví –
+DVORNÍ RADA: Ale nemoc pokračuje, co?
+PRVNÍ ASISTENT: … Injekce doktora Galéna taky v některých případech zůstaly bez účinku, pane dvorní rado.
+DVORNÍ RADA: – – To máte pravdu, mládenče. Ale profesor Sigelius
+takové věci nedělá.
+
+38
+
+PRVNÍ ASISTENT: To je známo, prosím, ale – – pan dvorní rada by
+snad nerad odmítl toho nebo onoho pacienta, na kterém mu záleží –
+DVORNÍ RADA: To máte taky pravdu. (Vytáhne blok receptů a píše.
+S chladným despektem:) Nemyslíte, mladíku, že vás je na vědeckou práci škoda? Nechtěl byste si raději otevřít privátní ordinaci?
+PRVNÍ ASISTENT: Totiž na to právě pomýšlím –
+DVORNÍ RADA: Já vám to radím. (Podává mu utržený recept.) Stavíte se
+s tím u mého kolegy. Vezme vás s sebou… k jednomu pacientovi,
+víme?
+PRVNÍ ASISTENT (klaní se): Děkuju nejuctivěji, pane dvorní rado!
+DVORNÍ RADA: Mnoho štěstí! (Rychle odchází.)
+PRVNÍ ASISTENT (potřásá sám sobě rukou): Gratuluju!… Gratuluju ti,
+milý hochu! Gratuluju, pane doktore! Máme vyhráno!
+Opona.
+
+Obraz pátý
+Táž chodba. Kordón mužů v bílých ošetřovatelských pláštích, ale v postoji
+zřejmě vojenském.
+(Úřední pán dívá se na hodinky.)
+DRUHÝ ASISTENT (přiběhne bez dechu): Pane komisaři, právě telefonují – Pan maršál už nastoupil do auta.
+ÚŘEDNÍ PÁN: Tedy ještě jednou: všechny pokoje s nemocnými –
+DRUHÝ ASISTENT: – od devíti ráno uzamčeny. Všechen personál
+shromážděn dole ve vestibulu. Je tam už ministr zdravotnictví,
+musím letět – (Zmizí.)
+
+39
+
+ÚŘEDNÍ PÁN: Pozor! (Muži v ošetřovatelských pláštích se postaví do
+pozoru.) Tak naposledy: Nikdo tudy nesmí projít než průvod Jeho
+Excelence! – Pohov!
+(Siréna auta.)
+ÚŘEDNÍ PÁN: Už je tady! Pozor! (Ustoupí do kulis.)
+(Ticho. Odněkud zdola je slyšet uvítací řeč. – Dva páni v civilu rychle přejdou chodbou, muži v ošetřovatelských pláštích salutují.)
+(Přichází Maršál v polní uniformě, po jeho jednom boku Dvorní rada, po
+druhém Ministr zdravotnictví. Za nimi svita, vojenští páni, lékaři.)
+DVORNÍ RADA: – zde, v čísle dvanáct, máme kontrolní pacienty, kteří
+jsou také stiženi Čengovou nemocí; ty však neléčíme svou novou
+metodou, aby bylo možno srovnávat dosažené výsledky –
+MARŠÁL: Rozumím. Podíváme se na ně.
+DVORNÍ RADA: Vaše Excelence dovolí, abych ji varoval. Choroba je
+nakažlivá. Mimoto je to hrozný pohled – a přes všechna opatření
+také nesnesitelný zápach.
+MARŠÁL: My vojáci a doktoři musíme vydržet všechno. Pojďme!
+(Vejde do dvanáctky. Celá svita za ním.)
+(Okamžik ticho, je slyšet jen hlas Dvorního rady z dvanáctky. Po chvilce
+vrávorá ven Generál, podpírán Druhým asistentem.)
+GENERÁL (sténá): Příšerné! Příšerné!
+(Z dvanáctky se tlačí ven jiní členové svity.)
+MINISTR ZDRAVOTNICTVÍ: To je hrůza! Otevřte okno!
+POBOČNÍK (se šátkem u nosu): Skandál! Sem vodit hosty!
+JINÝ PÁN: Kriste – Ježíši! Ježíši Kriste!
+GENERÁL: Jak to může maršál vydržet!
+
+40
+
+MINISTR: Pánové, já bych byl omdlel!
+POBOČNÍK: Jak sem mohli maršála pozvat! Idioti! Ale já jim ukážu –
+JINÝ PÁN: Viděli jste… viděli jste… viděli jste…
+GENERÁL: Prosím nemluvit o tom! Fuj, já toho mám dost pro celý život; a jako voják jsem viděl ledacos, pánové –
+DRUHÝ ASISTENT: Já bych donesl pánům kolínské vody!
+MINISTR: To jste měl mít s sebou, člověče!
+(Druhý asistent odběhne.)
+POBOČNÍK: Pozor!
+(Svita odstoupí ode dveří. Vyjde Maršál, za ním Dvorní rada a lékaři.)
+MARŠÁL (zastaví se): Jak vidím, pánové mnoho nesnesou. – Půjdeme
+dál.
+DVORNÍ RADA: V čísle třináct je ovšem docela jiný obraz. Tam totiž
+aplikujeme svou novou metodu. Vaše Excelence se sama přesvědčí –
+(Maršál vejde do třináctky. Za ním Dvorní rada a lékaři. Svita váhá, nahlíží do dveří a pak po jednom vchází do třináctky. Ticho, zas jen tlumený
+hlas Dvorního rady.)
+HLAS ZA SCÉNOU: Stát!
+DRUHÝ HLAS: Pusťte mě, já tam musím –
+ÚŘEDNÍ PÁN (vynoří se z kulis): Co je? Kdo je to?
+(Dva muži v ošetřovatelských pláštích vlekou Dr. Galéna za ruce.)
+ÚŘEDNÍ PÁN: Kdo ho sem vpustil? – Člověče, co tu chcete?
+DR. GALÉN: Pusťte mě k mým nemocným!
+(Vrací se Druhý asistent s lahví kolínské vody.)
+
+41
+
+ÚŘEDNÍ PÁN: Znáte toho člověka?
+DRUHÝ ASISTENT: To je doktor Galén, pane komisaři.
+ÚŘEDNÍ PÁN: Má tu co dělat?
+DRUHÝ ASISTENT: Ano, totiž – Vlastně ano. Pracuje tady na třináctce.
+ÚŘEDNÍ PÁN: Promiňte, pane doktore – Pusťte ho! – Proč jste nepřišel
+před devátou hodinou, jako druzí lékaři?
+DR. GALÉN (hladí si paže): Já… já jsem neměl kdy… já jsem dělal lék
+pro své nemocné –
+DRUHÝ ASISTENT (tlumeně): Pan doktor Galén totiž nebyl pozván.
+ÚŘEDNÍ PÁN: Ah tak. Teď musíte zůstat se mnou, pane doktore. Nemůžete dovnitř, dokud neodejde pan maršál.
+DR. GALÉN: Ale já přece…
+ÚŘEDNÍ PÁN: Račte jít se mnou! (Odvádí ho do kulis.)
+(Z třináctky vychází Maršál, Dvorní rada a ostatní.)
+MARŠÁL: Blahopřeju, milý Sigelie. Je to přímo zázrak.
+MINISTR ZDRAVOTNICTVÍ (čte z papíru): „Vaše Excelence, milovaný
+pane maršále, dovolte mi, abych jménem svého resortu –“
+MARŠÁL: Děkuju vám, pane ministře zdravotnictví. (Obrátí se k Dvornímu radovi.)
+DVORNÍ RADA: Vaše Excelence, jsem stěží mocen slova… Nám, klinice
+Lilienthalově, se dostalo tak vysokého uznání… My vědečtí pracovníci jsme si však vědomi, jak nepatrná a ubohá je naše zásluha
+proti té, která odvrátila daleko horší hlízu: hlízu anarchie, epidemii barbarské svobody, lepru korupce a mor společenského
+rozkladu, který zachvátil a téměř smrtelně oslabil organismus
+našeho národa –
+
+42
+
+POCHVALNÉ MRUČENÍ: Velmi dobře! Bravo!
+DVORNÍ RADA: A proto používám této vzácné příležitosti, abych se
+jako prostý lékař hluboce sklonil před tím největším lékařem,
+který nás všechny vyléčil z národního malomocenství tvrdou,
+někdy chirurgickou, ale vždycky spásonosnou terapií. (Uklání se
+hluboce před Maršálem.)
+POCHVALNÝ ŠUM: Bravo! Bravo!
+MARŠÁL (podává mu ruku): Děkuju vám, milý Sigelie. Vykonal jste veliké dílo. Na shledanou!
+DVORNÍ RADA: Nejhlubší dík, Vaše Excelence!
+(Maršál odchází, provázen Dvorním radou, svitou, lékaři atd.)
+ÚŘEDNÍ PÁN (vynoří se z kulis): Tak hotovo. Pozor! Dvojstup a uzavřít
+průvod! (Muži v ošetřovatelských pláštích jdou za svitou.)
+DR. GALÉN: Už smím dovnitř?
+ÚŘEDNÍ PÁN: Okamžiček, pane doktore, jen co pan maršál odjede. (Jde
+ke dvanáctce a strčí tam nos; honem zase zavře.) Hergot! A to tam
+chodí doktoři?
+DR. GALÉN: Co? Ano, ovšem.
+ÚŘEDNÍ PÁN: Nic naplat, pane doktore, je to veliký muž. Je to hrdina.
+DR. GALÉN: Kdo?
+ÚŘEDNÍ PÁN: Náš maršál. Vydržel tam dvě minuty. Já to měřil na hodinkách.
+(Siréna auta.)
+ÚŘEDNÍ PÁN: Už odjel. Tak už můžete dovnitř, pane doktore. A promiňte, že jsme vás na chvíli zatkli –
+DR. GALÉN: To nevadí, těšilo mě velice – (Zaleze do třináctky.)
+
+43
+
+(Přiběhne Druhý asistent.)
+DRUHÝ ASISTENT: Honem, kde jsou ti páni od novin? (Přeběhne.)
+ÚŘEDNÍ PÁN (podívá se na hodinky): Mno. Ani to tak dlouho netrvalo.
+(Odejde.)
+HLAS DRUHÉHO ASISTENTA: Tudy, pánové, tudy. Pan dvorní rada tu
+bude za okamžik.
+(Přichází hlouček žurnalistů s Druhým asistentem.)
+DRUHÝ ASISTENT: – Tady, pánové, na čísle dvanáct byste mohli vidět,
+jak vypadá takzvaná bílá nemoc, když není léčena podle naší metody; ale já pánům nedoporučuju…
+HLOUČEK NOVINÁŘŮ (vniká do dvanáctky, ale ihned zděšeně couvá):
+Co je tam? – Zpátky! – Pusťte mne! – To je strašné! – Hrůza!
+JEDEN NOVINÁŘ: Ti… ti jsou ztraceni, ne?
+DRUHÝ ASISTENT: Nu ovšem. A tady, na třináctce, se mohou páni sami přesvědčit, jak vypadají výsledky po několika týdnech našeho
+léčení. Jen prosím, neračte se obávat –
+(Hlouček novinářů váhavě vstupuje do třináctky; vejdou tam všichni.)
+(Vrací se Dvorní rada, září nadšením.)
+DRUHÝ ASISTENT: Prosím, pane dvorní rado, páni od novin jsou právě
+na třináctce…
+DVORNÍ RADA: Kdyby mne teď nechali! Jsem tak dojat… Tak honem,
+kde je máte?
+DRUHÝ ASISTENT (ve dveřích třináctky): Prosím, pánové; pan dvorní
+rada právě přišel.
+HLOUČEK NOVINÁŘŮ (vychází na chodbu): To je zázrak! – Úžasné! –
+Skvělé!
+
+44
+
+DRUHÝ ASISTENT: Račte se rozestavit, pánové; pan dvorní rada vám
+poskytne informace…
+DVORNÍ RADA: Pánové prominou, ale jsem tak hluboce vzrušen…
+Kdybyste viděli, s jakým soucitem… a s jakou mravní statečností
+se sklonil náš maršál nad lůžky těch nejubožejších… To byl nezapomenutelný okamžik, pánové!
+JEDEN NOVINÁŘ: A co řekl?
+DVORNÍ RADA: Nu, vyjádřil se potom až příliš lichotivě –
+DRUHÝ ASISTENT: Kdyby pan dvorní rada dovolil, Jeho Excelence se
+vyjádřila: Blahopřeji vám, milý Sigelie. Je to zázrak. Vykonal jste
+veliké dílo, pane dvorní rado.
+DVORNÍ RADA: Nu ano, pan maršál velmi přecenil mou zásluhu. Nyní,
+když je nalezen bezpečný prostředek proti takzvané bílé nemoci,
+můžete napsat, pánové,… že to byla nejhroznější choroba dějin,
+horší než středověký mor – Teď už není třeba zamlčovat dosah té
+hrůzy. Jsem hrd, pánové, že palmu tohoto úspěchu si odnáší náš
+národ – a že ho bylo dobyto právě na půdě kliniky mého velkého
+učitele a předchůdce Lilienthala.
+(Dr. Galén stojí unaveně ve dveřích třináctky.)
+DVORNÍ RADA: Pojďte sem, Galéne! Pánové, to je taky jeden ze zasloužilých spolubojovníků. V naší lékařské vědě nezáleží na osobních
+úspěších; pracujeme prostě pro lidstvo – Jen se nestyďte, milý
+Dětino. Všichni jsme splnili svou povinnost… až po nejmenší
+ošetřovatelku. Jsem rád, že v tento veliký den mohu ze srdce poděkovat všem svým obětavým spolupracovníkům –
+JEDEN NOVINÁŘ: Mohl byste nám říci, pane dvorní rado, v čem záleží
+vaše léčebná metoda?
+DVORNÍ RADA: Ne moje, pane. Ne moje. Metoda kliniky Lilienthalovy.
+V čem záleží – pánové, to ohlásíme lékařům; léčebné prostředky
+
+45
+
+náležejí jen do rukou odborných. Řekněte veřejnosti, co jste tady
+viděli. Napište prostě: Lék proti nejvražednější nemoci světa je
+nalezen. Nic víc. Ale chcete-li tento radostný den zvěčnit, pak pište, pánové, o velikém vojevůdci… o hlavě našeho státu… o nádherném hrdinovi, který vkročil mezi malomocné, aby vzdoroval
+hrůze a nákaze… To bylo nadlidské, pánové! Opravdu, nejsem ani
+mocen slova… Promiňte, moji nemocní už čekají. Poroučím se,
+pánové; kdybyste něco potřebovali, jsem vám vždycky
+k službám. (Rychle odejde.)
+NOVINÁŘ: Tak bychom byli hotovi, ne?
+DR. GALÉN: Prosím, pánové… ještě snad chvilinku… Prosím vás, vyřiďte, že já, doktor Galén… doktor chudých…
+NOVINÁŘ: Komu to máme vyřídit?
+DR. GALÉN: Komu? Všem králům a vladařům na světě… Napište jim, že
+bych je prosil… Já byl totiž na vojně, pánové, jako doktor… a já
+bych chtěl, aby už nebyly války, víte? Prosím vás, napište jim to!
+NOVINÁŘ: Myslíte, že vás poslechnou?
+DR. GALÉN: Ano, totiž… Řekněte jim, že jinak zajdou na malomocenství, že ano… Ten lék proti Čengově nemoci, to je můj lék, rozumíte? A já jej nedám, dokud… dokud neslíbí, že už se nebude zabíjet! Prosím vás, pánové, řekněte jim, že jim to vzkazuju! Já
+opravdu… nikdo druhý ten můj prostředek nezná, zeptejte se tady na klinice; jen já mohu léčit, jen já… Řekněte jim, že už jsou
+staří… všichni, kdo vládnou. Řekněte jim, že budou zaživa hnít…
+jako ti tady. Řekněte, že to čeká všechny lidi… vůbec všechny…
+JINÝ NOVINÁŘ: Vy byste nechal lidi takhle umírat?
+DR. GALÉN: A vy byste je nechali zabíjet? Proč prosím… Když mohou lidé
+zabíjet olovem a plynem,… nač my doktoři máme někoho zachraňovat, ne? Kdybyste věděli, co to dá někdy práce… zachránit dítě… ne-
+
+46
+
+bo vyhojit takový kostižer… A pak se řekne válka! Jako lékař… musím být proti střílení a yperitu, že? Já jsem viděl, jaké svinstvo to
+v člověku dělá… Rozumíte, prostě jako doktor – Já nejsem žádný politik, pánové, ale jako lékař jsem povinen… bojovat o každý lidský
+život, ne? To je prostě lékařská povinnost, odstranit válku!
+NOVINÁŘ: Prosím vás, jak ji chcete odstranit?
+DR. GALÉN: Jak? Prostě… ať se zřeknou válečného násilí, a já jim za to
+dám ten lék proti bílé nemoci, ne?
+(Druhý asistent odběhne.)
+NOVINÁŘ: Jak si představujete, že byste přinutil vlády celého světa –
+DR. GALÉN: Ano, jak… To je právě to těžké, že? Já vím, že se mnou nebudou jednat; ale když vy to napíšete v novinách – Napište, že ten
+lék nedostane žádný národ, dokud se nezaváže,… že… že… že už
+nikdy nepovede válku, víte?
+NOVINÁŘ: Ani kdyby se musel bránit?
+DR. GALÉN: Bránit se… Poslyšte, já bych se taky bránil; kdyby na nás
+někdo šel, tak… budu střílet, že ano… Ale proč by se nemohly
+zrušit útočné zbraně… proč by se nemohlo ve všech státech omezit zbrojení –
+JINÝ NOVINÁŘ: Vyloučeno. To dnes žádný stát neudělá.
+DR. GALÉN: Ne? A to… to teda nechá své lidi tak hrozně umírat? Co?
+Tolik lidí se nechá zbytečně trpět? A… a… a lidé si to dají líbit, co?
+Myslíte, že se ani nebudou bouřit? A sami mocní se budou zaživa
+rozpadat… Člověče, vždyť se budou bát… všichni se budou bát…
+NOVINÁŘ: Něco na tom je. Muselo by se počítat s veřejností –
+DR. GALÉN: Ano. A vy jim řeknete: Nebojte se, je tady lék – Přimějte
+své vladaře, aby složili slib věčného míru… aby uzavřeli věčnou
+smlouvu se všemi národy,… nu a bude po bílé nemoci, že ano?
+
+47
+
+NOVINÁŘ: A co když na to žádná vláda nepřistoupí?
+DR. GALÉN: Poslyšte, to by mně bylo hrozně líto… To bych pak svůj lék
+nemohl vydat. Ne prosím, to bych nemohl.
+NOVINÁŘ: A co byste s ním dělal?
+DR. GALÉN: Co? Já? Jako doktor… musím přece léčit, ne? Léčil bych své
+chudé…
+NOVINÁŘ: Proč jenom chudé?
+DR. GALÉN: Protože jich je mnoho. To by byla ohromná praxe, člověče!
+Víte, mohl bych aspoň dokázat… na spoustě případů, že se dá bílá
+nemoc vyléčit.
+NOVINÁŘ: A bohatého byste do léčení nevzal?
+DR. GALÉN: Je mi líto, pane,… ale to bych nemohl. Bohatí – Bohatí mají
+víc vlivu, že ano – Budou-li mocní a bohatí opravdu chtít mír… Na
+ně se víc dá, víte?
+NOVINÁŘ: Nezdá se vám, že je to k těm bohatým – trochu nespravedlivé?
+DR. GALÉN: Je, pane. Já vím. Ale nezdá se vám, že je to k těm chudým –
+taky trochu nespravedlivé, že jsou chudí? Koukejte se, vždycky
+umíralo o tolik víc chudých, že ano – a nemuselo by to být, pane,
+nemuselo by to být! Každý má právo na život, že? Člověče, kdyby
+se dalo na špitály tolik jako na válečné lodi –
+(Rychle přichází Dvorní rada s Druhým asistentem.)
+DVORNÍ RADA: Prosím pány novináře, aby opustili kliniku. Kolega
+Galén nervově ochuravěl.
+NOVINÁŘ: Ale nás by ještě zajímalo slyšet –
+DVORNÍ RADA: Pánové, tady za dveřmi je nakažlivá choroba. Je ve
+vašem zájmu vzdálit se. Pane asistente, doprovoďte pány redaktory k východu.
+
+48
+
+(Hlouček novinářů se vzdaluje.)
+DVORNÍ RADA: Galéne, vy jste se zbláznil! Já nestrpím, aby se na půdě
+mé kliniky vedly tak nesmyslné a podvratné řeči – a k tomu
+v takový den! Měl bych vás dát na místě sebrat pro pobuřování,
+rozumíte? Naštěstí vás jako lékař omlouvám; jste asi přepracován. Pojďte se mnou, Dětino!
+DR. GALÉN: Proč?
+DVORNÍ RADA: Pěkně mi povíte chemickou formuli a přesné použití
+svého léku, a pak si půjdete odpočinout. Máte toho zapotřebí.
+DR. GALÉN: Pane dvorní rado, já jsem ohlásil své podmínky, že ano…
+Jinak…
+DVORNÍ RADA: Jinak co? Nu? Co bude?
+DR. GALÉN: Prosím za prominutí, ale… já jinak svůj lék nemohu vydat,
+pane dvorní rado.
+DVORNÍ RADA: Buď jste blázen, nebo vlastizrádce, Galéne! Žádám vás
+důtklivě, abyste se choval jako lékař. Vaše povinnost je pomáhat
+nemocným; po ostatním vám nic není.
+DR. GALÉN: Ale já bych jako lékař chtěl, aby se už lidé nezabíjeli –
+DVORNÍ RADA: Ale já na půdě své kliniky takové názory zakazuju! My
+nesloužíme žádné humanitě, nýbrž vědě – a svému národu, pane
+kolego. Nezapomínejte, že jste na státním ústavu.
+DR. GALÉN: Ale proč, poslyšte – Proč by náš stát nemohl uzavřít věčný
+mír…
+DVORNÍ RADA: Protože nemůže a nesmí. Pan Galén jako cizinec původem nemá patrně dost jasné ponětí o tom, co je poslání a budoucnost našeho národa. A dost toho nesmyslu! Nyní vás žádám
+naposledy, doktore Galéne, abyste mně jako hlavě kliniky oznámil formuli svého léku.
+
+49
+
+DR. GALÉN: Je mi hrozně líto, pane dvorní rado, ale… to prosím nemohu udělat.
+DVORNÍ RADA: – – – Jděte! A na mou kliniku už nevkročíte!
+DR. GALÉN: … Prosím, pane dvorní rado. Ale je mi opravdu líto –
+DVORNÍ RADA: Mně také, člověče. Myslíte, že mně není líto nemocných, kteří budou dál umírat na Čengovu nemoc? Co? A myslíte,
+že mně není… zatraceně divně, když se podívám sám na sebe? Jak
+teď vypadám, člověče! Tady slavnostně ohlásím, že máme lék
+proti malomocenství; nu teď je s tím konec, a já – To je amen
+s mou vědeckou ctí, doktore Dětino; já příliš dobře vím, jaká to je
+ostuda. Ale raději tuhle porážku, než abych připustil… vaše utopistické vyděračství, Galéne! Raději nechám celý svět pojít na
+malomocenství, než bych tady strpěl… na jediný okamžik… váš
+pacifistický mor!
+DR. GALÉN: Poslyšte, to byste neměl… To byste jako lékař neměl říkat!
+DVORNÍ RADA: Já nejsem jenom lékař, pane. Já bohudík sloužím také
+svému státu. – Ven!
+Opona.
+
+50
+
+JEDNÁNÍ DRUHÉ
+Baron Krüg
+Obraz první
+Rodina u večerní lampy.
+OTEC (čte noviny): Tak vidíš, matko: už mají lék proti tomu malomocenství. Tady to stojí.
+MATKA: Chválabohu!
+OTEC: To si myslím. A vidíš, já jsem to říkal. Za dnešního stavu civilizace přece nenechají uhynout tolik lidí! Copak je padesátka nějaký
+věk, aby měl člověk umřít? Já ti řeknu, maminko, – teď jsem zase
+rád na světě. Člověk se přece jen musel bát – Jenom u nás zkvaklo
+na tu bílou nemoc přes třicet kolegů, všichni kolem padesátky –
+MATKA: Chudáci!
+OTEC: Tak abys věděla – Dnes ráno si mě zavolal sám baron Krüg
+a povídá, kamaráde, tadyhle nám umřel ředitel účtárny; zatím ji
+povedete vy, a do čtrnácti dnů budete jmenován ředitelem. – Víš,
+chtěl jsem tě překvapit, až dostanu to jmenování, ale když je dnes
+tak šťastný den – No tak, co tomu říkáš?
+MATKA: To víš, jsem ráda – kvůli tobě.
+OTEC: A kvůli sobě ne? Považ, matko, to bude o dvanáct tisíc ročně víc!
+Já nevím, ale máš-li tam ještě tu láhev vína, co jsem ti dal
+k narozeninám –
+MATKA (vstane): Nepočkáme na děti?
+OTEC: Ale co! Holka je někde s tím svým, a kluk dělá zítra státnici – Jen
+to sem dones!
+
+51
+
+MATKA: Jak chceš. (Odejde.)
+OTEC (čte noviny): – – Prý to hrozilo víc než středověký mor. Ale dnes
+už není středověk, holenku! Dnes lidé nebudou tak hloupě umírat. – (Čte dál.) Mm – Copak náš maršál, to je hrdina! Já bych tam
+nelezl, mezi ty malomocné. Já ne. (Odhodí noviny, vstane, přechází
+a mne si ruce.) Tak tedy ředitel účtárny! Uctivá poklona, pane řediteli! Jak se pan ředitel ráčil vyspat? – Nu taktak; to víte, ta odpovědnost –
+(Matka přináší láhev vína a jednu sklenici.)
+OTEC: Jenom jednu sklenici? Copak ty nebudeš pít se mnou?
+MATKA: Ne, já – Jen pij sám.
+OTEC: Tak na tvé zdraví, maminko. (Pije.) A hubičku mi nedáš?
+MATKA: – Ne, prosím tě, nech mne!
+OTEC (nalévá si): Ředitel účtárny u Krüga – Holenku, to půjdou mýma
+rukama denně milióny, milióny, milióny v číslicích! To víš, to by
+nemohl dělat žádný holobrádek. A pak že lidé po padesátce jsou
+zbyteční! Já vám ukážu, kdo je zbytečný! (Pije.) Kdo by si to byl
+pomyslel, když jsem před třiceti léty nastupoval u Krüga, – že to
+dotáhnu až na ředitele účtárny! To je velká kariéra, matko; pravda, nadřel jsem se dost, sloužil jsem poctivě – Mně baron Krüg říká jen kamaráde, a ne pane ten a ten, jako těm mladým. Kamaráde, zatím povedete účtárnu vy – Prosím, pane barone. Tak jak
+mne slyšíš. – Abys věděla, na to místo si brousilo zuby pět kolegů.
+A vidíš, všichni pomřeli. A všichni na tu bílou nemoc. Člověk by
+skoro řekl –
+MATKA: Co?
+OTEC: Nic, jen mě tak napadlo – Když k tomu připočteš, že se nám teď
+vdá i dcera – ten její si přece jen našel místo – A kluk se dostane
+
+52
+
+do úřadu, jen co udělá ty státnice – Víš, matko, já ti řeknu, jak to
+cítím: Zaplať pánbůh za to malomocenství!
+MATKA: Prosím tě! Jak můžeš takhle mluvit!
+OTEC: Vždyť je to pravda! Koukej se, nám to pomohlo – a mnoha jiným
+lidem taky – Člověk musí být vděčný osudu, maminko. Nebýt té
+bílé nemoci, – tak já nevím; to by nám nebylo tak dobře jako teď.
+Tak je to. A teď proti tomu našli lék – Nám už se nemůže nic stát.
+Ale já jsem to ještě ani nedočetl. (Bere noviny.) Hele, já vždycky
+říkám: profesor Sigelius je kapacita. Zrovna na jeho klinice to našli. Byl tam náš maršál – to si musíš přečíst. Prý to byla nadlidská
+chvíle. To věřím. Já ho viděl jednou, když jel po ulici, jenom se
+mihnul – To je velký muž. Ohromný voják, matko.
+MATKA: A… válka bude?
+OTEC: To víš, že bude. To by byl zrovna hřích, maminko, aby nebyla,
+když máme tak skvělého vojevůdce. U nás, v Krügově koncernu,
+se teď pracuje na tři směny, samá munice – Ne abys to někomu
+řekla, ale teď jsme u nás začali dělat nový plyn – Prý to má být
+něco báječného. Baron staví šest nových továren – Nemysli si,
+teď se tam stát ředitelem účtárny, to je velká důvěra. Řeknu ti, já
+bych to na sebe ani nebral, kdyby to nebyla vlastenecká povinnost. Tak je to.
+MATKA: Já jen… aby náš hoch nemusel na vojnu.
+OTEC: Jen ať splní taky svou povinnost, matko! – (Pije.) Ostatně je na
+vojenskou službu slabý. Žádná starost, holenku: budoucí válka
+nepotrvá ani týden. To se nepřítel rozbije na padrť, dřív než se
+doví, že je válka. Tak se to dnes dělá, maminko; ale teď mě nech
+číst.
+(Ticho.)
+
+53
+
+OTEC (uhodí novinami): Zatracený chlap! Jak se tohle může dovolit –
+A že to ty noviny tisknou! Já bych toho chlapa jednoduše dal sebrat a zastřelit! Vždyť je to zrádce.
+MATKA: Kdo, tati?
+OTEC: Ale tady čtu – Prý ten lék našel nějaký doktor Galén. A ten prý
+ten lék nevydá žádnému státu, který neuzavře věčný mír –
+MATKA: A co je na tom tak zlého?
+OTEC: Prosím tě, jak se můžeš tak hloupě ptát! To přece dnes žádný
+stát nemůže udělat! Copak jsme dali nadarmo tolik miliard na
+zbrojení? Věčný mír! Vždyť je to přímo zločin! Tak to by se měly
+Krügovy podniky zavřít, ne? A dvě stě tisíc lidí vyhodit na dlažbu,
+co? A ty se ještě ptáš, co je na tom zlého! Zavřít toho chlapa!
+Vždyť je to pobuřování, mluvit dnes o míru! Jakým právem si takový vošoust dovolí žádat, aby kvůli němu celý svět odzbrojil!
+MATKA: Ale když našel ten lék…
+OTEC: To je ještě otázka! Já ti řeknu, ten uličník vůbec nebude doktor,
+ale tajný agent a provokatér, placený od nějakého cizího státu –
+Á, pane, na toho ať si dají pozor! Žádné řeči, a zavřít; a teď, chlapíku, kápni božskou – Tak se to dělá!
+MATKA: Ale podívej se, kdyby měl opravdu ten lék – (Bere noviny.)
+OTEC: Tím hůř! Tak bych mu dal palce do presu a mačkal, až by neřád
+začal cinkat – Holenku, na to dnes máme prostředky, aby lidé
+mluvili! Prosím tě, copak by nás ten všivák směl nechat chcípat
+na malomocenství pro nějaké své pitomé utopie, jako je mír? To
+by byla pěkná humanita!
+MATKA (dívá se do novin): Ten doktor jenom říká, že chce odstranit
+zabíjení –
+
+54
+
+OTEC: Darebák! Copak sláva národa není nic? A – a – když náš stát potřebuje větší území, tak mu to někdo dá po dobrém, co? Kdo mluví proti zabíjení, mluví proti našim nejsvětějším zájmům, rozumíš?
+MATKA: Ne, tati, nerozumím. Já bych chtěla, aby byl mír… kvůli nám
+všem.
+OTEC: Mami, já se s tebou nebudu přít, ale – Řeknu ti rovnou, kdybych
+měl já volit… mezi tou bílou nemocí a věčným mírem, tak jsem
+raději pro tu bílou nemoc. Tak, teď to víš.
+MATKA: – – Jak myslíš, tatínku.
+OTEC: Prosím tě, co je s tebou? Ty jsi nějaká – Proč máš ten šál na krku? Je ti zima?
+MATKA: Není.
+OTEC: Tak to sundej, nebo se nachladíš. Ukaž! (Strhne jí šál.)
+(Matka mlčky vstane.)
+OTEC: Ježíši, matko – Maminko, ty máš na krku bílou skvrnu!
+Opona.
+
+55
+
+Obraz druhý
+Fronta malomocných před ordinací doktora Galéna. Poslední v řadě Otec
+a Matka.
+PRVNÍ MALOMOCNÝ (z prvního jednání): Koukej, tady na krku –
+DRUHÝ MALOMOCNÝ (z prvního jednání): To už máš dobré.
+PRVNÍ MALOMOCNÝ: To si myslím. Krásně se nám to hojí, říká doktor.
+DRUHÝ MALOMOCNÝ: A mně posledně řekl, už se nám to hnulo, člověče, už se nám to hodně zmenšuje.
+PRVNÍ MALOMOCNÝ: Tak vidíš, ty troubo!
+DRUHÝ MALOMOCNÝ: A nejdřív mě nechtěl vzít. Když jste pekař, povídá, tak nejste chudý člověk; já prý léčím jen chudé. A já jsem
+mu řekl, pane doktore, když má pekař malomocenství, tak u něho
+nikdo nekoupí ani housku; vždyť já jsem na tom hůř než žebrák.
+Tak mě nakonec vzal –
+(Zacházejí dovnitř.)
+OTEC: Tak vidíš, maminko, nakonec ho vzal; a byl to pekař.
+MATKA: Bože můj, já mám strach –
+OTEC: Já před ním padnu na kolena a řeknu mu: Pane doktore, mějte
+slitování; děti máme nezaopatřené – Copak je to hřích, že se člověk poctivou prací domůže vyššího postavení? Po celý život jsme
+si odpírali – Přece ten doktor nemůže být tak tvrdý!
+MATKA: Když on prý léčí jen ty nejchudší!
+OTEC: A to bych se podíval, aby tě nechtěl vzít! To bych mu něco řekl,
+víš –
+MATKA: Prosím tě, ne abys byl na něho prudký!
+
+56
+
+OTEC: Ne, ale já mu řeknu, co je jeho lidská povinnost! Já mu řeknu,
+pane doktore, ať to stojí co stojí – tady jde o mou ženu –
+(Vychází Dr. Galén.)
+DR. GALÉN: Co… co chcete?
+OTEC: Pane doktore… kdybyste byl tak laskav… tady má žena…
+DR. GALÉN: Kdo jste?
+OTEC: Já, prosím… já jsem účetním ředitelem… Krügových podniků.
+DR. GALÉN: Krügových podniků?… Prosím to já nemohu – Je mi hrozně
+líto, pane, ale já léčím jen chudé, že ano –
+OTEC: Pane doktore, mějte slitování! Budeme vám do smrti žehnat –
+DR. GALÉN: Poslyšte, ne… Prosím vás, to ne… Podívejte se, já… já
+opravdu mohu jen chudé… Chudí nemohou nic dělat, ale ti druzí,
+ti mohou spíš –
+OTEC: Prosím, já jsem ochoten cokoliv… ať to stojí co stojí…
+DR. GALÉN: Podívejte se, ti bohatí mohou spíš prosadit, že ano…, aby
+už nebyly války. Na ně se víc dá, pane… Mají větší vliv… Řekněte
+jim, aby všichni užili svého vlivu…
+OTEC: Pane doktore, já bych rád; ale já osobně nemohu nic dělat…
+DR. GALÉN: Ano, ano… to říká každý, víte? Poslyšte, kdybyste vy řekl
+baronu Krügovi,… aby přestal vyrábět kanóny a munici… Kdybyste získal barona Krüga –
+OTEC: Ale to přece nejde, pane doktore… Jak bych se já prosím mohl
+opovážit… To je vůbec vyloučeno!
+DR. GALÉN: Tak vidíte, a jak mám potom já… Nu, co dělat… Je mi hrozně líto…
+OTEC: Pane doktore, prosím vás, aspoň z lidské povinnosti –
+
+57
+
+DR. GALÉN: Ano, vidíte… Já tu povinnost vzal na sebe, pane, to je právě
+to… To je to hrozně těžké, že ano… Poslyšte, kdybyste vy se zřekl
+svého místa u barona Krüga… kdybyste mu řekl, že už nechcete
+pracovat pro jeho munici –
+OTEC: A čím bych se potom měl živit?
+DR. GALÉN: Tak vidíte, vy se taky živíte… válkou!
+OTEC: Kdybych dostal jinde místo účetního ředitele… Pane doktore,
+člověk se teprve k stáru dopracuje… To přece nemůžete žádat!
+DR. GALÉN: Ano, vidíte – Člověk nemůže od lidí nic žádat. Co dělat, co
+dělat… Nu tak sbohem, pane; je mi líto – (Odejde.)
+MATKA: Vidíš – vidíš –
+OTEC: Pojď! Je to bezcitný padouch! O takové místo by člověka připravil!
+Opona.
+
+58
+
+Obraz třetí
+Pracovna Dvorního rady.
+DVORNÍ RADA (u dveří): Jen račte dál, drahý barone Krügu.
+BARON KRÜG (vstupuje): Děkuju vám, milý dvorní rado. Už jsem myslel, že se k vám ani nedostanu…
+DVORNÍ RADA: To věřím; v takových dobách – Prosím posaďte se.
+Tyhle dny na vás kladou velké nároky, co?
+BARON KRÜG: Ano, značné nároky. Pravda.
+DVORNÍ RADA: Ale jsou to veliké doby.
+BARON KRÜG: Co? Aha, vy myslíte politicky. Ano, veliké doby. Veliké
+a těžké.
+DVORNÍ RADA: Pro vás jistě těžké, pane barone.
+BARON KRÜG: Proč myslíte?
+DVORNÍ RADA: Myslím – ta příprava na válku, která se chválabohu
+zdá už nevyhnutelná – Řídit v takové době Krügovy podniky, to
+nemůže být maličkost.
+BARON KRÜG: Nu ano, pravda – Poslyšte, milý dvorní rado, myslel
+jsem, že bych u vás mohl složit nějakou částku… na zkoumání té
+bílé nemoci.
+DVORNÍ RADA: To je celý baron Krüg. I v tak velké a napjaté době
+myslet na vědecké účely – Pořád stejně velkorysý a spontánní. To
+víte, pane barone, rádi přijmeme, a pokud stačí naše síly, využijeme k dalšímu badání –
+BARON KRÜG: Děkuju vám. (Položí na stůl velkou obálku.)
+DVORNÍ RADA: Mám napsat kvitanci –?
+
+59
+
+BARON KRÜG: Není třeba. A jak to vypadá, milý Sigelie –
+DVORNÍ RADA: – s Čengovou nemocí? Děkuju za optání, rozmáhá se
+nám ažaž – Naštěstí teď lidé myslí víc na příští válku než na bílou
+nemoc. Nálada je velmi optimistická, barone Krügu. Naprostá
+důvěra.
+BARON KRÜG: Že se ta nemoc zdolá?
+DVORNÍ RADA: Ne, ne. Že vyhrajeme tu válku. Celý národ důvěřuje
+v maršála, ve vás a v naše nádherné vojsko. Ještě nikdy nebyla
+tak příznivá chvíle –
+BARON KRÜG: A – doposud se nenašel žádný lék –
+DVORNÍ RADA: Ne, dosud ne. Jenom ten Galénův prostředek. Pracuje
+se ovšem usilovně dál –
+BARON KRÜG: A co ten váš bývalý asistent – Prý se k němu nemocní
+jen hrnou. Říká se, že léčí tu nemoc metodou kliniky Lilienthalovy –
+DVORNÍ RADA: Docela obyčejný humbuk, pane barone. Mezi námi,
+není na tom zhola nic. Jsem rád, že jsem se toho chlapíka zbavil.
+BARON KRÜG: Nu, tak to je snad všechno – Mimochodem, co dělá ten…
+doktor Galén?
+DVORNÍ RADA: Léčí své chudé. To víte, je to jen demagogické gesto –
+ale léčebné výsledky ten potřeštěnec má –
+BARON KRÜG: Bezpečné?
+DVORNÍ RADA: Bohužel, skoro na sto procent. Ještě dobře, že naše
+veřejnost je tak rozumná. Ten blázen Galén si myslel, že může
+svým lékem vydírat… pro svou nesmyslnou utopii. A vidíte, nejde
+za ním skoro nikdo… totiž z vyšších vrstev. Mezi námi, policie
+nenápadně zjišťuje, kdo k němu chodí – Tady se také ukázalo, jak
+
+60
+
+je naše veřejnost vlastenecká; tak říkajíc bojkotuje celého Galéna
+i s jeho zázračným lékem – Podivuhodné, že?
+BARON KRÜG: Ano, velmi. Doktor Galén ovšem zásadně odmítá… léčit
+bohaté, ne?
+DVORNÍ RADA: Prosím vás, takový fanatik! Ještě štěstí, že tu je ten
+mládenec, co u mne býval asistentem; celá lepší klientela se
+k němu hrne houfem – říká se, že si od nás odnesl Galénův tajný
+předpis – Výsledky sice nemá žádné, ale zato praxi – kvetoucí.
+A o Galénovi se už skoro neví; zapadl mezi ty své chudé –
+a fantazuje dál o věčném míru. Chudák, je to mánie; prosím vás,
+blouznit dnes o věčném míru – Jako lékař bych řekl, že by měl být
+ošetřován v nějakém ústavu pro duševně choré.
+BARON KRÜG: Tedy za těch okolností… se nedá proti bílé nemoci dělat
+nic, ne?
+DVORNÍ RADA: Dá, barone. Chválabohu dá. Právě v posledních dnech
+se mi poštěstilo docílit… přímo skvělého úspěchu; teď už můžeme doufat, že se nám brzo podaří omezit další šíření Čengovy
+nemoci.
+BARON KRÜG: To rád slyším, milý Sigelie. Opravdu, velmi rád… A čím,
+prosím vás –
+DVORNÍ RADA: Je to zatím přísně důvěrné, ale – Zkrátka v nejbližších
+dnech vyjde nařízení, které zavede povinnou izolaci takzvaných
+malomocných. To je mé dílo, pane barone. Sám maršál mně slíbil,
+že se o věc zasadí. – To je největší úspěch, kterého se dosud proti
+Čengově nemoci na světě dosáhlo.
+BARON KRÜG: Ano, je to jistě… krásný úspěch. A jakou izolaci myslíte…
+DVORNÍ RADA: Tábory, pane barone. Každý nemocný, každý, na kom
+se ukáže bílá skvrna, bude dopraven do střežených táborů –
+
+61
+
+BARON KRÜG: Aha. A tam se nechá pomalu umřít.
+DVORNÍ RADA: Ano, ale za lékařského dozoru. Čengova nemoc je nákaza, kterou každý nemocný roznáší dál. Musíme proti tomu
+chránit – nás ostatní, milý barone. Každá sentimentalita by byla
+přímo zločin. Kdo by se pokusil z tábora uprchnout, bude zastřelen. Každý občan nad čtyřicet let se měsíčně podrobí povinné lékařské prohlídce. Nákaza Čengovou nemocí bude potlačována
+násilím. Jiné záchrany není.
+BARON KRÜG: – – Máte asi pravdu, milý Sigelie. Škoda, že se vám to
+nepodařilo dřív.
+DVORNÍ RADA: Ano, škoda; s tím hloupým Galénovým lékem jsme
+ztratili trochu času; za tu dobu se nám ta bílá nemoc rozmohla –
+Svrchovaný čas uzavřít ty nemocné mezi ostnaté dráty; a nedovolit pak ani jedinou výjimku –
+BARON KRÜG (vstane): Ano. Hlavně nedovolit ani jedinou výjimku.
+Děkuju vám, milý dvorní rado.
+DVORNÍ RADA (vstane): Je vám něco, barone? Dovolte –
+BARON KRÜG (rozhrne si košili na prsou): Kdybyste se podíval, milý
+Sigelie –
+DVORNÍ RADA: Ukažte, proboha! (Obrací ho k světlu a prohlíží baronovu hruď. Dotýká se jí nožem na papír.) Necítíte nic? (Po chvilce ticha:) Můžete se ustrojit, pane barone.
+BARON KRÜG: – – Je to – –?
+DVORNÍ RADA: Zatím se nedá říci – jen bílá skvrnka – Patrně pouhá
+dermatóza –
+BARON KRÜG: A vy mi radíte –
+DVORNÍ RADA (s bezradným gestem): Kdyby šlo nějak přimět doktora
+Galéna – aby pana barona vyšetřil –
+
+62
+
+BARON KRÜG: – Děkuju vám, Sigelie. Ruku vám – nemám podávat, že?
+DVORNÍ RADA: – – Nikomu, barone Krügu. Nikomu už nepodat ruku.
+BARON KRÜG (ve dveřích): A říkáte, že to nařízení… o izolaci nemocných… vyjde v nejbližších dnech? – To tedy musím zařídit,… aby
+v mých továrnách… zvýšili výrobu ostnatých drátů.
+Opona.
+
+63
+
+Obraz čtvrtý
+Ordinace Doktora Galéna.
+DR. GALÉN: Poslyšte, člověče, dobré je to. Můžete se ustrojit.
+MALOMOCNÝ (z prvního aktu): A kdy mám zas, pane doktore, přijít?
+(Obléká se za plentou.)
+DR. GALÉN: Za čtrnáct dní, abych se podíval, že ano… A pak už snad
+nebude třeba… (Otevře dveře.) Další nemocný!
+(Vejde Baron Krüg, zarostlý, v žebráckých hadrech.)
+DR. GALÉN: Tak co je s vámi, člověče?
+BARON KRÜG: Pane doktore, já mám tu bílou nemoc –
+DR. GALÉN: Košili sundat. – A co vy tam… Tak dělejte, člověče –
+MALOMOCNÝ: Pane doktore, já jen… co jsem dlužen…
+DR. GALÉN: Musíte ještě přijít.
+MALOMOCNÝ: Tak zatím mockrát děkuju. (Vysouká se ven.)
+DR. GALÉN (k Baronu Krügovi): Ukažte se, člověče. – (Prohlíží ho.) Poslyšte, to ještě není tak zlé. Je to sice bílá nemoc, ale – Čím jste?
+BARON KRÜG: … Bez místa, pane doktore. Býval jsem… v kovodílně…
+DR. GALÉN: A teď?
+BARON KRÜG: Co se tak najde… Já jsem slyšel, že pan doktor pomáhá
+chudým…
+DR. GALÉN: Tak poslyšte, to by trvalo čtrnáct dní… Za čtrnáct dní byste
+mohl být v pořádku, víte? Já bych vám dal šest injekcí – Člověče,
+můžete zaplatit šest injekcí?
+BARON KRÜG: Ale ovšem – Totiž podle toho, nač by to přišlo…
+
+64
+
+DR. GALÉN: To by přišlo… hodně draho, pane barone Krügu.
+BARON KRÜG: Ale pane doktore… Já přece nejsem žádný baron Krüg…
+DR. GALÉN: Poslyšte, pane, to nejde… To bych prosím nemohl s vámi
+dál jednat. A… na to je škoda našeho času, že ano.
+BARON KRÜG: Máte pravdu, pane doktore. Škoda času. Já vím, vy léčíte… jenom chudé; ale kdybyste mne vzal do léčení, dám vám…
+k osobní dispozici… kolik bychom řekli? Milión?
+DR. GALÉN (udiveně): Milión?
+BARON KRÜG: Máte pravdu. Pět miliónů. Doktore, to už je slušná částka – Řekl jsem deset miliónů, ne? S deseti milióny se dá mnoho
+dělat… například kdybyste měl na mysli určitou propagandu –
+DR. GALÉN: Počkejte… Vy jste řekl… deset miliónů?
+BARON KRÜG: Dvacet.
+DR. GALÉN: Na propagandu míru?
+BARON KRÜG: Nač chcete. Pane, za ty peníze si můžete nakoupit tisku – Mne má propaganda nestojí za rok ani tolik.
+DR. GALÉN (užasle): Poslyšte, to by opravdu stálo tolik peněz, aby se
+psalo… pro mír?
+BARON KRÜG: Ano, To někdy stojí hromadu peněz, aby se psalo pro
+mír – nebo pro válku.
+DR. GALÉN: Vidíte, to mě nenapadlo – (Koupá injekční stříkačku v lihu
+a ožehuje ji nad kahanem.) Tady se člověk nic nedozví – A jak se
+to, prosím vás, dělá?
+BARON KRÜG: Musíte mít styky.
+DR. GALÉN: Bože, a já… To je tak těžké, mít styky, že ano… Stojí to
+hrozně času, ne?
+
+65
+
+BARON KRÜG: Ano. To stojí skoro celý život.
+DR. GALÉN: To teda nevím, jak bych mohl… (Namáčí vatičku v benzínu.) Poslyšte, pane barone Krügu, nechtěl byste to vzít do rukou vy sám?
+BARON KRÜG: Vy myslíte – organizovat propagandu pro věčný mír?
+DR. GALÉN: Ano, organizovat propagandu. (Natírá mu kousek kůže na
+předloktí vatičkou.) Vy máte styky… A já, víte…, já bych vás za to
+vyhojil.
+BARON KRÜG: – – Promiňte, doktore, ale tohle bych myslím nedovedl.
+DR. GALÉN: Ne? (Zahodí vatičku.) Tak poslyšte, pane… To je zvláštní,
+vy jste… svým způsobem… hrozně poctivý člověk.
+BARON KRÜG: Možná. A vy jste hrozně naivní člověk, doktore. Vy si
+myslíte, že můžete sám, docela sám, na vlastní pěst vynutit mír –
+DR. GALÉN: Ne, pane, sám ne. Já mám… silného spojence, víte?
+BARON KRÜG: Ano, bílou nemoc. A strach. Máte pravdu, člověče, já
+mám strach… Kriste Ježíši, já mám strach! Ale kdyby strach sám
+stačil ovládnout lidi, pak by už nikdy nemohla být válka – Copak
+myslíte, že se jí většina lidí nebojí? A vidíte, přece bude… vždycky
+zase bude –
+DR. GALÉN (bere stříkačku): A tak co tedy prosím – Čím se má na lidi
+působit?
+BARON KRÜG: – – Nevím. Já jsem to obyčejně zkoušel s penězi.
+A zřídkakdy marně, doktore. Já vám mohu nabídnout… jenom
+peníze; ale je to, jak byste vy řekl, svým způsobem… poctivá nabídka. Dvacet… třicet miliónů za jeden jediný život!
+DR. GALÉN: Vy máte… takový strach z bílé nemoci? (Nasává lékem injekční stříkačku.)
+
+66
+
+BARON KRÜG: … Ano.
+DR. GALÉN: To je mně hrozně líto… (Přibližuje se k Baronu Krügovi se
+stříkačkou v ruce.) Poslyšte, nemohl byste… ve svých podnicích…
+zastavit výrobu zbraní a munice?
+BARON KRÜG: – – – Nemohl.
+DR. GALÉN: Bože to je těžké… Tak co mně vůbec můžete dát?
+BARON KRÜG: – – Jenom peníze.
+DR. GALÉN: Ale vždyť vidíte, že bych neuměl – (Položí stříkačku na
+stůl.) Ne, to by bylo zbytečné, prosím docela zbytečné, že ano –
+BARON KRÜG: Vy mě nechcete vzít do léčení?
+DR. GALÉN: Je mně hrozně líto – Můžete se ustrojit, pane barone.
+BARON KRÜG: To je tedy… konec, Kriste Ježíši… Ježíši Kriste ukřižovaný!
+DR. GALÉN: Vy se ještě vrátíte, člověče.
+BARON KRÜG (obléká se za plentou): Mám… mám ještě jednou přijít?
+DR. GALÉN: Ano. A můžete si tam vzadu přečíst, kolik se platí za lékařskou prohlídku.
+BARON KRÜG (vychází, zapínaje se): Poslyšte, doktore, mně se zdá,…
+že nejste tak docela naivní.
+DR. GALÉN: Až si to rozmyslíte, tak – přijdete. (Otvírá dveře.) Další nemocný!
+Opona.
+
+67
+
+Obraz pátý
+Pracovna Maršálova.
+POBOČNÍK (vejde): Pan baron Krüg.
+MARŠÁL (píše u psacího stolu): Ať vejde.
+(Pobočník uvede Barona Krüga a zmizí.)
+MARŠÁL (píše): Sedněte si, milý barone. Hned jsem hotov. (Položí pero.) Tak, kamaráde, k raportu. Jen seďte, milý Krügu. Zavolal jsem
+si vás, abyste mi dal osobně zprávu – Jak si stojíme?
+BARON KRÜG: Dělali jsme, co jsme mohli, Vaše Excelence. Propočítali
+jsme všechny možnosti –
+MARŠÁL: A výsledek –?
+BARON KRÜG: Nejsem ještě spokojen. Osmdesát těžkých tanků denně –
+MARŠÁL: Místo žádaných šedesáti pěti?
+BARON KRÜG: Ano. Dále sedm set stihaček denně, sto dvacet bombardovacích letadel – Tady by se měla výrobní kapacita ještě hodně
+zvýšit. Nebudeme vyrábět jenom pro nás –
+MARŠÁL: Ovšem. A dál?
+BARON KRÜG: S municí je to slušné. Můžeme dodat o třicet procent
+víc, než žádá hlavní štáb –
+MARŠÁL: A plyn C?
+BARON KRÜG: Jakékoliv množství. Včera se nám s ním stala nehoda –
+Praskla v jedné dílně nádobka –
+MARŠÁL: Kolik mrtvých?
+BARON KRÜG: Všichni. Čtyřicet děvčat a tři muži. Smrt byla – okamžitá.
+
+68
+
+MARŠÁL: Smutné, ale jinak krásný výsledek. Gratuluju, milý Krügu.
+BARON KRÜG: Děkuju, Vaše Excelence.
+MARŠÁL: Tedy tak dalece by bylo vše připraveno –
+BARON KRÜG: Ano, Vaše Excelence.
+MARŠÁL: Věděl jsem, že se na vás mohu spolehnout. Mimochodem, co
+dělá váš synovec?
+BARON KRÜG: Děkuju, Vaše Excelence, je zdráv.
+MARŠÁL: Slýchám o něm – od své dcery. Tak se mi zdá, kamaráde, že
+mezi námi dvěma… se naváže příbuzenský svazek, co?
+BARON KRÜG (vstane): Byla by to pro mne veliká čest, Vaše Excelence.
+MARŠÁL (vstane): A pro mne upřímná radost, Krügu; už proto, že nebýt vás, nebyl bych se stal, čím jsem teď – To se nezapomíná, příteli.
+BARON KRÜG: Byla to jen má povinnost, Vaše Excelence. Dělal jsem to
+pro vlast; bylo to… v zájmu mého průmyslového koncernu.
+MARŠÁL (jde k němu): Pamatujete se, Krügu, jak jsme si podali ruku,
+nežli jsem tehdy… vytáhl se svými vojáky proti vládě?
+BARON KRÜG: Pane maršále, na takové dny se nezapomíná.
+MARŠÁL: Nu tak, starý příteli, podejme si ruce i teď… před větším
+a slavnějším tažením. (Podává mu obě ruce.)
+BARON KRÜG (couvá): – – Já nemohu Vaší Excelenci podat ruku.
+MARŠÁL: Proč?
+BARON KRÜG: Vaše Excelence, já jsem… malomocný.
+MARŠÁL (couvne): Můj bože! – – Krügu – byl jste u Sigelia –?
+BARON KRÜG: Byl.
+
+69
+
+MARŠÁL: A co –
+BARON KRÜG: Poslal mne… k doktoru Galénovi. Tam jsem… také byl.
+MARŠÁL: A co řekl Galén?
+BARON KRÜG: Že se mohu do čtrnácti dnů vyhojit –
+MARŠÁL: Chválabohu! Ani nevíte, jak jsem rád – Nu tak vidíte, kamaráde, budete zase zdráv!
+BARON KRÜG: Ovšem splním-li jednu podmínku.
+MARŠÁL: Krügu, splňte ji! Já vám to sám nařizuju – My vás příliš potřebujeme, barone Krügu; ať to stojí co chce – Jakou podmínku
+máte splnit?
+BARON KRÜG: … Jen to, že zastavím ve svých továrnách výrobu válečného materiálu.
+MARŠÁL: – – Ah tak. Tedy ten Galén je opravdu blázen.
+BARON KRÜG: Snad. V očích Vaší Excelence jistě.
+MARŠÁL: A ve vašich očích ne?
+BARON KRÜG: Pan maršál promine, ale já se na to dívám… z trochu
+jiné stránky.
+MARŠÁL: Krügu, to přece je vyloučeno, aby vaše továrny zastavily dodávku –
+BARON KRÜG: Technicky to nemožné není, Vaše Excelence.
+MARŠÁL: Ale politicky ano. Musíte přimět Galéna, aby na té podmínce
+netrval –
+BARON KRÜG: Jeho jediná podmínka je… mír.
+MARŠÁL: Dětinství! Nemůžeme si dát vnucovat podmínky od nějakého… utopisty! Podívejte se, Krügu – Povídáte, že by vás do čtrnácti dnů uzdravil? Řekněme, že byste na těch čtrnáct dní zastavil
+
+70
+
+výrobu válečného materiálu – Pravda, bylo by to hodně nemilé,
+ale co dělat! Ohlásili bychom, že je to mírové gesto – – že činíme
+ještě jednou pokus řešit mocenské nesnáze dohodou – Ano, pro
+vás bych to udělal, Krügu. A jakmile budete zdráv –
+BARON KRÜG: Děkuju Vaší Excelenci. Ale nebyla by to poctivá hra.
+MARŠÁL: Kamaráde, ve válce nezáleží na poctivé hře.
+BARON KRÜG: To vím, Excelence. Ale Galén není tak hloupý – Může
+léčení protahovat –
+MARŠÁL: Pravda, bude vás mít v rukou. – Tak řekněte, Krügu, co myslíte vy sám –
+BARON KRÜG: Vaše Excelence, dnes v noci jsem byl rozhodnut… přijmout Galénovu podmínku.
+MARŠÁL: Krügu, to je šílené!
+BARON KRÜG: Ano, strach je šílený, Vaše Excelence.
+MARŠÁL: Vy se tak bojíte –?
+(Baron Krüg krčí bezmocně rameny.)
+MARŠÁL (usedne za stůl): To je tedy… bohužel… velmi těžká věc.
+BARON KRÜG: Maršále, kdybyste věděl… To je tak odporný pocit, když
+člověka proniká strach… až do konečků prstů… Fuj! Fuj!… Já pořád vidím sebe sama,… jak křičím za ostnatými dráty… Ježíši
+Kriste, pomozte mi někdo! Kriste bože, copak se nikdo nesmiluje –
+MARŠÁL: Já vás mám rád, Krügu. Já tě mám rád, člověče, jako vlastního
+bratra. Co mám s tebou dělat?
+BARON KRÜG: Udělejte mír, Excelence… Udělejte mír! Spaste mne,
+spaste nás všechny… (Sváží se na kolena.) Maršále, zachraňte mě!
+MARŠÁL (vstane): Vstaňte, barone Krügu!
+
+71
+
+BARON KRÜG (zvedne se): Prosím, Vaše Excelence.
+MARŠÁL: Barone Krügu, musíte zvýšit výrobu válečného materiálu.
+Nejsem spokojen s čísly, která jste mi uvedl. Víc, víc, rozumíte?
+BARON KRÜG: Podle rozkazu, Vaše Excelence.
+MARŠÁL: Očekávám, že svou povinnost k vlasti splníte do poslední
+tečky.
+BARON KRÜG: Ano, Vaše Excelence.
+MARŠÁL (jde k němu): Na to mi dáte svou ruku.
+BARON KRÜG: Ne, maršále! Jsem malomocný!
+MARŠÁL: Já se nebojím, Krügu. V tom okamžiku, kdy bych se bál,
+přestanu být… vůdcem. Vaši ruku, barone Krügu!
+BARON KRÜG (podává mu váhavě ruku): Maršále,… podle rozkazu.
+MARŠÁL: Děkuju vám, barone Krügu.
+(Baron Krüg se vypotácí ven.)
+MARŠÁL (zvoní).
+POBOČNÍK (objeví se ve dveřích): Prosím, Vaše Excelence.
+MARŠÁL: Musíte mi najít doktora Galéna.
+Opona.
+
+72
+
+Obraz šestý
+Táž pracovna Maršálova.
+POBOČNÍK (ve dveřích): Doktor Galén.
+MARŠÁL (píše): Uveďte ho.
+(Pobočník uvede Dr. Galéna. Oba zůstanou stát u dveří.)
+MARŠÁL (píše dál. Po chvíli): Doktor Galén?
+DR. GALÉN (lekne se): Prosím, pane dvorní rado.
+POBOČNÍK (tiše napovídá): Vaše Excelence.
+DR. GALÉN: Totiž Vaše Excelence, že ano –
+MARŠÁL (píše dál): Pojďte blíž.
+DR. GALÉN: K službám, pane… Vaše Excelence. (Přiblíží se o krok.)
+MARŠÁL (položí tužku a chvilku ho pozoruje): Chtěl jsem vám blahopřát, doktore Galéne, k vašim úspěchům v léčení bílé nemoci. Dostávám zprávy… od svých úřadů… o vašich výsledcích. (Bere do
+ruky fascikl aktů.) Ty výsledky jsou ověřeny, doktore. Je to podivuhodné.
+DR. GALÉN (zmaten a dojat): Děkuju uctivě, pane… Vaše Excelence.
+MARŠÁL: Tady jsem připravil jakýsi projekt – Chci totiž udělat
+z nemocnice u Svatého Ducha státní ústav pro potírání Čengovy
+nemoci. Nastoupíte tam jako primář, doktore Galéne.
+DR. GALÉN: Ale já… To by nešlo, pane… Já mám totiž takovou klientelu,
+Vaše Excelence, že ano… To bych prosím opravdu nemohl.
+MARŠÁL: Považujte to za rozkaz, milý doktore Galéne.
+DR. GALÉN: Já bych jinak s největší radostí, Vaše Excelence… Ale já
+přece nemohu řídit… Člověk nemá ani tu zkušenost, že ano…
+
+73
+
+MARŠÁL: Tak vám to řeknu jinak. (Podívá se na pobočníka, který zmizí.)
+Vy jste odmítl vzít do léčení barona Krüga.
+DR. GALÉN: To ne prosím. Já jen… tady byla jistá podmínka –
+MARŠÁL: Vím. Budete tedy léčit barona Krüga – bez jakékoliv podmínky, doktore Galéne.
+DR. GALÉN: Je mně hrozně líto, pane… Vaše Excelence… ale to opravdu
+nejde. Já… já musím trvati na své podmínce –
+MARŠÁL: Doktore, jsou prostředky, kterými lze lidi přinutit,… aby splnili rozkazy.
+DR. GALÉN: Podívejte se, vy mě můžete dát zavřít, že ano, ale –
+MARŠÁL: Dobře. (Sahá po zvonku.)
+DR. GALÉN: Poslyšte, pane, nedělejte to! Já mám tolik pacientů – Zabijete je, když mne dáte zavřít!
+MARŠÁL (pouští zvonek): Nebyli by to první mrtví na mé cestě. Ale vy
+si to ještě rozmyslíte. (Vstane a jde k němu.) Člověče, jste blázen –
+nebo takový hrdina?
+DR. GALÉN (couvá): Ne prosím, já – Hrdina jistě ne; ale já byl na vojně… jako lékař…, a když jsem viděl tolik lidí umírat… tolik zdravých lidí, že ano –
+MARŠÁL: Já byl také na vojně, doktore. Ale já jsem tam viděl lidi bojovat za vlast. A já jsem je přivedl zpátky jako vítěze.
+DR. GALÉN: To je právě to. Já jsem viděl spíš ty, které… které jste už
+nepřivedl zpátky. To je ten rozdíl, pane… Vaše Excelence.
+MARŠÁL: V jaké hodnosti jste sloužil?
+DR. GALÉN (srazí paty): Jako asistenční lékař u šestatřicátého pěšího
+pluku, pane maršále.
+MARŠÁL: Skvělý pluk. – Nějaké vyznamenání?
+
+74
+
+DR. GALÉN: Zlatý kříž s meči, pane maršále.
+MARŠÁL: Bravo. (Podá mu ruku.)
+DR. GALÉN: Děkuju, pane maršále.
+MARŠÁL: Dobrá. Půjdete se přihlásit k baronu Krügovi.
+DR. GALÉN: – – Prosím, abych byl zatčen pro odepření poslušnosti.
+(Maršál pokrčí rameny a zazvoní.)
+(Pobočník objeví se ve dveřích.)
+MARŠÁL: Dáte zatknout doktora Galéna.
+POBOČNÍK: Podle rozkazu, Vaše Excelence. (Přistoupí k Dr. Galénovi.)
+DR. GALÉN: Poslyšte, nedělejte to!
+MARŠÁL: Proč?
+DR. GALÉN: Můžete mne potřebovat – třeba i vy.
+MARŠÁL: Já ne. (K Pobočníkovi.) Nic. Můžete jít.
+(Pobočník zmizí.)
+MARŠÁL: Sedněte si, Galéne. (Usedne vedle něho.) – Jak vám to mám
+říci, tvrdohlavý člověče! Podívejte se, mně záleží osobně na baronu Krügovi. Je to vzácný muž a – můj jediný přítel. Nevíte, jaká to
+je samota, být… diktátorem. Mluvím s vámi… jako člověk. Doktore, zachraňte Krüga! Už jsem… hodně dlouho nikoho neprosil.
+DR. GALÉN: Bože to je tak těžká věc… Já bych tak rád… Poslyšte, já
+bych měl taky prosbu.
+MARŠÁL: To není odpověď.
+DR. GALÉN: Prosím vás, Vaše Excelence, já jen okamžik… Vy jste takový státník a máte tak nesmírnou moc… Ne že bych vám chtěl lichotit, ale – bohužel je to tak, že ano… Podívejte se, kdybyste vy
+
+75
+
+chtěl nabídnout věčný mír… Bože jak by byli všichni rádi! Vždyť
+se celý svět bojí jenom vás… všichni zbrojí jen kvůli vám… Kdybyste vy řekl, že chcete mír, bude na celém světě pokoj, že ano…
+MARŠÁL: – – Mluvil jsem o baronu Krügovi, doktore.
+DR. GALÉN: Ano, právě… Vy ho můžete zachránit… jeho a všechny malomocné. Řekněte, že chcete světu zajistit trvalý mír… že uzavřete smlouvu se všemi národy… a je to. Podívejte se, Vaše Excelence, vždyť to záleží jenom na vás! Proboha vás prosím, zachraňte
+ty chudáky malomocné! A co se týče pana barona, mě to tak mrzelo… Prosím vás, už kvůli němu…
+MARŠÁL: Baron Krüg na vaši podmínku nemůže přistoupit.
+DR. GALÉN: Ale vy můžete, pane… Vy můžete udělat všechno!
+MARŠÁL: Nemohu. Copak vám to mám vysvětlovat jako malému dítěti?
+Myslíte, že válka nebo mír záleží na mé vůli? Musím se řídit tím,
+co je v zájmu mého národa. Půjde-li jednou můj národ do války,
+pak je… má povinnost jej pro ten boj vychovat.
+DR. GALÉN: Jenže… kdyby nebylo vás,… tak by váš národ do žádné
+výbojné války nešel, že ano.
+MARŠÁL: Nešel. Nemohl by. Nebyl by tak dobře připraven. Nebyl by si
+tak vědom své síly – a svých šancí. Dnes o nich bohudík ví; a já
+plním jen jeho vůli –
+DR. GALÉN: – kterou jste vy sám vyvolal.
+MARŠÁL: Ano. Vzbudil jsem v něm vůli žít. Vy věříte, že mír je lepší než
+válka. Já věřím, že vítězná válka je lepší než mír. A já svůj národ
+nesmím připravit o jeho vítězství.
+DR. GALÉN: Ani o jeho padlé, že ano.
+MARŠÁL: Ani o jeho padlé. Člověče, teprve krev padlých dělá z kusu
+země vlast. Jenom válka udělá z lidí národ a z mužů hrdiny –
+
+76
+
+DR. GALÉN: – a mrtvé. Já viděl ve válce víc těch mrtvých, víte –
+MARŠÁL: To dělá vaše řemeslo, doktore. Já jsem při svém řemesle viděl víc těch hrdinů.
+DR. GALÉN: Ano, ti byli vzadu, Vaše Excelence. My v zákopech jsme tak
+moc stateční nebyli.
+MARŠÁL: Zač jste vy dostal ten řád?
+DR. GALÉN: To bylo… jenom za to, že jsem ovázal nějaké raněné.
+MARŠÁL: Já vím. Bylo to na bojišti mezi zákopy. To nebyla statečnost?
+DR. GALÉN: Nebyla prosím. To jen… prostě jako lékař. To člověk musí,
+že ano…
+MARŠÁL: – – Poslyšte, vy s tím vaším mírem: proč, jakým právem to
+vlastně děláte? Řekněte, je vám to… uloženo?
+DR. GALÉN: Já nerozumím prosím.
+MARŠÁL (tiše): Člověče, máte… vyšší poslání?
+DR. GALÉN: Ne, vůbec ne. Já jenom jako obyčejný člověk, že ano…
+MARŠÁL: Pak to nesmíte dělat, doktore. Musí být vyšší poslání… Musí
+být vyšší vůle, která nás řídí –
+DR. GALÉN: Čí vůle?
+MARŠÁL: Bůh. Já jsem pověřen bohem, člověče; jinak bych nemohl
+vést…
+DR. GALÉN: To teda… musíte vést tu válku?
+MARŠÁL: Ano. Ve jménu národa –
+DR. GALÉN: – jehož děti padnou v boji –
+MARŠÁL: – a dobudou vítězství. Ve jménu národa –
+DR. GALÉN: – jehož otcové a matky zajdou malomocenstvím –
+
+77
+
+MARŠÁL (vstane): Na těch nemám tolik zájmu, doktore. Z těch už vojáci
+nebudou. Nevím, proč jsem vás ještě nedal zatknout.
+DR. GALÉN (vstane): Vaše Excelence poroučí –
+MARŠÁL: Vy uzdravíte barona Krüga. Vlast ho potřebuje.
+DR. GALÉN: Tak já tedy… Tak jen ať pan baron ke mně přijde, že ano…
+MARŠÁL: – a přistoupí na vaši nemožnou podmínku, ne?
+DR. GALÉN: Ano, Vaše Excelence. Až splní tu… nemožnou podmínku.
+MARŠÁL: Vy na tom trváte? Pak ovšem – (Jde ke stolu. Vtom cinkne
+telefon. Maršál zvedne sluchátko.) – Ano, osobně. – – Jak? – Ano,
+slyším. – A je – Kdy se to stalo? – Ano. Tak děkuju. (Položí sluchátko. Chraptivě:) Můžete jít. Chválabohu před pěti minutami…
+se baron Krüg zastřelil.
+Opona.
+
+78
+
+JEDNÁNÍ TŘETÍ
+Maršál
+Obraz první
+U Maršála.
+MARŠÁL: Tedy v hlavních rysech –
+MINISTR PROPAGANDY: – všude se rozmáhá agitace proti válce.
+Zejména anglický tisk… Angličané se vždycky hrozně báli nemocí.
+Vláda dostala petici s mnoha milióny podpisů –
+MARŠÁL: Dobrá. Tím se sami vnitřně oslabují. Dál!
+MINISTR: Tentokrát se bohužel i nejvyšší kruhy angažují pro mír; dokonce i jeden královský dvůr –
+MARŠÁL: To vím.
+MINISTR: Její Veličenstvo má chorobnou hrůzu před bílou nemocí;
+zachvátilo to její tetu – Král prý připravuje výzvu ke všem vládám světa, aby obeslaly konferenci o trvalém míru –
+MARŠÁL: To by bylo nepříjemné. Nemohlo by se předem zakročit –?
+MINISTR: Je to už všechno příliš daleko. Prostě veřejné mínění celého
+světa bude zuřivě proti každé válce. To dělá ten strach před malomocenstvím, Vaše Excelence. Lidé už nechtějí politiku, chtějí
+jen lék, jen záchranu – Dostáváme hlášení, že už i u nás se mluví
+dost malomyslně – řekněme přímo protiválečně. Raději prý zdraví než nějaké vavříny –
+MARŠÁL: Zbabělci! Teď, když jsme tak připraveni – Tak příznivá situace se naskytne stěží jednou za sto let! Poslyšte, ručíte mi za to, že
+ta… nálada bude u nás potlačena?
+
+79
+
+MINISTR: Vaše Excelence, nadlouho za to ručit nemohu. Mládež je plna
+nadšení a půjde za vámi do ohně; ale u starších lidí se šíří tíseň
+a strach –
+MARŠÁL: Já víc potřebuju ty mladé.
+MINISTR: Zajisté, ale ti staří jsou… hospodářsky silnější. Mimoto mají
+ještě pořád v rukou vedoucí místa a vyšší úřady… V případě války by to mohlo tu a tam zaskřípat. Je krajně nutno uklidnit veřejnost –
+MARŠÁL: Čím?
+MINISTR: Přinutit toho doktora, aby dal k dispozici svůj lék.
+MARŠÁL: Člověče, toho kdybyste dal na skřipec, je to marné. Já ho
+znám.
+MINISTR: Máme své osvědčené prostředky, jak vykonat na lidi nátlak –
+MARŠÁL: – jenže ty prostředky se obyčejně končí smrtí. Ne, děkuju; to
+by v našem případě neudělalo dobrý dojem.
+MINISTR: Pak by nezbývalo než… třeba dočasně… povolit tomu volání
+po míru –
+MARŠÁL: – a propást příznivou situaci. Škrtněte to.
+MINISTR: Nebo udeřit tak rychle, než se zformuje mírová fronta. To
+znamená –
+MARŠÁL: – udeřit ihned. A udeřit na nejslabší místo. Pokud jde
+o příčiny k vojenskému zakročení –
+MINISTR: – máme je připraveny už dávno. Úklady proti našemu státu,
+soustavné provokace a tak dále. V pravý okamžik se přihodí
+menší politický atentát – Pak stačí nařídit rozsáhlé zatýkání a dát
+pokyn tisku. Dojde k spontánním demonstracím pro válku – Ručím za vlastenecké nadšení – dokud není pozdě.
+
+80
+
+MARŠÁL: – Děkuju vám. Věděl jsem, že se na vás mohu spolehnout. –
+Konečně! Bože, konečně povedu svůj národ k velikosti!
+Opona.
+
+81
+
+Obraz druhý
+Před zvednutím opony je slyšet vojenské marše, polnice a bubny, zanikající v rostoucím nadšeném křiku davů.
+Zvedne se opona. Pracovna Maršálova. Na otevřeném balkónu mluví
+Maršál k davům. Uvnitř pracovny Maršálova Dcera a Mladý baron Krüg
+ve vojenské uniformě.
+MARŠÁL (k davům): – – v tuto chvíli, kdy naše stříbrná letadla už rozsévají zkázu nad městy našich zákeřných nepřátel – (Nadšený pokřik.), chci se zodpovědět svému národu ze svého nejtěžšího kroku. (Ať žije maršál! Sláva maršálovi!) Ano, zahájil jsem válku,
+a zahájil jsem ji bez vypovězení. Učinil jsem tak, abych ušetřil tisíce životů vašich dětí, jež v tomto okamžiku vyhrávají svou první bitvu, dříve než se nepřítel mohl vzpamatovat ze svého zděšení. Žádám vás nyní dodatečně o váš souhlas – (Frenetický křik:
+Ano! Ano! Souhlasíme! Ať žije maršál!) Dále, zvedl jsem boj bez
+dalšího ponižujícího jednání s tím malým, mizerným státečkem,
+který si myslel, že může beztrestně provokovat a urážet náš veliký národ – (Rozhořčený křik davů.) a rozvracet jeho pořádek
+a bezpečnost svými placenými bandity. (Řev davů: Zabít je! Na ně!
+Zrádci! Pověsit!) Ticho! Křikem se toho zla nezbavíme! Byla jen
+jedna cesta: zničit trestnou výpravou ten obtížný státeček, který
+soustavně ohrožoval náš mír; zničit ten malý a méněcenný národ,
+který ani nemá práva žít; zničit jej, ať jej chrání kdokoliv, – a teď
+ať ty druhé mocnosti ukážou své karty! Pravím jen, že my se nebojíme nikoho! (Veliký křik: Nebojíme! Ať žije maršál! Ať žije válka!) Věděl jsem, že stojíte za mnou. Za vaši čest jsem poslal své
+nádherné vojsko do boje. Stejně tak za vás prohlašuju celému
+světu do očí: My jsme tu válku nechtěli, ale my ji vyhrajeme! Vyhrajeme ji z vůle boží – Vyhrajeme ji, (tluče se do prsou) protože
+my jsme v právu!… My jsme v právu… (Slaběji:) My… jsme
+
+82
+
+v právu… (Velký křik: My jsme v právu! Sláva válce! Sláva maršálovi!)
+MARŠÁL (potácí se z balkónu a tluče se do prsou): My jsme v právu…
+My jsme v právu… My jsme… Já…
+KRÜG (přiběhne k němu): Co je vám, Excelence?
+DCERA: Co se ti stalo?
+MARŠÁL: Nechte mne… Jděte… (Tluče se do prsou.) My jsme v právu…
+Co je to? (Rozepíná si kabát a sahá si na prsa.) My… jsme
+v právu… (Roztrhne si košili.) Podívejte se… tady…
+KRÜG: Ukažte! (Krüg i Dcera se skloní k Maršálově hrudi.)
+MARŠÁL: Já tady nic necítím… Je to jako mramor…
+DCERA (sevřeně): Ale ne, tati… Nic tam nemáš, ani se nedívej –
+MARŠÁL: Pusť… (Hmatá si na prsa.) Bez citu… docela bez citu…
+DCERA: Tatínku, nic to není… uvidíš!
+(Zvenčí rostoucí volání: Maršál! Maršál! Maršál!)
+MARŠÁL: Já vím, co to je. Jdi, holčičko, jdi… Nech mne…
+(Zvenčí volání: Maršál! Chceme maršála!)
+MARŠÁL: Ano! Už jdu. (Zapíná si kabát.) Prosím vás, děti, jděte! Nemá
+to smysl, abyste tady… Tohle už není nic pro vás.
+(Maršál! Chceme maršála!)
+MARŠÁL: Už jdu. (Vystoupí na balkón, vzpřímený, s rukou zvednutou na
+pozdrav.)
+(Nesmírný křik: Ať žije maršál! Sláva maršálovi! Sláva válce!)
+(Dcera propukne v pláč.)
+KRÜG: To nesmíte! Slyšíte, drahoušku…
+
+83
+
+DCERA: Pavle,… když tatínek…
+KRÜG: Já vím; ale teď nesmíte plakat. (Jde k telefonu, horečně listuje
+v seznamu, natočí číslo.) Haló… Dvorní rada Sigelius? – Tady
+Krüg. Přijeďte ihned sem, do maršálova paláce. – Ano, k maršálovi samotnému… Ano, bílá skvrna. (Položí sluchátko.) Prosím
+vás, Aneto, neplačte!
+(Zvenčí volání: Ať žije maršál! Ať žije válka! Ať žije armáda! Sláva maršálovi!)
+MARŠÁL (vrací se z balkónu): Přece jen mne mají rádi… Je to veliký
+den. – Nu neplač, malá!
+KRÜG: Vaše Excelence, dovolil jsem si zavolat dvorního radu Sigelia…
+MARŠÁL: Ano, Pavle. Abych stonal podle vědeckých předpisů, že?
+(Mávne rukou.) Nedošly ještě… žádné zprávy… o našich letadlech?
+(Zvenčí zpěv a vojenská hudba.)
+MARŠÁL: Slyšíte je? Jak jásají – Konečně jsem z nich udělal národ!
+(Hmatá si pod kabátem.) Zvláštní… Je to studené jako mramor.
+Jako bych to už nebyl já –
+(Zvenčí: Maršál! Maršál! Maršál!)
+MARŠÁL: Už jdu… už jdu… (Potácí se k balkónu.)
+KRÜG: Dovolte, Vaše Excelence. (Vyběhne na balkón a dává znamení,
+aby se dav utišil.) Jeho Excelence pan maršál vám děkuje. Právě
+se odebral k své práci.
+(Ať žije maršál! Ať žije válka! Sláva maršálovi!)
+MARŠÁL: Je to hodný hoch… Starého Krüga jsem měl velmi rád. (Usedá.) Chudák baron Krüg! Chudák… chudák…
+
+84
+
+KRÜG (vrací se z balkónu): Prosím vás, Aneto – (Ukáže na okna. Oba
+stahují těžké záclony a rozsvítí lampu na stole. Šero a ticho, jen
+tlumeně zaléhá zvenčí zpěv a pochody.)
+MARŠÁL: Ano. Teď to tu aspoň vypadá jako u nemocného.
+DCERA (usedne u jeho nohou): Ty nebudeš nemocný. Přijdou největší
+doktoři světa a uzdraví tě. Teď si musíš lehnout, tati –
+MARŠÁL: Ne, ne, já přece nemohu stonat. Já musím vést válku, holčičko. Uvidíš, že na to nebudu ani myslet – Jenom teď, tu chvilku
+mezi vámi… jen co si oddychnu. To dělal ten hluk. Člověku je líp,
+když může zalézt do tmy… a někoho držet za ruku, víš?… Ale to
+přejde, uvidíte; já musím dělat tu vojnu… Jen co přijdou první
+zprávy! – Slyšíte, jak venku zpívají? Zní to jako… z jiného břehu.
+KRÜG: Kdyby to Vaši Excelenci rušilo –
+MARŠÁL: Ne, nechte je. Teď všude, všude vlají prapory… Měl bych jet
+městem… ukázat se… a říci všem, že my jsme v právu, my… my…
+(Tluče se do prsou.)
+DCERA: Tatínku, ne! Nesmíš už na to myslet!
+MARŠÁL: Ne, nesmím, dceruško. Počkej, až pojedu v čele vojáků jako
+vítěz… Tys mne neviděla, když jsem v poslední válce vedl naše
+vojáky domů. Tos byla ještě moc maličká, viď? Ale teď uvidíš –
+Počkej, jakou budeš mít radost! Pavle, válka je krásná věc! To je,
+pro nás muže, to největší – Udeřit na pravém křídle! Obchvat!
+Hoďte tam deset armádních sborů –
+POBOČNÍK (ve dveřích): Pan dvorní rada Sigelius přijel. Mám ho uvést
+sem?
+MARŠÁL: Co?… Co chce?
+DCERA: Uveďte ho… do tatínkovy ložnice.
+POBOČNÍK: Prosím. (Zmizí.)
+
+85
+
+MARŠÁL: Ano, už vím. Nejlepší doktoři světa, že?… (Vstane.) Škoda.
+S vámi mně bylo líp.
+DCERA (provází ho ke dveřím): Nesmíš se bát, tati.
+MARŠÁL: Co? – Maršál se nebojí, děvčátko. Maršál… má své poslání.
+(Vyjde.)
+(Ticho. Jen vojenský pochod zvenčí.)
+KRÜG: Plač, Aneto, plač! Teď můžeš!
+DCERA: Poslyš, Pavle – Snad opravdu má poslání – Snad se mu opravdu nemůže nic stát!
+KRÜG: – – Je to hrůza, Aneto! Tak pokročilé stadium… Pro Krista, jak je
+možno, že o tom nevěděl dřív?
+DCERA: Když… když on na sebe vůbec nemyslel… Byl si tak jist… (Vzlyká, opřena o krb.)
+KRÜG: Aneto, dnes večer nastupuju k svému pluku.
+DCERA: Ty přece nemusíš –
+KRÜG: V naší rodině se obyčejně povinnosti plnívají. Taková hloupá
+tradice, víš?
+DCERA: Ale vždyť ta válka nemůže dlouho trvat! Tatínek říkal, že za
+několik dní –
+KRÜG: Možná. Ale v každém případě… tu budeš nějaký čas sama. Musíš
+být statečná, Aneto.
+DCERA: Já budu.
+POBOČNÍK (vejde): Jiskrové depeše prosím.
+KRÜG: Dejte je panu maršálovi na stůl.
+POBOČNÍK: Prosím. (Položí telegramy na stůl a zmizí.)
+
+86
+
+DCERA: Pavle,… co mám dělat?
+KRÜG: Okamžik. (Jde ke stolu a prohlíží depeše.) Promiň, neměl bych,
+ale… To by člověk nevěřil! Takový malý národ –
+DCERA: Co dělají?
+KRÜG: Začali se bránit. Jako křečci. Máme úspěchy, ale útok na hlavní
+město selhal. Ztratili jsme tam osmdesát letadel… Tanky na hranicích narazily na silný odpor –
+DCERA: Je to špatné?
+KRÜG: Přinejmenším ztráta času. Zatím jim může přijít pomoc, víš?
+Maršál asi počítal s tím, že první náraz stačí – Tady dvě velmoci
+nám dávají ultimátum – Už nařídily mobilizaci. Kriste, to to jde
+rychle! Tři, čtyři… pět ultimát najednou –
+DCERA: Tedy vlastně… špatné zprávy?
+KRÜG: Myslím, že hodně špatné, Aneto.
+DCERA: Máme mu je ukázat?
+KRÜG: Musíme. Neboj se, děvče, maršál je silný – Takového člověka
+nemoc nezlomí. Uvidíš, jak se teď postaví nad válečnou mapu
+a zapomene na všechno… Je to voják. Postav ho před jícny pušek,
+a ani nemrkne…
+(Do pracovny se vpotácí Maršál ve vlajícím županu.)
+MARŠÁL (vzlyká): Ježíši, bože nebeský… Kriste… Kriste Ježíši… Ježíši
+Kriste ukřižovaný!…
+DCERA: Tati!
+KRÜG (běží k němu): Vaše Excelence, vzpamatujte se – (Vede ho
+k lenošce.)
+MARŠÁL: Jděte pryč! Jděte pryč! To přejde… za chvíli… Můj bože, můj
+ty Ježíši Kriste… Ještě šest neděl… Jenom šest neděl, řekl ten dok-
+
+87
+
+tor – A potom ten konec… ten konec… Kriste Ježíši! Proč si to člověk nedovede dřív představit! Teprve když to pozná na sobě…
+Ježíši Kriste, smiluj se!
+KRÜG (dává znamení Anetě, aby věc nechala jemu): Vaše Excelence,
+došly zprávy z bojiště.
+MARŠÁL: Co?… Nechte mne teď, já nemohu… Jděte všichni pryč! Copak
+nevidíte, lidi, copak nevidíte…
+KRÜG: Vaše Excelence, došly špatné zprávy.
+MARŠÁL: Jak? – Dejte je sem! (Bere zprávy a mlčky je studuje.) To
+ovšem… mění situaci. (Vstane.) Zavolejte mi sem… ne, nikoho.
+Dám své rozkazy písemně. (Sedne k psacímu stolu.)
+(Krüg se postaví vedle něho. Dcera nehnutě stojí a modlí se.)
+(Zvenčí zpěv.)
+MARŠÁL (chvatně píše): Mobilizovat další ročníky!
+KRÜG (bere od něho list): Ano, Vaše Excelence.
+MARŠÁL (píše, až přelomí tužku. Krüg mu podá novou): Dispozice letectvu.
+KRÜG (bere od něho list): Ano, pane maršále.
+MARŠÁL: A tady – (Horečně něco škrtá.) Ne, to nejde. (Utrhne list
+z bloku, zmačká a hodí do koše.) To se musí udělat jinak – (Píše
+a opět se zarazí.) Ne. Počkejte okamžik. (Položí hlavu na stůl.)
+(Krüg bezradně vzhlédne k Anetě.)
+MARŠÁL: – – – Bože, smiluj se! Bože, smiluj se!
+KRÜG: Vaše Excelence, čekám na další rozkazy.
+MARŠÁL (zvedá hlavu): Ano, hned… (Vstane a potácí se do středu scény.) Já tedy rozkazuju… Aneto, zítra… zítra se postavím osobně
+
+88
+
+v čelo útočící armády. Já sám budu řídit všechny operace… To je
+mé poslání, víš? A až zvítězíme,… pojedu v čele vojáků na koni…
+(Vojenský marš zvenčí.)
+MARŠÁL: – – mezi hromadami trosek. Víš, tam bývalo nějaké hlavní
+město. A já pojedu, maso ze mne už dávno spadalo… budu mít už
+jen oči, ale ještě pořád potáhnu v čele vojáků, kostra na bílém
+koni… A lidé budou volat: Ať žije maršál! Ať žije Jeho Excelence
+Smrťák!
+(Dcera zakvílí a zakrývá si tváře rukama.)
+KRÜG: Nesmíte tak mluvit, maršále!
+MARŠÁL: Máte pravdu, Pavle… Nebojte se, na to už nedojde. Já vím, co
+udělám. Zítra… zítra se postavím v čelo vojáků. Ale ne v hlavním
+stanu. Tam bych… třeba… svým generálům už páchnul. Ale v čelo
+útoku… se šavlí v ruce… hoši, za mnou! za mnou! A padnu-li, Pavle,… já totiž musím padnout. Pak aspoň vojáci pomstí svého
+maršála… Budou bojovat jako čerti… Hoši, kupředu! Na bodáky!
+Hurá, hoši, ať to už stojí za to! (Tluče se do prsou.) My jsme vyhráli! My… My… (Sahá si na prsa.) Já… Aneto! Aneto, já mám strach –
+DCERA (jde k němu, mateřsky silná): To nesmíš, tati. Tady si sedni
+a nemysli na nic, rozumíš? (Usadí ho do lenošky.)
+MARŠÁL: Ano. Já nesmím myslet, nebo… nebo… Víš, já jsem to viděl na
+té klinice… Jeden člověk chtěl vstát, aby mne pozdravil,… a tu
+mu… upadl takový kus… Ježíši Kriste! Ježíši Kriste! Copak není
+žádné smilování?
+(Krüg vymění pohled s Dcerou, kývne a jde k telefonu. Hledá v telefonním
+seznamu.)
+DCERA (hladí Maršálovu hlavu): Teď na to nemysli, tatínku. My tě přece nedáme. Ty se přece uzdravíš. To už je naše věc, tati. Ty se
+
+89
+
+musíš vyhojit, ty musíš, ty prostě musíš! Řekni, že se chceš uzdravit –
+MARŠÁL: Já chci… Já musím vyhrát tu válku, víš? Aspoň půl roku kdybych měl! Bože, mít aspoň rok na tu válku!
+KRÜG (natočil na telefonu číslo): Haló – doktor Galén? – Tady Krüg.
+Doktore, musíte přijít k maršálovi – Ano, je… velmi těžce nemocen. Jen vy můžete – Ano, rozumím. Vaše podmínka je, že… uzavře mír. Ano, já mu to oznámím. Prosím, počkejte u telefonu. (Zakryje dlaní mluvítko.)
+MARŠÁL (vyskočí): Ne! Ne! Já nechci mír! Já musím vést svou válku. To
+přece už nemohu odvolat – To by bylo takové ponížení – Vy jste
+se zbláznil, Pavle! My přece tu válku musíme vyhrát! My jsme
+v právu –
+KRÜG: Nejsme, pane maršále.
+MARŠÁL: – – Já vím, mladíku, že nejsme; ale já chci, aby můj národ zvítězil! Na mně nezáleží, člověče, ale jen na něm… Ve jménu národa… Položte to, Pavle, položte to; já mohu… pro svůj národ umřít.
+KRÜG (podává telefon Anetě): Můžete, pane; ale co bude potom?
+MARŠÁL: Po mé smrti? – Hochu, s tím se musí počítat, že jsem smrtelný, ne?
+KRÜG: Ale vy jste s tím nepočítal, pane. Nikdo vás nemůže nahradit –
+uprostřed války. Vy jste ze sebe udělal jedinou hlavu – Bez vás
+budeme poraženi. Bez vás nastane zmatek. Bůh nás chraň toho,
+co by teď přišlo po vás!
+MARŠÁL: Máte pravdu, Pavle; já – nesmím odejít uprostřed války. Já
+musím dřív tu válku vyhrát.
+KRÜG: Ta válka… nebude skončena do šesti neděl, pane maršále.
+
+90
+
+MARŠÁL: Pravda, do šesti neděl… Tohle mně bůh neměl udělat! Tohle
+bůh… neměl… dopustit… Kriste Ježíši, co mám dělat!
+KRÜG: Zabránit rozvratu, pane. Je to teď… váš úkol. – Aneto –
+DCERA (do telefonu): Doktore, slyšíte? – Já jsem jeho dcera. Přijdete? –
+Ano, splní vaši podmínku. Ne, ještě to neřekl, ale nemůže nic jiného udělat – Potom byste přišel? A zachráníte ho? Tak já mu
+řeknu – (Zakryje mluvítko.) Tati, kdybys prý mu řekl jen jedno
+slovo –
+MARŠÁL: Ne. Polož to, Aneto. Já – nemohu. Vyřízeno.
+KRÜG (klidně): Prosím za prominutí. Vaše Excelence to musí udělat.
+MARŠÁL: Co udělat? Zavolat k sobě toho –
+KRÜG: Ano.
+MARŠÁL: A pak poníženě nabídnout mír, ne? Odvolat vojsko, že?
+KRÜG: Ano.
+MARŠÁL: A omluvit se… přijmout i trest –
+KRÜG: – Ano.
+MARŠÁL: Tak hrozně, tak nesmyslně pokořit svůj národ…
+KRÜG: – – Ano, pane.
+MARŠÁL: A pak stejně odejít, muset pak složit svůj zneuctěný úřad –
+KRÜG: Ano. Ale odejít uprostřed míru, pane.
+MARŠÁL: Ne! Slyšíte, ne! To ať udělá někdo jiný! Je jich už dost, těch, co
+stáli proti mně; ať teď ukážou – Já jen… složím svůj úřad; a někdo
+jiný ať nabídne ten ponižující mír –
+KRÜG: To jiný – nemůže udělat, Vaše Excelence.
+MARŠÁL: Proč?
+
+91
+
+KRÜG: To by znamenalo občanskou válku. Jen vy můžete nařídit armádě ústup –
+MARŠÁL: Tak ať pojde národ, který si neumí vládnout! Ať mne nechají
+jít… ať si poradí beze mne –
+KRÜG: Tomu jste je nenaučil, Vaše Excelence.
+MARŠÁL: – – Pak zbývá ještě jedna… důstojnická možnost. (Zamíří ke
+dveřím.)
+KRÜG (postaví se mu do cesty): To neuděláte, pane.
+MARŠÁL: Co? Nemám snad právo na svůj život?
+KRÜG: Nemáte, Vaše Excelence. Musíte ještě… ukončit válku.
+MARŠÁL: Možná že máte pravdu, mladíku – Aneto, je to hodný hoch,
+ale má příliš mnoho rozumu. Nikdy nic velkého neudělá –
+DCERA (podává mu sluchátko): Tak tati –
+MARŠÁL (odstrkuje sluchátko): Ne, holčičko. Nechci. Nemohu. Já už
+nemám proč být živ… ještě dál.
+DCERA: Prosím tě, tati! Prosím tě za všechny malomocné –
+MARŠÁL: Za všechny – Máš pravdu, Aneto: tady jsou ještě jiní – Tady
+jsme my, my malomocní! Milióny nás malomocných na celém
+světě – Pravda, já musím s nimi – Dívej se, světe, dívej se, tady
+stojí… maršál malomocných; a už ne v čele vojsk, ale v čele všeho
+bolavého lidského masa – Z cesty, z cesty, teď jdeme my – My, my
+jsme v právu, my malomocní; my chceme jen slitování – Ukaž,
+Aneto! (Bere sluchátko.) Haló, doktore – Ano, sám. – – Ano. –
+Ano. – Už jsem vám řekl, že ano! – Dobrá. Děkuju. (Položí sluchátko.) Tak, to by bylo odbyto. Bude tu… za několik minut.
+DCERA: Zaplať bůh! (Rozpláče se radostí.) Já jsem tak ráda, tati – tak
+ráda, Pavle –
+
+92
+
+MARŠÁL (hladí ji po vlasech): Nu jdi – Neštítíš se mne ještě? – Víš, odjedeme potom,… až bude mír –
+DCERA: Až se uzdravíš –
+MARŠÁL: Ano, až se všichni uzdravíme. A až dám věci do pořádku, víš?
+Bude to těžké, Pavle… Jen co přijde ten doktor! – Musíme zastavit
+ofenzívu… a oznámit všem vládám… (Bere na psacím stole své
+rozkazy a trhá je na kousky.) Škoda, mohla to být… pěkná, veliká
+válka.
+DCERA: A vidíš, tati, už asi nikdy žádná válka nebude. Když ty rozpustíš
+tu největší armádu na světě –
+MARŠÁL: Ano, byla to krásná armáda, holčičko… Ani nevíš, jaká to byla
+skvělá armáda. Dvacet let jsem ji dělal…
+KRÜG: Budete dělat mír, pane. Řeknete lidem, že bůh vás poučil –
+MARŠÁL: Bůh… Kdybych opravdu věděl, že to bůh chce – Pavle, to by
+také bylo poslání, že?
+KRÜG: Ano, pane. Byla by to… velká práce.
+MARŠÁL: Práce na dlouhé lokty, já vím. Znám přece diplomaty, chlapče. Ale budu-li ještě několik let živ… Člověk mnoho vydrží, má-li
+poslání. Mír… Bůh chce, abych dělal mír – Aneto, řekni to,…
+abych věděl, jak to zní.
+DCERA: Bůh chce, abys dělal mír, tatínku.
+MARŠÁL: Opravdu, nezní to špatně… To by bylo velké poslání, viď,
+Aneto? Už to, že by na světě přestala bílá nemoc – To by bylo
+ohromné vítězství, že? Dělat mír: to by náš národ byl první mezi
+všemi – Pravda, bude to dlouhá práce, ale budu-li žít… Jen když
+budu mít od boha úkol! – Tak kde je ten doktor, Aneto? Kde je ten
+doktor?
+Opona.
+
+93
+
+Obraz třetí
+Ulice.
+Zástup lidí s prapory. Zpěv. Do toho volání: Ať žije maršál! Ať žije válka!
+Sláva maršálovi!
+SYN (z prvního aktu): A všichni najednou: Ať žije válka!
+ZÁSTUP: Ať žije válka!
+SYN: Nás vede maršál!
+ZÁSTUP: Nás vede maršál!
+SYN: Ať žije maršál!
+ZÁSTUP: Maršál! Maršál!
+(Houkání auta, které si nemůže zástupem prorazit cestu.)
+DR. GALÉN (vyběhne s kufříkem v ruce): Doběhnu pěšky… Dovolte prosím… Prosím vás, pusťte mě… někdo mě čeká…
+SYN: Občané, volejte: Ať žije maršál! Ať žije válka!
+DR. GALÉN: Ne! Válka ne! Nesmí být žádná válka! Poslyšte, ne, válka
+nesmí být!
+VÝKŘIKY: Co to říkal? – Zrádce! – Zbabělec! – Mažte ho!
+DR. GALÉN: Musí být mír! Pusťte mne – Já jdu k maršálovi –
+VÝKŘIKY: Urazil maršála! – Na lucernu! – Zabte ho!
+(Hlučící zástup se zavře kolem Dr. Galéna. Zmatená vřava.)
+(Zástup se rozestupuje. Na zemi leží Dr. Galén a jeho kufřík.)
+SYN (kopne do něho): Vstávej, potvoro! Koukej mazat, nebo –
+
+94
+
+JEDEN ZE ZÁSTUPU (klekne k ležícímu): Počkat, občane. Ono je po
+něm.
+SYN: Žádná škoda. O jednoho zrádce míň. Sláva maršálovi!
+ZÁSTUP: Ať žije maršál! Maršál! Mar-šál!
+SYN (otevře kufřík): Hele, byl to nějaký doktor! (Rozbíjí lahvičky s léky
+a dupe na ně.) Tak! Ať žije válka! Ať žije maršál!
+ZÁSTUP (valí se dál): Maršál! Mar-šál! Ať – žije – maršál!
+Opona.
+
+95
+
+Ediční poznámka
+Při zpracování textu jsme se řídili aktuálním zněním pravidel českého
+pravopisu, upravili jsme interpunkci a opravili tiskové chyby. Sjednotili
+jsme kvantitu samohlásek (např. milión/milion, galérie/galerie) ve prospěch jejich krátké, dnešními pravidly preferované podoby. Respektovali jsme však stylové, morfologické a lexikální zvláštnosti původního
+Čapkova textu, např. jsme s ohledem na styl ponechali autorovo nejednotné používání slovesné koncovky -ti.
+Pro snazší čtenářovu orientaci jsme dobové nebo zastaralé výrazy
+opatřili vysvětlivkami, umístěnými do poznámek pod čarou.
+Redakce MKP
+
+96
+
+Život a doba spisovatele
+Karla Čapka v datech
+1890
+Narozen 9. ledna v Malých Svatoňovicích. Otec MUDr. Antonín Čapek
+(1855–1929), matka Božena, rozená Novotná (1866–1924). Sourozenci: Helena (1886–1961), provdaná Koželuhová, ovdověla, od roku 1930
+provdaná Palivcová; Josef (1887–1945) ženatý od roku 1919.
+1895–1901
+V Úpici, kde rodina bydlí, navštěvuje obecnou školu a jednu třídu měšťanské školy.
+1901–1909
+Středoškolská studia začíná v Hradci Králové, posléze pokračuje v Brně,
+končí maturitou v Praze.
+1907
+Rodina se stěhuje z Úpice do Prahy.
+1909–1915
+Studuje na Filozofické fakultě Univerzity Karlovy filozofii, estetiku, dějiny výtvarného umění, anglistiku, germanistiku a bohemistiku. (V letech
+1910–1911 studuje v Berlíně a v Paříži.) V listopadu 1915 je promován
+na doktora filozofie.
+1917
+Působí jako domácí učitel Prokopa Lažanského na zámku v Chyších
+u Žlutic. V říjnu nastupuje do redakce Národních listů.
+1921–1938
+Je členem pražské redakce Lidových novin, v letech 1921–1923 pracuje
+v Městském divadle na Královských Vinohradech jako dramaturg a režisér.
+
+97
+
+1922
+Poprvé představen prezidentu T. G. Masarykovi.
+1925
+Je zvolen předsedou československé odbočky Penklubu, kterou pomáhá založit. Stěhuje se s bratrem Josefem do nového domu na Vinohradech.
+1931
+Jmenován členem mezinárodního výboru pro duševní spolupráci Společnosti národů (stálý výbor pro literaturu a umění).
+1933
+Pracuje ve Výboru pro pomoc německým uprchlíkům, je místopředsedou Penklubu.
+1934
+Organizuje pomocnou sociální akci Demokracie dětem.
+1935
+Žení se s Olgou Scheinpflugovou, počátky stavebních úprav domu ve
+Strži, který novomanželé dostali od Václava Palivce do doživotního
+užívání.
+1937
+Účastní se světového kongresu Penklubů v Paříži.
+1938
+Podílí se na organizaci světového kongresu Penklubů v Praze. Opakovaně je navrhován na Nobelovu cenu za literaturu. Po mnichovské konferenci (29.–30. 9. 1938) čelí nenávistné kampani, bojuje s českým fašismem a prožívá nejtěžší období svého života. Umírá 25. prosince na
+zápal plic. Pohřeb na Vyšehradě se koná 29. prosince.
+
+98
+
+První vydání knih Karla Čapka
+1917
+– Boží muka
+1918
+– Pragmatismus čili Filozofie praktického života
+– Krakonošova zahrada
+– Nůše pohádek
+1920
+– Loupežník
+– Kritika slov
+– R.U.R.
+1921
+– Trapné povídky
+– Ze života hmyzu (společně s Josefem Čapkem)
+1922
+– Lásky hra osudná (společně s Josefem Čapkem)
+– Zářivé hlubiny a jiné prózy
+– Továrna na absolutno
+– Věc Makropulos
+1923
+– Italské listy
+1924
+– Krakatit
+– Anglické listy
+1925
+– Jak vzniká divadelní hra a průvodce po zákulisí
+– O nejbližších věcech
+
+99
+
+1927
+– Adam Stvořitel
+– Skandální aféra Josefa Holouška
+1928
+– Hovory s T. G. M. (1. díl)
+1929
+– Povídky z jedné kapsy
+– Povídky z druhé kapsy
+– Zahradníkův rok
+1930
+– Výlet do Španěl
+1931
+– Hovory s T. G. M. (2. díl)
+– Marsyas čili na okraji literatury
+1932
+– Devatero pohádek a ještě jedna od Josefa Čapka jako přívažek
+– Obrázky z Holandska
+– Apokryfy
+– O věcech obecných čili Zoon politikon
+1933
+– Dášeňka čili život štěněte
+– Hordubal
+1934
+– Povětroň
+– Obyčejný život
+1935
+– Hovory s T. G. M. (3. díl)
+– Mlčení s T. G. Masarykem
+
+100
+
+1936
+– Válka s mloky
+– Cesta na sever
+1937
+– Bílá nemoc
+– Jak se dělají noviny
+– První parta
+1938
+– Matka
+– Jak se co dělá
+1939
+– posmrtně: Život a dílo skladatele Foltýna (torzo románu)
+
+101
+
+Karel Čapek
+Bílá nemoc
+Edice Bratři Čapkové
+Obálka Alena Kubíková
+Redakce Jaroslava Bednářová
+Vydala Městská knihovna v Praze
+Mariánské nám. 1, 115 72 Praha 1
+V MKP 2. opravené vydání
+Verze 1.0 z 19. 1. 2018
+ISBN 978-80-7587-013-1 (epub)
+ISBN 978-80-7587-014-8 (pdf)
+ISBN 978-80-7587-015-5 (prc)
+ISBN 978-80-7587-016-2 (html)
+
+
