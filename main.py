@@ -4,7 +4,7 @@ from homework_writer import HomeworkWriter
 app = Flask(__name__)
 
 @app.route("/", methods = ["GET", "POST"])
-def main():
+def index():
     print("here")
     ok_ltrs = request.args.getlist("ok_ltrs")
     need_ltr = request.args.get("need_ltr")
@@ -23,3 +23,7 @@ def main():
     print("nope")
 
     return render_template("index.html", homework="")
+
+if __name__ == "__main__":
+    app.run()
+
