@@ -23,7 +23,3 @@ def index():
     print("nope")
 
     return render_template("index.html", homework="")
-
-if __name__ == "__main__":
-    app.run()
-
