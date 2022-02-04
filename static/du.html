@@ -2,7 +2,8 @@
 <html>
 <head>
 	<title>lol</title>
-  <link rel="stylesheet" href="main.css">
+  	<link rel="stylesheet" href="../static/main.css">
+ 	 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body class="grid">
 	<header>
@@ -12,19 +13,179 @@
 			<li>TEST</li>
 		</ul>
 	</header>
-  <main>
-		<section class="inputs">
-			<form method="GET">
-	        <input type="text" name="ok_ltrs" placeholder="Používáná písmena">
-	        <input type="text" name="need_ltr" placeholder="Vyžadované písmeno">
-	        <input type="text" name="eng" placeholder="English - empty for no">
-	        <input type="text" name="capitals" placeholder="Only capitals - empty for no">
-	        <input type="submit">
-	    </form>
-			<br/>
+ 	<main id="homework_main">
+		<section class="control_side">
+			<form method="GET" class="keyboard_form" id="ok_ltrs_form">
+				<section class="keyboard_parent"><section class="keyboard"> 
+	        		<div>
+						<input type="checkbox" checked name="ok_ltrs" id="key100" value=";">
+						<label style="background-image: url('../static/img/keyboard/row01/key00.png');" for="key100"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key103" value="+">
+						<label style="background-image: url('../static/img/keyboard/row01/key03.png');" for="key103"></label>			
+						<input type="checkbox" checked name="ok_ltrs" id="key104" value="ě">
+						<label style="background-image: url('../static/img/keyboard/row01/key04.png');" for="key104"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key105" value="š">
+						<label style="background-image: url('../static/img/keyboard/row01/key05.png');" for="key105"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key106" value="č">
+						<label style="background-image: url('../static/img/keyboard/row01/key06.png');" for="key106"></label>	
+						<input type="checkbox" checked name="ok_ltrs" id="key107" value="ř">
+						<label style="background-image: url('../static/img/keyboard/row01/key07.png');" for="key107"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key108" value="ž">
+						<label style="background-image: url('../static/img/keyboard/row01/key08.png');" for="key108"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key109" value="ý">
+						<label style="background-image: url('../static/img/keyboard/row01/key09.png');" for="key109"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key110" value="á">
+						<label style="background-image: url('../static/img/keyboard/row01/key10.png');" for="key110"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key111" value="í">
+						<label style="background-image: url('../static/img/keyboard/row01/key11.png');" for="key111"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key112" value="é">
+						<label style="background-image: url('../static/img/keyboard/row01/key12.png');" for="key112"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key102" value="=">
+						<label style="background-image: url('../static/img/keyboard/row01/key02.png');" for="key102"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key101" value="´">
+						<label for="key101"></label>							
+						<input type="checkbox" checked name="ok_ltrs" id="key113" value="">
+						<label for="key113"></label>		
+					</div>     	
+					<div>
+						<input type="checkbox" checked name="ok_ltrs" id="key213" value="">
+						<label style="width: 0.1px" for="key213"></label>	
+						<input type="checkbox" checked name="ok_ltrs" id="key212" value="q">
+						<label style="background-image: url('../static/img/keyboard/row02/key12.png');" for="key212"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key211" value="w">
+						<label style="background-image: url('../static/img/keyboard/row02/key11.png');" for="key211"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key210" value="e">
+						<label style="background-image: url('../static/img/keyboard/row02/key10.png');" for="key210"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key209" value="r">
+						<label style="background-image: url('../static/img/keyboard/row02/key09.png');" for="key209"></label>			
+						<input type="checkbox" checked name="ok_ltrs" id="key208" value="t">
+						<label style="background-image: url('../static/img/keyboard/row02/key08.png');" for="key208"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key207" value="z">
+						<label style="background-image: url('../static/img/keyboard/row02/key07.png');" for="key207"></label>	
+						<input type="checkbox" checked name="ok_ltrs" id="key206" value="u">
+						<label style="background-image: url('../static/img/keyboard/row02/key06.png');" for="key206"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key205" value="i">
+						<label style="background-image: url('../static/img/keyboard/row02/key05.png');" for="key205"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key204" value="o">
+						<label style="background-image: url('../static/img/keyboard/row02/key04.png');" for="key204"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key203" value="p">
+						<label style="background-image: url('../static/img/keyboard/row02/key03.png');" for="key203"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key202" value="ú">
+						<label style="background-image: url('../static/img/keyboard/row02/key02.png');" for="key202"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key201" value=")">
+						<label style="background-image: url('../static/img/keyboard/row02/key01.png');" for="key201"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key200" value="¨">
+						<label" for="key200"></label>
+					</div>
+					<div>
+						<input type="checkbox" checked name="ok_ltrs" id="key312" value="">
+						<label style="width: 20px;" for="key312"></label>	
+						<input type="checkbox" checked name="ok_ltrs" id="key311" value="a">
+						<label style="background-image: url('../static/img/keyboard/row03/key11.png');" for="key311"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key310" value="s">
+						<label style="background-image: url('../static/img/keyboard/row03/key10.png');" for="key310"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key309" value="d">
+						<label style="background-image: url('../static/img/keyboard/row03/key09.png');" for="key309"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key308" value="f">
+						<label style="background-image: url('../static/img/keyboard/row03/key08.png');" for="key308"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key307" value="g">
+						<label style="background-image: url('../static/img/keyboard/row03/key07.png');" for="key307"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key306" value="h">
+						<label style="background-image: url('../static/img/keyboard/row03/key06.png');" for="key306"></label>	
+						<input type="checkbox" checked name="ok_ltrs" id="key305" value="j">
+						<label style="background-image: url('../static/img/keyboard/row03/key05.png');" for="key305"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key304" value="k">
+						<label style="background-image: url('../static/img/keyboard/row03/key04.png');" for="key304"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key303" value="l">
+						<label style="background-image: url('../static/img/keyboard/row03/key03.png');" for="key303"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key302" value="ů">
+						<label style="background-image: url('../static/img/keyboard/row03/key02.png');" for="key302"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key301" value="§">
+						<label style="background-image: url('../static/img/keyboard/row03/key01.png');" for="key301"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key300" value="">
+						<label style="width: 160px;" for="key300"></label>
+					</div>
+					<div>
+						<input type="checkbox" checked name="ok_ltrs" id="key400" value="a">
+						<label style="width: 68px;" for="key400"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key410" value="s">
+						<label style="background-image: url('../static/img/keyboard/row04/key10.png');" for="key410"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key409" value="d">
+						<label style="background-image: url('../static/img/keyboard/row04/key09.png');" for="key409"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key408" value="f">
+						<label style="background-image: url('../static/img/keyboard/row04/key08.png');" for="key408"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key407" value="g">
+						<label style="background-image: url('../static/img/keyboard/row04/key07.png');" for="key407"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key406" value="h">
+						<label style="background-image: url('../static/img/keyboard/row04/key06.png');" for="key406"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key405" value="j">
+						<label style="background-image: url('../static/img/keyboard/row04/key05.png');" for="key405"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key404" value="k">
+						<label style="background-image: url('../static/img/keyboard/row04/key04.png');" for="key404"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key403" value="l">
+						<label style="background-image: url('../static/img/keyboard/row04/key03.png');" for="key403"></label>		
+						<input type="checkbox" checked name="ok_ltrs" id="key402" value="ů">
+						<label style="background-image: url('../static/img/keyboard/row04/key02.png');" for="key402"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key401" value="§">
+						<label style="background-image: url('../static/img/keyboard/row04/key01.png');" for="key401"></label>
+						<input type="checkbox" checked name="ok_ltrs" id="key411" value="¨">
+						<label style="width: 208px;" for="key411"></label>		
+					</div>		
+				</section></section>
+				<section class="boolean_inputs">
+					<div class="switches">
+						<div class="form__group" id="mobile_keyboard">
+						  <input type="text" class="form__input" name="ok_ltrs_mobile" placeholder="Povolená písmena"/>
+						</div>
+   						<div class="switch-holder">
+   					    <div class="switch-label">
+   					        <i class="fa fa-bluetooth-b"></i><span>Angličtina</span>
+   					    </div>
+   					    <div class="switch-toggle">
+   					        <input type="checkbox" name="eng" id="bluetooth">
+   					        <label for="bluetooth"></label>
+   					    </div>
+   						</div>
+						
+   						<div class="switch-holder">
+   					    <div class="switch-label">
+   					        <i class="fa fa-wifi"></i><span>Velká písmena</span>
+   					    </div>
+   					    <div class="switch-toggle">
+   					        <input type="checkbox" name="capitals" id="wifi">
+   					        <label for="wifi"></label>
+   					    </div>
+   						</div>					
+					</div>
+					<div class="textinputs">
+						<div>
+							<div class="form__group">
+							  <input type="text" class="form__input" name="need_ltr" placeholder="Písmeno"/>
+							</div>
+							<div class="form__group">
+							  <input type="text" class="form__input" name="seperator" placeholder="Oddělit"/>
+							</div>
+						</div>
+						<div>
+							<div class="form__group">
+							  <input type="number" class="form__input" name="min_length_word" placeholder="Min. délka slov"/>
+							</div>
+							<div class="form__group">
+							  <input type="number" class="form__input" name="length" placeholder="Délka"/>
+							</div>
+						</div>															
+					</div>
+				</section>
+       			<button id="submit_btn" form="ok_ltrs_form">Submit
+  			    </button>				
+	    	</form>	    	
+		</section>
+		{% if homework %}
+		<section class="homework_text">
 			{{ homework }}
 		</section>
-  </main>
+		{% endif %}		
+  	</main>
 	<footer>
 	</footer>
 </body>
