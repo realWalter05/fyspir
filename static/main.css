@@ -279,7 +279,9 @@ main {
     cursor: pointer;
 }
 
-
+#mobile_keyboard {
+  display: none;
+}
 
 footer {
   grid-area: footer;
@@ -291,7 +293,31 @@ footer {
     grid-template-columns: 1fr;
   }
 
+  #mobile_keyboard {
+    display: block;
+  }
+
+  .switches, .textinputs {
+    width: 90%;
+    margin: 0 5% 0 5%;
+  }
+
+  .boolean_inputs {
+    display: block;
+    width: 100%;
+    min-width: 100vw;
+  }
+
   #homework_main {
     display: block;
+  }
+
+  .keyboard_parent {
+    display: none;
+  }
+
+  .homework_text {
+    width: 95vw;
+    height: auto;
   }
 }
