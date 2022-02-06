@@ -1,4 +1,5 @@
 import os
+import random
 
 class Word():
     # - Class handling the words inside of the homework_writer
@@ -31,7 +32,7 @@ class Word():
         return False
 
     def longer_than(self, length):
-        if self.get_word_length() <= length:
+        if self.get_word_length <= int(length):
             return False
         return True
 
@@ -58,9 +59,10 @@ class Homework():
 
     def combine_words(self, words):
         txt = ""
+        random.shuffle(words)
         for word in words:
             txt = txt + word.word + self.seperator
-        return txt
+        return txt[:-1]
 
     def get_rsrc_txt(self):
         # Get text for each file in resources
@@ -87,28 +89,40 @@ class Homework():
 
         return words
 
-    def get_capital_words(self, words):
-        words = []
-        for word in words:
-            if w.is_capital():
-                words.append(w)
+    def get_unique_words(self, words):
+        new_words = []
+        new_words_text = []
 
-        return words
+        for word in words:
+            if word.word not in new_words_text:
+                new_words.append(word)
+                new_words_text.append(word.word)
+
+        return new_words   
+
+    def get_capital_words(self, words):
+        new_words = []
+        for word in words:
+            if word.is_capital:
+                new_words.append(word)
+
+        return new_words
 
     def get_words_with_min_length(self, words, min_length):
-        words = []
+        new_words = []
         for word in words:
-            if w.longer_than(min_length):
-                words.append(w)
+            if word.longer_than(min_length):
+                new_words.append(word)
 
-        return words
+        return new_words
 
 class HomeworkWriter():
-    def __init__(self, ok_ltrs, need_ltr, eng, only_capitals, seperator, min_length_word, max_length):
+    def __init__(self, ok_ltrs, need_ltr, eng, only_capitals, unique_words, seperator, min_length_word, max_length):
         # Define parameters
         self.only_capitals = only_capitals
         self.min_length_word = min_length_word
         self.max_length = max_length
+        self.unique_words = unique_words
 
         # Create an instance of homework
         hw = Homework(ok_ltrs, need_ltr, eng, seperator)
@@ -120,6 +134,9 @@ class HomeworkWriter():
 
         if self.min_length_word:
             self.hw_words = hw.get_words_with_min_length(self.hw_words, self.min_length_word)
+
+        if self.unique_words:
+            self.hw_words = hw.get_unique_words(self.hw_words)
 
         if self.max_length:
             self.adjust_word_size()

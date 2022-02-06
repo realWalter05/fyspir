@@ -3,7 +3,7 @@
 <head>
 	<title>Fyspir</title>
   	<link rel="stylesheet" href="../static/main.css">
- 	<meta name="viewport" content="width=device-width, initial-scale=1">
+ 	<meta name="viewport" content="width=device-width, initial-scale=1">	
 </head>
 <body class="grid">
 	<header>
@@ -138,24 +138,36 @@
 						  <input type="text" class="form__input" name="ok_ltrs_mobile" placeholder="Povolená písmena"/>
 						</div>
    						<div class="switch-holder">
-   					    <div class="switch-label">
-   					        <i class="fa fa-bluetooth-b"></i><span>Angličtina</span>
-   					    </div>
-   					    <div class="switch-toggle">
-   					        <input type="checkbox" name="eng" id="bluetooth">
-   					        <label for="bluetooth"></label>
-   					    </div>
+   					    	<div class="switch-label">
+   					    	    <i class="fa fa-bluetooth-b"></i><span>Angličtina</span>
+   					    	</div>
+   					    	<div class="switch-toggle">
+   					    	    <input type="checkbox" name="eng" id="bluetooth">
+   					    	    <label for="bluetooth"></label>
+   					    	</div>
    						</div>
 						
    						<div class="switch-holder">
-   					    <div class="switch-label">
-   					        <i class="fa fa-wifi"></i><span>Velká písmena</span>
-   					    </div>
-   					    <div class="switch-toggle">
-   					        <input type="checkbox" name="capitals" id="wifi">
-   					        <label for="wifi"></label>
-   					    </div>
-   						</div>					
+   					    	<div class="switch-label">
+   					    	    <i class="fa fa-wifi"></i><span>Velká písmena</span>
+   					    	</div>
+	
+   					    	<div class="switch-toggle">
+   					    	    <input type="checkbox" name="capitals" id="wifi">
+   					    	    <label for="wifi"></label>
+   					    	</div>
+   						</div>	
+
+   						<div class="switch-holder">
+   					    	<div class="switch-label">
+   					    	    <i class="fa fa-wifi"></i><span>Neopakovat slova</span>
+   					    	</div>
+	
+   					    	<div class="switch-toggle">
+   					    	    <input type="checkbox" name="unique_words" id="unique_words">
+   					    	    <label for="unique_words"></label>
+   					    	</div>
+   						</div>		   										
 					</div>
 					<div class="textinputs">
 						<div>
@@ -177,7 +189,7 @@
 					</div>
 				</section>
        			<button id="submit_btn" form="ok_ltrs_form">Submit
-  			    </button>				
+  			    </button>			    		
 	    	</form>	    	
 		</section>
 		{% if homework %}

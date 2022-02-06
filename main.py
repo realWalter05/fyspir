@@ -22,9 +22,10 @@ def index():
     seperator = request.args.get("seperator")
     min_length_word = request.args.get("min_length_word")
     length = request.args.get("length")
+    unique_words = request.args.get("unique_words")
 
     if ok_ltrs and need_ltr:
-        h = HomeworkWriter(ok_ltrs, str(need_ltr), bool(eng), bool(capitals), str(seperator), min_length_word, length) 
+        h = HomeworkWriter(ok_ltrs, str(need_ltr), bool(eng), bool(capitals), bool(unique_words), str(seperator), min_length_word, length) 
         return render_template("index.html", homework=h.text)
 
     print("nope")
