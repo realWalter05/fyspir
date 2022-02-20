@@ -26,6 +26,7 @@ def index():
 
     if ok_ltrs and need_ltr:
         h = HomeworkWriter(ok_ltrs, str(need_ltr), bool(eng), bool(capitals), bool(unique_words), str(seperator), min_length_word, length) 
+        print(h.text)
         return render_template("index.html", homework=h.text)
 
     print("nope")
