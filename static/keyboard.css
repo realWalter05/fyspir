@@ -1,0 +1,62 @@
+.keyboard_parent {
+  height: 250px;
+  position: relative;
+  width: auto;
+}
+
+.keyboard {
+  left: 0;
+  top: 0;
+  transform-origin: top left;  
+  overflow: hidden;
+  height: 400px;
+  width: 100%;
+  min-width: 1350px;
+  transform: scale(0.55);
+}
+
+.keyboard_form {
+  float: left;
+  position: relative;
+}
+
+.keyboard div {
+  width: 100%;
+  float: left;
+}
+
+.keyboard input[type=checkbox] {
+    display:none;
+}
+
+.keyboard input[type=checkbox] + label {
+    display:inline-block;
+    padding: 0;
+    margin: 0;
+    background-repeat: no-repeat;
+    opacity: 0.6;
+    height: 92px;
+    width: 90px;
+}
+
+.keyboard input[type=checkbox]:checked + label {
+    display:inline-block;    
+    opacity: 1.0;
+    padding: 0;
+    margin: 0;
+}
+
+#mobile_keyboard {
+  display: none;
+}
+
+
+@media only screen and (max-width: 1300px) {
+  #mobile_keyboard {
+    display: block;
+  }
+
+  .keyboard_parent {
+    display: none;
+  }
+}

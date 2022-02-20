@@ -3,21 +3,70 @@
 <head>
 	<title>Fyspir</title>
   	<link rel="stylesheet" href="../static/main.css">
+  	<link rel="stylesheet" href="../static/keyboard.css">
+  	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous"></script>  	
  	<meta name="viewport" content="width=device-width, initial-scale=1">	
 </head>
-<body class="grid">
+<body>
 	<header>
-		<ul class="nav">
-			<li class="logo">FYSPIR</li>
-			<li>DÚ</li>
-			<li>TEST</li>
-		</ul>
+        <nav class="navbar navbar-expand-sm navbar-default navbar-dark bg-dark sticky-top">
+            <div class="container-fluid">
+                    <a class="navbar-brand">Fyspir</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToCollapse" aria-controls="#navbarToCollapse">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse justify-content-end" id="navbarToCollapse">
+                        <ul class="navbar-nav nav navbar-right">
+                            <li class="nav-item">
+                                <a href="najemnici.php?p=rooms" class="nav-link">DÚ</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="najemnici.php?p=login" class="nav-link">TESTS</a>
+                            </li>
+                        </ul>
+                    </div>
+            </div>
+        </nav>
 	</header>
  	<main id="homework_main">
-		<section class="control_side">
-			<form method="GET" class="keyboard_form" id="ok_ltrs_form">
-				<section class="keyboard_parent"><section class="keyboard"> 
-	        		<div>
+ 		<div class="row">
+ 			<section class="row p-2 control_side col-sm w-50">
+				<form method="GET" class="keyboard_form w-100" id="ok_ltrs_form">
+					<section class="inputs">
+						<div class="row mb-3">
+							<div class="col-sm w-25">
+								<input type="text" class="form-control" name="need_ltr" placeholder="Písmeno ve všech slovech"/>
+								<input type="text" class="form-control" name="seperator" placeholder="Oddělit"/>
+								<input type="number" class="form-control" name="min_length_word" placeholder="Min. délka slov"/>
+							</div>
+							<div class="col-sm">
+								<input type="text" class="form-control" name="ok_ltrs_mobile" id="mobile_keyboard" placeholder="Povolená písmena"/>
+								<div class="form-check">
+								  <input type="checkbox" class="form-check-input"  name="eng" id="eng">
+								  <label class="form-check-label" for="eng">
+								    Povolit anglický slova
+								  </label>
+								</div>								
+								<div class="form-check">
+   									<input type="checkbox" class="form-check-input"  name="capitals" id="capitals">
+   									<label class="form-check-label" for="capitals">
+								    Velká písmena
+								  </label>
+								</div>								
+								<div class="form-check">
+  									<input type="checkbox" class="form-check-input"  name="unique_words" id="unique_words">
+   									<label class="form-check-label" for="unique_words">		
+								    Nedovolit opakování slov
+								  </label>
+								</div>									   													
+								<input type="number" class="form-control" name="length" placeholder="Délka"/>								
+							</div>							
+						</div>
+					</section>					
+					<section class="keyboard_parent"><section class="keyboard"> 
+	        			<div>
 						<input type="checkbox" checked name="ok_ltrs" id="key100" value=";">
 						<label style="background-image: url('../static/img/keyboard/row01/key00.png');" for="key100"></label>			
 						<input type="checkbox" checked name="ok_ltrs" id="key104" value="ě">
@@ -41,13 +90,13 @@
 						<input type="checkbox" checked name="ok_ltrs" id="key102" value="=">
 						<label style="background-image: url('../static/img/keyboard/row01/key02.png');" for="key102"></label>
 						<input type="checkbox" checked name="ok_ltrs" id="key101" value="´">
-						<label for="key101"></label>							
+						<label for="key101" style="width: 0.1px"></label>							
 						<input type="checkbox" checked name="ok_ltrs" id="key103" value="+">
 						<label style="background-image: url('../static/img/keyboard/row01/key03.png');" for="key103"></label>						
 						<input type="checkbox" checked name="ok_ltrs" id="key113" value="">
 						<label for="key113"></label>		
-					</div>     	
-					<div>
+						</div>     	
+						<div>
 						<input type="checkbox" checked name="ok_ltrs" id="key213" value="">
 						<label style="width: 0.1px" for="key213"></label>	
 						<input type="checkbox" checked name="ok_ltrs" id="key212" value="q">
@@ -76,8 +125,8 @@
 						<label style="background-image: url('../static/img/keyboard/row02/key01.png');" for="key201"></label>
 						<input type="checkbox" checked name="ok_ltrs" id="key200" value="¨">
 						<label" for="key200"></label>
-					</div>
-					<div>
+						</div>
+						<div>
 						<input type="checkbox" checked name="ok_ltrs" id="key312" value="">
 						<label style="width: 20px;" for="key312"></label>	
 						<input type="checkbox" checked name="ok_ltrs" id="key311" value="a">
@@ -104,8 +153,8 @@
 						<label style="background-image: url('../static/img/keyboard/row03/key01.png');" for="key301"></label>
 						<input type="checkbox" checked name="ok_ltrs" id="key300" value="">
 						<label style="width: 160px;" for="key300"></label>
-					</div>
-					<div>
+						</div>
+						<div>
 						<input type="checkbox" checked name="ok_ltrs" id="key400" value="a">
 						<label style="width: 68px;" for="key400"></label>
 						<input type="checkbox" checked name="ok_ltrs" id="key410" value="s">
@@ -130,73 +179,17 @@
 						<label style="background-image: url('../static/img/keyboard/row04/key01.png');" for="key401"></label>
 						<input type="checkbox" checked name="ok_ltrs" id="key411" value="¨">
 						<label style="width: 208px;" for="key411"></label>		
-					</div>		
-				</section></section>
-				<section class="boolean_inputs">
-					<div class="switches">
-						<div class="form__group" id="mobile_keyboard">
-						  <input type="text" class="form__input" name="ok_ltrs_mobile" placeholder="Povolená písmena"/>
-						</div>
-   						<div class="switch-holder">
-   					    	<div class="switch-label">
-   					    	    <i class="fa fa-bluetooth-b"></i><span>Angličtina</span>
-   					    	</div>
-   					    	<div class="switch-toggle">
-   					    	    <input type="checkbox" name="eng" id="bluetooth">
-   					    	    <label for="bluetooth"></label>
-   					    	</div>
-   						</div>
-						
-   						<div class="switch-holder">
-   					    	<div class="switch-label">
-   					    	    <i class="fa fa-wifi"></i><span>Velká písmena</span>
-   					    	</div>
-	
-   					    	<div class="switch-toggle">
-   					    	    <input type="checkbox" name="capitals" id="wifi">
-   					    	    <label for="wifi"></label>
-   					    	</div>
-   						</div>	
-
-   						<div class="switch-holder">
-   					    	<div class="switch-label">
-   					    	    <i class="fa fa-wifi"></i><span>Neopakovat slova</span>
-   					    	</div>
-	
-   					    	<div class="switch-toggle">
-   					    	    <input type="checkbox" name="unique_words" id="unique_words">
-   					    	    <label for="unique_words"></label>
-   					    	</div>
-   						</div>		   										
-					</div>
-					<div class="textinputs">
-						<div>
-							<div class="form__group">
-							  <input type="text" class="form__input" name="need_ltr" placeholder="Písmeno"/>
-							</div>
-							<div class="form__group">
-							  <input type="text" class="form__input" name="seperator" placeholder="Oddělit"/>
-							</div>
-						</div>
-						<div>
-							<div class="form__group">
-							  <input type="number" class="form__input" name="min_length_word" placeholder="Min. délka slov"/>
-							</div>
-							<div class="form__group">
-							  <input type="number" class="form__input" name="length" placeholder="Délka"/>
-							</div>
-						</div>															
-					</div>
-				</section>
-       			<button id="submit_btn" form="ok_ltrs_form">Submit
-  			    </button>			    		
-	    	</form>	    	
-		</section>
-		{% if homework %}
-		<section class="homework_text">
-			{{ homework }}
-		</section>
-		{% endif %}		
+						</div>		
+					</section></section>
+       				<input type="submit" class="form-control btn-dark w-75 lm-5" id="submit_btn" form="ok_ltrs_form" value="Vytvořit">			    		
+	    		</form>	    		
+			</section>
+			{% if homework %}
+			<section class="homework_text col-sm w-50">
+				{{ homework }}
+			</section>
+			{% endif %}	
+		</div>		
   	</main>
 	<footer>
 	</footer>
