@@ -38,13 +38,13 @@
 						<div class="row mb-3">
 							<div class="col-sm w-25">
 								<input type="text" class="form-control" name="need_ltr" placeholder="Písmeno ve všech slovech"/>
-								<input type="text" class="form-control" name="seperator" placeholder="Oddělit"/>
-								<input type="number" class="form-control" name="min_length_word" placeholder="Min. délka slov"/>
+								<input type="text" class="form-control" name="seperator" placeholder="Oddělit" value=", " />
+								<input type="number" class="form-control" name="min_length_word" placeholder="Min. délka slov" value="3" />
 							</div>
 							<div class="col-sm">
 								<input type="text" class="form-control" name="ok_ltrs_mobile" id="mobile_keyboard" placeholder="Povolená písmena"/>
 								<div class="form-check">
-								  <input type="checkbox" class="form-check-input"  name="eng" id="eng">
+								  <input type="checkbox" class="form-check-input"  name="eng" id="eng" checked>
 								  <label class="form-check-label text-white" for="eng">
 								    Povolit anglický slova
 								  </label>
@@ -56,9 +56,9 @@
 								  </label>
 								</div>								
 								<div class="form-check">
-  									<input type="checkbox" class="form-check-input"  name="unique_words" id="unique_words">
+  									<input type="checkbox" class="form-check-input"  name="unique_words" id="unique_words" checked>
    									<label class="form-check-label text-white" for="unique_words">		
-								    Nedovolit opakování slov
+								    Neopakovat slova
 								  </label>
 								</div>									   													
 								<input type="number" class="form-control" name="length" placeholder="Délka"/>								
@@ -181,7 +181,7 @@
 							<label style="width: 208px;" for="key411"></label>		
 						</div>		
 					</section></section>
-       				<input type="submit" class="form-control btn-dark w-50" id="submit_btn" form="ok_ltrs_form" value="Vytvořit">			    		
+       				<input type="submit" class="form-control btn-dark w-25" id="submit_btn" form="ok_ltrs_form" value="Vytvořit">			    		
 	    		</form>	    		
 			</section>
 			{% if homework %}
