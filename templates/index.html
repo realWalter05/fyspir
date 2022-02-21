@@ -61,7 +61,7 @@
 								    Neopakovat slova
 								  </label>
 								</div>									   													
-								<input type="number" class="form-control" name="length" placeholder="Délka (A4 - 2200)"/>								
+								<input type="number" class="form-control" name="length" placeholder="Délka (A4 - 2900)"/>								
 							</div>							
 						</div>
 					</section>					
@@ -181,11 +181,11 @@
 							<label style="width: 208px;" for="key411"></label>		
 						</div>		
 					</section></section>
-       				<input type="submit" class="form-control text-white w-25" id="submit_btn" form="ok_ltrs_form" value="Vytvořit">			    		
+       				<input type="submit" class="form-control text-white w-25" id="submit_btn" form="ok_ltrs_form" value="Makeit">			    		
 	    		</form>	    		
 			</section>
 			{% if homework %}
-			<section class="homework_text col-sm w-50">
+			<section onclick="copyToClipboard(this.innerText);" class="homework_text col-sm w-50">
 				{{ homework }}
 			</section>
 			{% endif %}	
@@ -193,5 +193,15 @@
   	</main>
 	<footer>
 	</footer>
+	<script>
+		function copyToClipboard(text) {
+			const el = document.createElement('textarea');
+			el.value = text;
+			document.body.appendChild(el);
+			el.select();
+			document.execCommand('copy');
+			document.body.removeChild(el);
+		};
+	</script>
 </body>
 </html>
