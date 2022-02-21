@@ -15,7 +15,7 @@ header {
 
 }
 
-.navbar {
+.navbar, #submit_btn {
   background:	#292b2c !important;
 }
 
