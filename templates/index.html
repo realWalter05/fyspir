@@ -8,6 +8,7 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous"></script>  	
  	<meta name="viewport" content="width=device-width, initial-scale=1">	
+ 	<script src="../static/js/main.js"></script>
 </head>
 <body>
 	<header>
@@ -38,146 +39,146 @@
 						<div class="row mb-3">
 							<div class="col-sm w-25">
 								<input type="text" class="form-control" name="need_ltr" placeholder="Písmeno ve všech slovech"/>
-								<input type="text" class="form-control" name="seperator" placeholder="Oddělit" value=", " />
-								<input type="number" class="form-control" name="min_length_word" placeholder="Min. délka slov" value="3" />
+								<input type="text" class="form-control" name="seperator" onchange="SetToLS(this.id, this.value);" id="seperator" placeholder="Oddělit" value=", " />
+								<input type="number" class="form-control" name="min_length_word" onchange="SetToLS(this.id, this.value);" id="min_length_word" placeholder="Min. délka slov" value="3" />
 							</div>
 							<div class="col-sm">
-								<input type="text" class="form-control" name="ok_ltrs_mobile" id="mobile_keyboard" placeholder="Povolená písmena"/>
-								<div class="form-check">
-								  <input type="checkbox" class="form-check-input"  name="eng" id="eng" checked>
+								<input type="text" class="form-control" name="ok_ltrs_mobile" onchange="SetToLS(this.id, this.value);" id="mobile_keyboard" placeholder="Povolená písmena"/>
+								<div class="form-check" onclick="SetToLS('eng', document.getElementById('eng').checked);">
+								  <input type="checkbox" class="form-check-input" name="eng" id="eng" checked>
 								  <label class="form-check-label text-white" for="eng">
 								    Povolit anglický slova
 								  </label>
 								</div>								
-								<div class="form-check">
+								<div class="form-check" onclick="SetToLS('capitals', document.getElementById('capitals').checked);">
    									<input type="checkbox" class="form-check-input"  name="capitals" id="capitals">
    									<label class="form-check-label text-white" for="capitals">
 								    Velká písmena
 								  </label>
 								</div>								
-								<div class="form-check">
+								<div class="form-check" onclick="SetToLS('unique_words', document.getElementById('unique_words').checked);">
   									<input type="checkbox" class="form-check-input"  name="unique_words" id="unique_words" checked>
    									<label class="form-check-label text-white" for="unique_words">		
 								    Neopakovat slova
 								  </label>
 								</div>									   													
-								<input type="number" class="form-control" name="length" placeholder="Délka (A4 - 2900)"/>								
+								<input type="number" class="form-control" name="length" id="length" onchange="SetToLS(this.id, this.value);" placeholder="Délka (A4 - 2900)"/>								
 							</div>							
 						</div>
 					</section>					
 					<section class="keyboard_parent"><section class="keyboard"> 
 	        			<div>
-							<input type="checkbox" name="ok_ltrs" id="key100" value=";">
+							<input type="checkbox" name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key100" value=";">
 							<label style="background-image: url('../static/img/keyboard/row01/key00.png');" for="key100"></label>			
-							<input type="checkbox" name="ok_ltrs" id="key104" value="+">
+							<input type="checkbox" name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key104" value="+">
 							<label style="background-image: url('../static/img/keyboard/row01/key04.png');" for="key104"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key105" value="ě">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key105" value="ě">
 							<label style="background-image: url('../static/img/keyboard/row01/key05.png');" for="key105"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key106" value="š">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key106" value="š">
 							<label style="background-image: url('../static/img/keyboard/row01/key06.png');" for="key106"></label>	
-							<input type="checkbox" checked name="ok_ltrs" id="key107" value="č">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key107" value="č">
 							<label style="background-image: url('../static/img/keyboard/row01/key07.png');" for="key107"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key108" value="ř">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key108" value="ř">
 							<label style="background-image: url('../static/img/keyboard/row01/key08.png');" for="key108"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key109" value="ž">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key109" value="ž">
 							<label style="background-image: url('../static/img/keyboard/row01/key09.png');" for="key109"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key110" value="ý">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key110" value="ý">
 							<label style="background-image: url('../static/img/keyboard/row01/key10.png');" for="key110"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key111" value="á">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key111" value="á">
 							<label style="background-image: url('../static/img/keyboard/row01/key11.png');" for="key111"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key112" value="í">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key112" value="í">
 							<label style="background-image: url('../static/img/keyboard/row01/key12.png');" for="key112"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key103" value="é">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key103" value="é">
 							<label style="background-image: url('../static/img/keyboard/row01/key03.png');" for="key103"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key101" value="=">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key101" value="=">
 							<label for="key101" style="width: 0.1px"></label>							
-							<input type="checkbox" name="ok_ltrs" id="key102" value="´">
+							<input type="checkbox" name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key102" value="´">
 							<label style="background-image: url('../static/img/keyboard/row01/key02.png');" for="key102"></label>						
-							<input type="checkbox" name="ok_ltrs" id="key113" value="">
+							<input type="checkbox" name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key113" value="">
 							<label for="key113"></label>		
 							</div>     	
 						<div>
-							<input type="checkbox" name="ok_ltrs" id="key213" value="">
+							<input type="checkbox" name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key213" value="">
 							<label style="width: 0.1px" for="key213"></label>	
-							<input type="checkbox" checked name="ok_ltrs" id="key212" value="q">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key212" value="q">
 							<label style="background-image: url('../static/img/keyboard/row02/key12.png');" for="key212"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key211" value="w">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key211" value="w">
 							<label style="background-image: url('../static/img/keyboard/row02/key11.png');" for="key211"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key210" value="e">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key210" value="e">
 							<label style="background-image: url('../static/img/keyboard/row02/key10.png');" for="key210"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key209" value="r">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key209" value="r">
 							<label style="background-image: url('../static/img/keyboard/row02/key09.png');" for="key209"></label>			
-							<input type="checkbox" checked name="ok_ltrs" id="key208" value="t">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key208" value="t">
 							<label style="background-image: url('../static/img/keyboard/row02/key08.png');" for="key208"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key207" value="z">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key207" value="z">
 							<label style="background-image: url('../static/img/keyboard/row02/key07.png');" for="key207"></label>	
-							<input type="checkbox" checked name="ok_ltrs" id="key206" value="u">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key206" value="u">
 							<label style="background-image: url('../static/img/keyboard/row02/key06.png');" for="key206"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key205" value="i">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key205" value="i">
 							<label style="background-image: url('../static/img/keyboard/row02/key05.png');" for="key205"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key204" value="o">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key204" value="o">
 							<label style="background-image: url('../static/img/keyboard/row02/key04.png');" for="key204"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key203" value="p">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key203" value="p">
 							<label style="background-image: url('../static/img/keyboard/row02/key03.png');" for="key203"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key202" value="ú">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key202" value="ú">
 							<label style="background-image: url('../static/img/keyboard/row02/key02.png');" for="key202"></label>
-							<input type="checkbox" name="ok_ltrs" id="key201" value=")">
+							<input type="checkbox" name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key201" value=")">
 							<label style="background-image: url('../static/img/keyboard/row02/key01.png');" for="key201"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key200" value="¨">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key200" value="¨">
 							<label" for="key200"></label>
 						</div>
 						<div>
-							<input type="checkbox" checked name="ok_ltrs" id="key312" value="">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key312" value="">
 							<label style="width: 20px;" for="key312"></label>	
-							<input type="checkbox" checked name="ok_ltrs" id="key311" value="a">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key311" value="a">
 							<label style="background-image: url('../static/img/keyboard/row03/key11.png');" for="key311"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key310" value="s">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key310" value="s">
 							<label style="background-image: url('../static/img/keyboard/row03/key10.png');" for="key310"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key309" value="d">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key309" value="d">
 							<label style="background-image: url('../static/img/keyboard/row03/key09.png');" for="key309"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key308" value="f">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key308" value="f">
 							<label style="background-image: url('../static/img/keyboard/row03/key08.png');" for="key308"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key307" value="g">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key307" value="g">
 							<label style="background-image: url('../static/img/keyboard/row03/key07.png');" for="key307"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key306" value="h">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key306" value="h">
 							<label style="background-image: url('../static/img/keyboard/row03/key06.png');" for="key306"></label>	
-							<input type="checkbox" checked name="ok_ltrs" id="key305" value="j">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key305" value="j">
 							<label style="background-image: url('../static/img/keyboard/row03/key05.png');" for="key305"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key304" value="k">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key304" value="k">
 							<label style="background-image: url('../static/img/keyboard/row03/key04.png');" for="key304"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key303" value="l">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key303" value="l">
 							<label style="background-image: url('../static/img/keyboard/row03/key03.png');" for="key303"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key302" value="ů">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key302" value="ů">
 							<label style="background-image: url('../static/img/keyboard/row03/key02.png');" for="key302"></label>
-							<input type="checkbox" name="ok_ltrs" id="key301" value="§">
+							<input type="checkbox" name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key301" value="§">
 							<label style="background-image: url('../static/img/keyboard/row03/key01.png');" for="key301"></label>
-							<input type="checkbox" name="ok_ltrs" id="key300" value="">
+							<input type="checkbox" name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key300" value="">
 							<label style="width: 160px;" for="key300"></label>
 						</div>
 						<div>
-							<input type="checkbox" name="ok_ltrs" id="key400" value="">
+							<input type="checkbox" name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key400" value="">
 							<label style="width: 68px;" for="key400"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key410" value="y">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key410" value="y">
 							<label style="background-image: url('../static/img/keyboard/row04/key10.png');" for="key410"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key409" value="x">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key409" value="x">
 							<label style="background-image: url('../static/img/keyboard/row04/key09.png');" for="key409"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key408" value="c">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key408" value="c">
 							<label style="background-image: url('../static/img/keyboard/row04/key08.png');" for="key408"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key407" value="v">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key407" value="v">
 							<label style="background-image: url('../static/img/keyboard/row04/key07.png');" for="key407"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key406" value="b">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key406" value="b">
 							<label style="background-image: url('../static/img/keyboard/row04/key06.png');" for="key406"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key405" value="n">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key405" value="n">
 							<label style="background-image: url('../static/img/keyboard/row04/key05.png');" for="key405"></label>
-							<input type="checkbox" checked name="ok_ltrs" id="key404" value="m">
+							<input type="checkbox" checked name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key404" value="m">
 							<label style="background-image: url('../static/img/keyboard/row04/key04.png');" for="key404"></label>
-							<input type="checkbox" name="ok_ltrs" id="key403" value=",">
+							<input type="checkbox" name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key403" value=",">
 							<label style="background-image: url('../static/img/keyboard/row04/key03.png');" for="key403"></label>		
-							<input type="checkbox" name="ok_ltrs" id="key402" value=".">
+							<input type="checkbox" name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key402" value=".">
 							<label style="background-image: url('../static/img/keyboard/row04/key02.png');" for="key402"></label>
-							<input type="checkbox" name="ok_ltrs" id="key401" value="-">
+							<input type="checkbox" name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key401" value="-">
 							<label style="background-image: url('../static/img/keyboard/row04/key01.png');" for="key401"></label>
-							<input type="checkbox" name="ok_ltrs" id="key411" value="">
+							<input type="checkbox" name="ok_ltrs" onclick="SetToLS(this.id, this.checked);" id="key411" value="">
 							<label style="width: 208px;" for="key411"></label>		
 						</div>		
 					</section></section>
@@ -193,15 +194,6 @@
   	</main>
 	<footer>
 	</footer>
-	<script>
-		function copyToClipboard(text) {
-			const el = document.createElement('textarea');
-			el.value = text;
-			document.body.appendChild(el);
-			el.select();
-			document.execCommand('copy');
-			document.body.removeChild(el);
-		};
-	</script>
 </body>
+<script type="text/javascript">FillInputsFromLS();</script>
 </html>
