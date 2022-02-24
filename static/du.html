@@ -33,14 +33,9 @@
 	</header>
  	<main id="homework_main">
  		<div class="row">
- 			<section class="row p-2 control_side col-sm w-50 text-white">
-				Tato nezisková stránka se hlasitě vymezuje vůči používání jejich služeb pro obcházení povinností uvalené na studenty jakých koliv škol.
+ 			<section class="row p-3 control_side col-sm w-50 text-white">
+				Tato nezisková stránka se hlasitě vymezuje vůči používání jejich služeb pro obcházení povinností uvalené na studenty jakýchkoliv škol. Využití a jediný možný akceptovatelný účel je zjednodušení vyhledávání slov v učebnici. Stránka slouží k ulehčení tohoto procesu, ale v žádném případě ne k jejímu obcházení.
 			</section>
-			{% if homework %}
-			<section onclick="copyToClipboard(this.innerText);" class="homework_text col-sm w-50">
-				{{ homework }}
-			</section>
-			{% endif %}
 		</div>
   	</main>
 	<footer>
