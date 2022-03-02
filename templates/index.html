@@ -33,7 +33,7 @@
 	</header>
  	<main id="homework_main">
  		<div class="row">
- 			<section class="row p-2 control_side col-sm w-50">
+ 			<section class="row p-2 control_side col-lg-3 container">
 				<form method="GET" class="keyboard_form w-100" id="ok_ltrs_form">
 					<section class="inputs">
 						<div class="row mb-3">
@@ -186,7 +186,7 @@
 	    		</form>	    		
 			</section>
 			{% if homework %}
-			<section onclick="copyToClipboard(this.innerText);" class="homework_text col-sm w-50">
+			<section onclick="copyToClipboard(this.innerText);" class="homework_text col-lg-3 container">
 				{{ homework }}
 			</section>
 			{% endif %}	

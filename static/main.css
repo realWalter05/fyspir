@@ -61,10 +61,24 @@ body {
     background-color: #292b2c;
 }
 
-.control_side {
-  width: 45vw !important;
-}
-
 .inputs {
   width: 40vw;
+}
+
+@media only screen and (max-width: 1000px) {
+  .control_side {
+    width: 93vw !important;
+  }
+
+  .inputs {
+    width: 93vw;
+  }
+
+  .inputs .w-25 {
+    width: 100% !important;
+  }
+
+  .homework_text {
+    width: 93vw !important;
+  }
 }
