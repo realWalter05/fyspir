@@ -24,7 +24,7 @@
                                 <a href="/" class="nav-link">TESTS</a>
                             </li>
                             <li class="nav-item">
-                                <a href="../static/du.html" class="nav-link">DÚ</a>
+                                <a href="../static/du.html" class="nav-link">US</a>
                             </li>
                         </ul>
                     </div>
@@ -33,7 +33,7 @@
 	</header>
  	<main id="homework_main">
  		<div class="row">
- 			<section class="row p-2 control_side col-lg-3 container">
+ 			<section class="row p-2 control_side container">
 				<form method="GET" class="keyboard_form w-100" id="ok_ltrs_form">
 					<section class="inputs">
 						<div class="row mb-3">
@@ -48,12 +48,6 @@
 								  <input type="checkbox" class="form-check-input" name="eng" id="eng" checked>
 								  <label class="form-check-label text-white" for="eng">
 								    Povolit anglický slova
-								  </label>
-								</div>
-								<div class="form-check" onclick="SetToLS('capitals', document.getElementById('capitals').checked);">
-   									<input type="checkbox" class="form-check-input"  name="capitals" id="capitals">
-   									<label class="form-check-label text-white" for="capitals">
-								    Velká písmena
 								  </label>
 								</div>
 								<div class="form-check" onclick="SetToLS('unique_words', document.getElementById('unique_words').checked);">
@@ -186,7 +180,7 @@
 	    		</form>
 			</section>
 			{% if homework %}
-			<section onclick="copyToClipboard(this.innerText);" class="homework_text col-lg-3 container">
+			<section onclick="copyToClipboard(this.innerText);" class="homework_text container">
 				{{ homework }}
 			</section>
 			{% endif %}

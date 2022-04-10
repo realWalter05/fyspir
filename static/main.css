@@ -36,12 +36,16 @@ body {
 
 .homework_text {
     height: 80vh;
-    width: 45vw;
+    width: 45vw !important;
     background: rgba(0, 0, 0, 0.5);
     font-family: 'Poppins', sans-serif;
     color: white;
     overflow-y: scroll;
     overflow-x: hidden;
+}
+
+.control_side {
+  width: 45vw !important;
 }
 
 .homework_text::-webkit-scrollbar {
